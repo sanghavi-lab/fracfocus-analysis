@@ -1,0 +1,94 @@
+DATA CLEANING LOG 
+R SCRIPT: MASTER_CLEANING.R
+
+Level 1 output: 
+  - Data downloaded in CSV format on 1/26/2018
+  - Read csv with stringsAsFactors=False, and APINumber as character string (to avoid scientific notation)
+  - Combined all registry data into master table
+
+Level 2 output:
+  - Deleted any non-ASCII characters in character fields of master table
+      * 9805 entries with non-ASCII characters; all either \n or \t  [1023 in 1/19/19 addition]
+
+Level 3 output:
+  - Excluded all 43,972 submissions made to Frac Focus 1.0 [88,184 excluded in 1/19/19 addition, though these included many repeats from previous cleaning's exclusions]
+  - Excluded duplicate UploadKeys (49,729 rows) - Quality Assurance check 1 [12,312 in 1/19/19 addition]
+      * Inspection revealed that while each UploadKey had a unique JobStartDate/JobEndDate/APINumber combination, duplicate batches of submissions existed under different UploadKeys
+      * 91,181 unique UploadKeys; each have unique JobStartDate, JobEndDate, APINumber combination [18,921]
+      * 89,753 unique JobStartDate/JobEndDate/APINumber combinations; 1428 duplicate UploadKeys [18,570; 351]
+  - Excluded jobs starting before Jan 1, 2011 (983 submissions) - Quality Assurance check 2 [2,434]
+      * Range of JobStartDates is Jan 1, 2011 - Jan 9, 2018 [Dec. 31, 2018]
+  - Checked that Latitude/Longitude matched StateName
+      * Converted coordinates in NAD27 projection to coordinates in NAD83 
+          * 2,170,883 [414,887] rows (59,847 [10,386] jobs; 57,383 [10,190] wells) in NAD27: converted to NAD83
+              * Consideration: Could this be inaccurate (e.g. if NAD27 is automatically selected in FF submission form)?
+          * 859,655 [262,752] rows (28,799 [7,723] jobs; 28,180 [7,600] wells) in NAD83
+          * 32,926 [16,285] rows (1,069 [397] jobs; 1,018 [391] wells) in WGS84
+          * Several manual changes based on errors encountered in NAD conversion:
+              * "97ede299-d713-4513-b747-b69111a3fdb3": Longitude listed as -98732102099; converted to -98.732102099
+              * "37efb1fa-9374-4599-a2c3-06329a4698cf", "4c98e6ef-ce5e-44ff-919e-66ab0fd41541", "4147a953-7153-40c1-9bad-0767c12918ec", "1ab9b958-217a-48d3-bbf4-8c7bdc1ed555", "3fc8528b-f5d3-45d2-a93f-5dc03b87b31f", "663646fd-5c4b-4c87-a1d9-3b664a682f0d": switched Longitude and Latitude entries 
+              * "4811d5e8-7aba-4e8d-a7b7-4e7a5c12d6c9": made Longitude (103.26030) negative
+              * "67687f1a-9c3a-4207-b4cb-1a7c8917ef28": made Longitude (103.26108) negative
+              * ["84115b41-f470-4ae8-a9a7-9721006e3711", "10993081-6739-4d9e-9056-b314b07d7fb5": switched Latitude and Longitude entries]
+              * ["4267797c-63d3-448c-97af-edec3d9934f9", "d2eaf41d-bf01-407e-8e7f-13d9de224a9a", "72fd733e-2ab2-430d-910b-37f97bdcc248", "5d286e91-4a59-46f4-bd35-4e6e0e4286c5", "f838249d-7308-4de4-a4b2-7e234f896256", "879a6b42-a30f-4d15-8924-eeb6c00f9ea3": made Longitude negative]
+          * Divided into 16 [4] files of 4,000 rows or less; fed manually into NGS Coordinate Conversion and Transformation Tool (NCAT) Multipoint conversion tool (https://www.ngs.noaa.gov/NCAT/ - accessed Feb 28- March 1, 2018 [Jan. 26, 2019])
+          * 16 [4] output files aggregated into one table of UploadKey, ConvertedLatitude, ConvertedLongitude
+          * Two output UploadKeys had N/A destLat, destLon because srcLat or srcLon entered as 0
+              * "e485e4d8-8acd-4272-9e8b-1eb8b9ec8005": 12 submissions
+              * "27eabae4-1df7-460b-a67d-79a4a883c160": 16 submissions
+      * Use FCC Area API (https://geo.fcc.gov/api/census/ - accessed Mar 4, 2018 [Jan 26, 2019]) to assign columns StateNameFromCoords, StateNumberFromCoords, StateAbbFromCoords, CountyNameFromCoords, and CountyCodeFromCoords; based on LatitudeClean and LongitudeClean 
+          * 9 UploadKeys returned no results; these assigned to NA for those columns: "35646d31-be1b-4755-9e98-80e15a2665b7", "5426cd3e-061b-4626-99b5-93451e19bb8a", "5fa1375d-c1fc-4c44-ac37-1d8546f530f0", "8fc1b1fd-1163-4cf4-a1a1-7a98a6b9bc75", "e485e4d8-8acd-4272-9e8b-1eb8b9ec8005", "31b8dae3-e223-48d7-bddc-8dc965f9d627", "68294766-c97b-4986-9091-84234a42ff61", "27eabae4-1df7-460b-a67d-79a4a883c160", "aa1fb665-7e35-4917-9ed7-724d63fa45fc"
+          * Merged this with master table
+      * Added StateOK and CountyOK logical columns containing TRUE if and only if StateName matches StateNameFromCoords (or with CountyName) 
+          * 33/89,715 [16/18,506] UploadKeys that do not match States = 1,023/3,063,464 [695/693,924] rows
+          * 2,827 [370] UploadKeys that do not match Counties = 89,301 [11,580] rows
+  - Fixed Supplier misspellings in new SupplierClean field
+      * Generated "supplier aliases.csv" with misspellings of all different companies
+      * SupplierClean field generated with first correct name of each, or "UNIDENTIFIABLE" if unidentifiable 
+
+Level 4 output:
+  - Created CASLabel field, containing Valid, Confidential, Proprietary, Trade Secret, Not Available, and Invalid
+      * Valid CASNumbers had to pass the CAS Number verification test (support.cas.org/content/chemical-substances/checkdig)
+      * Confidential, Proprietary, Trade Secret, and Not Available were all assigned by specific input values from CASNumber field (see MASTER_CLEANING.R) 
+  - Created CASNumberClean by eliminating all leading zeros from mathematically valid CASNumber entries; non valid CASNumbers listed as NA
+      * Trimmed 87,856 [8,323] valid CASNumber entries with leading zeros
+  - Created IngredientNameClean field by checking CASNumberClean entries against chemical databases, in the following order:
+    NIH: http://chem.sis.nlm.nih.gov/chemidplus/rn/ (1,129 [59] names verified)
+    EPA: http://ofmpub.epa.gov/sor_internet/registry/substreg/searchandretrieve/substancesearch/search.do? (manual - 1 name verified)
+    ChemNet: http://www.chemnet.com/ (9 [0] names verified)
+    NIST: http://webbook.nist.gov/chemistry/cas-ser.html (5 [0] names verified)
+    CommonChemistry: http://www.commonchemistry.org/ (0 names verified)
+    SigmaAldrich: http://www.sigmaaldrich.com/catalog/AdvancedSearchPage.do (2 [0] names verified)
+    SciFinder: https://scifinder.cas.org/ (manual - 46 [7] names verified) 
+      * 1,192 CASNumber-name combinations verified in total
+      * 7 [4] CASNumber entries unverifiable; these were changed to "Invalid" under CASLabel and assigned NA in IngredientNameClean
+      * 1,192 unique CASNumberClean entries; 1,175 unique IngredientNameClean entries (difference from multiple/outdated CAS numbers per chemical)
+  - 7,396 NA/Invalid water/saltwater ingredients re-marked as Valid with CASNumber 7732-18-5 (only 1 from FF3)
+  - Created SystemApproachFlag field: TRUE if CASNumber equals "Listed", "SystemDisclosure", or "ListedBelow"; or if IngredientName contains "listed below" (ignoring case); or if IngredientName equals "Listed with chemicals", "Listed with Ingredients", "Listed with Other Chemicals", "Listed with Other ingredients", "Listed with Chemicals", or "Listed with Chemical Ingredients". FALSE otherwise.
+      * 113,853 [100,237] rows flagged as System Approach
+      * Relabeled CASLabel for these rows as "Systems Approach"
+  - Created WithheldFlag field: FALSE if CASLabel is "Valid" or "Systems Approach"; TRUE if CASLabel is "Invalid", "Proprietary", "Confidential", "Trade Secret", or "Not Available"
+  - Created FormUsedSystemApproach field: TRUE if any ingredient on the same form (UploadKey) was flagged as a Systems Approach entry [9,905 / 18,506]
+
+Level 5 output [not relevant for data update, since all forms were included in entirety in download]:
+  - Neither the CSV or SQL databases provided by FracFocus contained the raw chemicals for the FF3.0 forms using the Systems Approach, so:
+  - Downloaded all FF3.0 Systems Approach disclosure PDFs with Selenium WebDriver by searching Well Name and downloading all results
+  - Converted these with tabula-py into readable CSV files
+  - For each FF3.0 SA well, data was read in from CSV file if available and if 1 single matching file (8,763/9,376 forms)
+      * 110 forms had 0 matching files; unknown reason
+      * 503 forms had >1 matching files; these left out for now, but may be included in future
+  - Added raw chemical rows from PDFs to master table, verifying CAS numbers by removing spaces and leading zeroes and checking if they had appeared as a clean CAS number previously
+      * 49 unique CAS numbers had not appeared previously; these were matched against the NIH database (40) and SciFinder (3). These were labeled as Valid and not Withheld, with appropriate CASNumberClean and IngredientNameClean fields filled in.
+      * The remaining 6 were labeled as Invalid and Withheld.
+      * One "Not Available" marker, "CASnotassigned", was added to the list; all other markers were already accounted for. Appropriate CASLabels were given to all non-Valid CASNumbers based on these markers.
+      * 54 ingredients from the PDFs remained Invalid, mostly due to mathematically invalid CAS Numbers.
+  - Created FromPDF logical field, indicating whether that row (ingredient) was from a scraped PDF or the original downloaded CSVs [all updated assigned FALSE]
+  - Created SubmissionsAvailable logical field, only FALSE if form was from FF3.0, used the Systems Approach, and was not scrapable from PDFs [all updated assigned TRUE]
+
+
+[Combined 1/26/18 original and 1/19/19 updated data sets, and added DownloadDate column specifying which data set this came from]
+
+
+Post cleanup subsets:
+  - "final cleaned analysis subset.csv": L5 cleaned table filtered to include only those with unambiguous state locations (excluded 1,023 submissions from 33 forms)
+  - "final cleaned analysis subset ESSENTIALS.csv": analysis subset (above) with only certain important fields

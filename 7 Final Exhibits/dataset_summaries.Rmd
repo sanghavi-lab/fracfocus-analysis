@@ -1,0 +1,59 @@
+---
+title: "FracFocus Details"
+author: "Kevin Trickey"
+date: "2/9/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(dplyr)
+```
+
+
+```{r}
+L5_updated_master_table <- tbl_df(read.csv("~/Dropbox/Users/Kevin-Mac-201808/Fracking studies/8 Update Data/L5_updated_master_table.csv", 
+                                           stringsAsFactors = FALSE, 
+                                           colClasses = c("APINumber"="character"))) %>% select(-X)
+# 
+# Only raw chemicals: not including supplier ingredients in Systems Approach
+L5_chemicals <- L5_updated_master_table %>% filter(!SystemApproachFlag)
+```
+
+
+## Distribution of ingredients per form
+
+These "trade name" ingredients are the ones submitted with Trade Names, and may be composed of one or more chemicals. Here is a summary of the number of trade name ingredients per form, and the number of those that are fully disclosed vs. the number of them that withhold any of their comprising chemicals. PctWithholding refers to the percentage of trade name ingredients in the form that withhold any chemicals.
+
+```{r}
+
+L5_trade_names <- L5_chemicals %>%
+  group_by(UploadKey, PurposeKey) %>%
+  summarize(Withholding = sum(WithheldFlag)!=0) %>%
+  group_by(UploadKey) %>%
+  summarize(TradeNameIngredients = n(), WithholdingIngredients = sum(Withholding)) %>%
+  mutate(FullyDisclosedIngredients = TradeNameIngredients - WithholdingIngredients, 
+         PctWithholding = WithholdingIngredients / TradeNameIngredients * 100)
+summary(L5_trade_names)
+
+```
+
+For reference, this is the distribution of raw chemicals per trade name ingredients:
+```{r}
+summary(L5_chemicals %>% group_by(UploadKey, PurposeKey) %>% summarize(chems_per_ingr = n()) %>% pull(chems_per_ingr))
+```
+
+
+## Distribution of raw chemicals per form
+
+Here is a summary of the number of raw chemicals per form. "DisclosedRows" refers to the number of individual, raw chemicals (CAS numbers) disclosed within the form. "WithheldRows" refers to the number of withheld ingredients per form. We don't know how many raw chemicals correspond to each withheld ingredient (this is our denominator problem).
+
+```{r}
+
+chemicals_per_form <- L5_chemicals %>% group_by(UploadKey) %>%
+  summarize(TotalRows = n(), WithheldRows = sum(WithheldFlag)) %>%
+  mutate(DisclosedRows = TotalRows - WithheldRows, PctWithheld = WithheldRows/TotalRows*100)
+
+summary(chemicals_per_form)
+
+```

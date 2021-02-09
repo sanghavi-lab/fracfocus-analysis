@@ -1,0 +1,9341 @@
+  Bertolla 30-19 HC-1
+  McCubbin 3130-19-15 1H
+  WETHERBEE 9 H 2-ALT
+  Youberg SR 11-12
+  Youberg SR 331-12
+  Youberg SR 431-12
+ 356-J-10H
+ 363B-I-10H
+ 4-64 15-16 2BHZ
+ 4GH 1-3H
+ 4J Mineral 3H
+ 4J Mineral 4H
+ 4J Minerals Unit 6H
+ 4J Minerals Unit 7H
+ A A McAllen B #90
+ A N Nivens 1H
+ ABE 30-31 #3H
+ ABE 30-31 #4H
+ Abe Troyer 2H
+ Abe Troyer 4H
+ Abe Troyer 6H
+ AH Irby 1
+ AIRSTRIP 31 18 RN STATE COM 132H
+ Albrighton A-10HN
+ Albrighton B-10HN
+ Albrighton C-10HN
+ Albrighton D-10HN
+ Albrighton E-10HC
+ Albrighton F-10HN
+ Albrighton H-10HC
+ Albrighton I-10HN
+ Albrighton J-10HN
+ Albrighton K-10HC
+ Albrighton L-10HN
+ Aldean 3-10-18N-2E 1WH
+ Aldean 3-10-18N-2E 2WH
+ Aldean 34-27-19N-2E 1WH
+ Aldean 34-27-19N-2E 2WH
+ Alderfer 03-109-01
+ Alderfer 03-109-02
+ Alderfer 03-109-03
+ Alderfer 03-109-04
+ Alderfer 03-109-05
+ Alderfer 03-109-06
+ Alderfer 03-109-07
+ Allen Unit A  3
+ Allen Unit A 4
+ Allen Unit A 5
+ ALLES 22D-312
+ Alliance 1H
+ Alliance 2H
+ Anderson GC C2
+ Anderson GC C3
+ Angus Trust  8-33-4XH
+ Angus Trust 1-4-33XH
+ Angus Trust 10-33-4XH
+ Angus Trust 11-33-4XH
+ Angus Trust 12-33-4XH
+ Angus Trust 9-33-4XH
+ Anita Fowler 1-27X26H
+ ANNE COM 15 24S 28E RB 201H
+ Anni LD29-755
+ Anni LD29-763
+ Anni LD29-771
+ Annie Trial Et Al 1H
+ Annie Trial Et Al 2H
+ Anschutz Equus Farms 4-62-20-0108B2
+ Anschutz Equus Farms 4-62-20-0108C2B
+ Anschutz Equus Farms 4-62-20-1609C2
+ Anschutz Equus Farms 4-62-20-1724B2
+ Anschutz Equus Farms 4-62-20-3225D2
+ Anschutz Equus Farms 4-62-29-0801CNB
+ Anschutz Equus Farms 4-62-29-0916C
+ Anschutz Equus Farms 4-62-29-2417C
+ Anschutz Equus Farms 4-62-29-2532CN
+ Anschutz Equus Farms 4-62-29-2532CS
+ Anschutz Equus Farms 4-62-29-4033C
+ Anschutz Equus Farms 4-62-29-4148C
+ Anschutz State Fed  5-62-27-0164C2
+ Anschutz State Fed  5-62-27-0263B2
+ Anschutz State Fed 5-62-27-0461C2
+ Anschutz State Fed 5-62-27-0560B2
+ Anschutz State Fed 5-62-27-0659B2
+ Anschutz State Fed 5-62-27-0659C2
+ Antelope 9 B2NC State 1H
+ Anton 34-33TFH
+ Apres Vous 24-13-14N-8W 1HX
+ Arden USA 14-9TFH
+ ARGENTINE 71 1H
+ Arleta K 1-20-29XH
+ Armour Trust ET AL #2
+ ARNO 78-TTT-B33 WF 121H
+ ARNO 78-TTT-B33 WF 122H
+ Arnold AB Allocation A 21H
+ Arnold AB Allocation B 22H
+ Arnold AB Allocation C 23H
+ Arnold AB Allocation D 24H
+ Arnold B Unit 20H
+ ARTEMIS 42/06 F 4236H
+ ARTEMIS 42/06 H 4238H
+ ATWOOD 11-2 H 001
+ ATWOOD 11-2 H 002
+ Atzger Unit 5H
+ Atzger Unit 6H
+ Atzger Unit A 1H
+ Atzger Unit A 2H
+ Austin 11-9 1-33H28
+ Austin 11-9 2-33H28
+ Austin 11-9 3-33H28
+ Austin 11-9 4-33H27
+ Austin 11-9 5-33H
+ Austin 11-9 7-33H9
+ Autrey 25-36 H 001
+ Autrey 25-36 H 002
+ Autrey 25-36 H 003
+ Autrey 25-36 H 004
+ Avant North Unit 10H
+ Avant North Unit 11H
+ Avant North Unit 12H
+ Azores Fed #7H
+ AZORES FEDERAL 008H
+ AZORES FEDERAL 12H
+ Azul 13 State Federal Com 1H
+ B Banker 33-23S-28E RB 206H
+ B Banker 33-23S-28E RB 221H
+ B Banker 33-23S-28E RB 226H
+ Baby Ruth 18-1H
+ BAC Realty 1H
+ BAC Realty 2H
+ Bachtel  #1 
+ Baetz A EF 5H
+ Baetz A EF 6H
+ Baetz EF 4H
+ Bagley 13-12 H 001
+ BAGLEY 13-12 H 002
+ BAGLEY 13-12 H 003
+ Bagley 18-7 H 001
+ Bailey 1-34-3XH
+ Bailey 103H
+ Bailey 2H
+ Bailey 4H
+ Bailey-Retzloff Unit  4H
+ Bailey-Retzloff Unit  5H
+ Bailey-Retzloff Unit  6H
+ Bailey-Retzloff Unit  7H
+ Bailey-Retzloff Unit  AC 3H
+ Bakos SW CLR BL 10H
+ Bakos SW CLR BL 2H
+ Bakos SW CLR BL 8H
+ Bakos SW CLR BL 9H
+ Baldy Butte 19-80H
+ BARBARA STATE 1H
+ BARBEE B 2-1 (ALLOC-F) 6SC
+ BARBEE B 47-1 (ALLOC-D) 4SU
+ BARBEE B 47-38 (ALLOC-E) 5NU
+ Bargmann Trust Unit  B15
+ Bargmann Trust Unit B 20
+ Bargmann Trust Unit B 22
+ Bargmann Trust Unit B 4
+ Bargmann Trust Unit B 5
+ Bargmann Trust Unit B 6
+ Barnett 29-28-11-21 2H
+ Barnett 29-28-11-21 3H
+ Barnett 9-10 2-1H36
+ Barnett 9-10 3-1H36
+ BARNETT 90-TTT-B01 WF 104H
+ Barnett 90-TTT-B01 WF 203H
+ Barnett 90-TTT-B01 WF 217H
+ BARNETT 90-TTT-B01 WF 224H
+ Barnett AW  3H
+ Barnett AW 5H
+ Barney 1808 35-1MH
+ Barnhart 33H
+ Barnhart 34H
+ Barnhart 35H
+ Barnhart 36H
+ Barr 1807 35-1LOH
+ BARSTOW 3652H
+ BARSTOW UNIT 34 173 7351H
+ BATES 1-10H
+ Bauer N U2H
+ Bauer S U1H
+ Bayfield Federal GU 1
+ Bead Unit 2H
+ Bear Creek Federal  31X-3C
+ Bear Creek Federal 31X-3FXG
+ BEARS 4-30
+ Beaver Creek 41-36-1PH
+ Beavers 9-8 5-22H26
+ Beck  14-8H
+ Beck 24-8H
+ Beebe 11C-26-M
+ Beebe 11N-26A-M
+ Beebe 11N-26C-M
+ Beebe 14C-26-M
+ Beebe 14N-26B-M
+ Beebe 23C-26-M
+ Beebe 23N-26C-M
+ Beebe 25C-26-M
+ Beebe 25N-26B-M
+ Beebe 36C-26-M
+ Beebe 36N-26B-M
+ Beebe 36N-26C-M
+ Bellah Unit 7H
+ Bellah Unit A 1H
+ Benavides Family Minerals #8H
+ Benavides Family Minerals 9H
+ Benda 1H-27
+ Benda 2H-27
+ Bennett LD19-758
+ Bennett LD19-765
+ Bennett LD19-771
+ Bennett LD19-777
+ Bennett LD19-781
+ Bennett LD19-785
+ Bennett Trust 8-12 6-11H3
+ Beretta  Federal LC24-755
+ Beretta Federal LC24-760
+ Beretta Federal LC24-765
+ Bernhardt 3R-13H
+ Bernhardt 4-13H
+ Bernhardt 5-13H
+ Berryman  4-17-23 1HA
+ Berryman  9-17-23 1HA
+ Berryman 21 1HA
+ Berryman Trust 22-1HA
+ BETTYE JANE UNIT 2H
+ BF Fallin 22-15-10  H 001
+ BF Fallin 27-34 H 001
+ BF Fallin 27-34 H 002
+ BIG GIPPER STATE UNIT 2506H
+ BIG GIPPER STATE UNIT 2507H
+ Big John 1-14X23H
+ Bihain 26F-232RD
+ Bihain 26F-332
+ Bihain 26G-202
+ Bihain 26G-212
+ Bihain 26G-312
+ BILLY BURT 90-TTT-B33 WF 121H
+ BILLY BURT 90-TTT-B33 WF 124H
+ Binder 3-13H
+ Bird 1-36-1XH
+ Bird Run 10H
+ Bird Run 12H
+ Bird Run 8H
+ Bishop North 1-15/10/3H
+ Bishop North 2-14/11/2H
+ Bivins East 9802H
+ Black Jack 16 7H
+ Blackstone O#2
+ BLACKWELL-EYHORN B 6H
+ BLACKWELL-EYHORN B 7H
+ Blaha Unit A 3H
+ BLISSARD 20-29 1H
+ Bloomfield 1H-21
+ Blurton 2-7-6XH
+ Blurton 3-7-6XH
+ Blurton 5-7-6XH
+ Blurton 6-7-6XH
+ Blurton 7-7-6XH
+ Blurton 8-7-6XH
+ Boal 2-14H
+ BODDEN UNIT 3H
+ BODDEN UNIT 4H (A2H)
+ BODDEN UNIT 5H
+ BODDEN UNIT A1H
+ BODINE A 174-15 (ALLOC-E) 5NM
+ BODINE A 174-15 (ALLOC-F) 6NM
+ Bolan ET AL 26-35 HC 001-ALT
+ Bolan ET AL 26-35 HC 002-ALT
+ BOLAN ET AL 27-34 001
+ BOLENE 14-16N-3E 1MH
+ BOLENE 14-16N-3E 2MH
+ Bolles NW 1H
+ Bollingham 18-7HC 001-ALT
+ Bollingham 18-7HC 002-ALT
+ Bomhoff 20-12-7 1H
+ Bomhoff 20-12-7 2H
+ Bonnie 2-3H
+ Bonnie 3-3H
+ BONNIE 35 FEDERAL COM 4H
+ Bonnie 4-3H
+ Bonnie 5-3H
+ Boomer 3-10-18N-2E 1WH
+ Boomer 34-27-19N-2E 1WH
+ Boone Coffee  6HB
+ Boone Coffee  7HA
+ Boone Coffee 5HB
+ BOONE COFFEE 80 208HL
+ BOONE-COFFEE (PSA) 10 10HA
+ BOONE-COFFEE (PSA) 3 3HB
+ BOONE-COFFEE (PSA) 4 4HB
+ BOONE-COFFEE 10 101HB
+ BOONE-COFFEE 10 201HL
+ BOONE-COFFEE 20 202HB
+ BOONE-COFFEE 20 202HL
+ BOONE-COFFEE 60 106HA
+ BOONE-COFFEE 60 206HL
+ BOONE-COFFEE 70 207HL
+ Boren GU  #2
+ Borovich W RCH BL 1H
+ Borovich W RCH BL 3H
+ Boston Texas Land & Trust  63
+ Boulder  11D2-7D
+ Boulder  12D1-34D
+ Boulder  4D1-20D
+ Boulder  5C1-20D
+ Boulder 10-33-B-1H
+ Boulder 10B2-7D
+ Boulder 10C2-7D
+ Boulder 10D2-7D
+ Boulder 11A1-20D
+ Boulder 11A1-7D
+ Boulder 11A2-34D
+ Boulder 11A2-7D
+ Boulder 11B1-7D
+ Boulder 11B2-34D
+ Boulder 11C1-19D
+ Boulder 11C1-20D
+ Boulder 11C1-34D
+ Boulder 11D1-20D
+ Boulder 11D2-19D
+ Boulder 12B1-34D
+ Boulder 12C1-20D
+ Boulder 12C1-34D
+ Boulder 12D1-20D
+ Boulder 12D1-9D
+ Boulder 13A1-19D
+ Boulder 13A1-34D
+ Boulder 13B2-34D
+ Boulder 13C1-34D
+ Boulder 13C2-17D
+ Boulder 13D1-34D
+ Boulder 13D2-34D
+ Boulder 14A1-7D
+ Boulder 14A2-34D
+ Boulder 14B1-20D
+ Boulder 14C1-19D
+ Boulder 14C1-34D
+ Boulder 14D1-19D
+ Boulder 14D1-34D
+ Boulder 14D1-7D
+ Boulder 15A2-7D
+ Boulder 15B2-7D
+ Boulder 15C2-7D
+ Boulder 3C1-20D
+ Boulder 4B1-20D
+ Boulder 5A1-7D
+ Boulder 5D1-20D
+ Boulder 5D2-34D
+ Boulder 6A1-20D
+ Boulder 6C1-20D
+ Boulder 6C1-7D
+ Boulder 6D1-20D
+ Boulder 6D1-7D
+ Boulder 7C2-7D
+ Boulter PC G11-20D
+ Boulter PC-G11-33D
+ BP Monument Lake  11-150H
+ BP Monument Lake  11-155H
+ BR 1-27HLC
+ Bradfield Gas Unit CH1
+ Bragg 3-35-X02H
+ Branch 2H-14
+ BRANTLEY STATE COM 13-24S-27E RB 221H
+ BRASS MONKEY STATE UNIT 801H
+ BRASS MONKEY STATE UNIT 802HR
+ BRASS MONKEY STATE UNIT 804H
+ BRASS MONKEY STATE UNIT 805H
+ BRASS MONKEY STATE UNIT 851H
+ BRASS MONKEY STATE UNIT 852H
+ BRASS MONKEY STATE UNIT 853H
+ BRASS MONKEY STATE UNIT 874H
+ BRD CAMDEN 23/12 A 91WB
+ BRD CAMDEN 23/12 A 92WA
+ BRD CAMDEN 23/12 B 93WB
+ BRD CAMDEN 23/12 B 94WA
+ Breckenridge 27-20N-17W 1H
+ Bridger 10-14H2
+ Bridger 11-14H1
+ Bridger 44-14H
+ Bridger 7-14H2
+ Bridger 8-14H
+ Bridger 9-14H1
+ Briggs Unit G 1H
+ Briggs Unit G 2H
+ Briggs Unit G 3H
+ Briscoe G 797H
+ Briscoe R 227H
+ Briscoe R GU5 State 146H
+ Briscoe R GU5 State 1483H
+ Briscoe R GU5 State 1487H
+ BRISCOE-MCKNIGHT  2403H
+ Britt-Rathjen 806HC
+ BROADCASTER 29 FEDERAL 004H
+ Broadhead 2007 34-1LOH
+ BRONZE 6-15 1505H
+ Brown 23D-201
+ Brown 23D-341
+ Brown 23D-421
+ Brown 23P-201
+ Brown 23P-221
+ Brown 23P-321
+ Brown 23X-241
+ Brown 23X-341
+ Brown ET AL 33-4 H 001
+ Brownie 1-30-19XH
+ Browning 1-21-16XH
+ Browning Federal LC24-775
+ Browning Federal LC24-780
+ Browning Federal LC24-785
+ BRP LLC 23 001-ALT
+ Bruner 1-35/26H
+ Bruner 2-35/26H
+ Bruner 3-35/26H
+ Bruner 4-35/26H
+ BRUNSON D 1201H
+ BRUNSON D 1203H
+ BRUNSON D 1204H
+ Brush 24-8H
+ BTR 1-2D-46
+ BTR 14-35D-35
+ BTR 5-10D-45
+ BTR 5-34D-35
+ BTR 5-3D-45
+ BTR 9-34D-35
+ Buckaroo 0508 7H
+ Buckaroo 2635 12H
+ Buckaroo 2635 13H
+ Buford 1-28/21H
+ BULTACO STATE 003H
+ Burnett 35-2 HC 001-Alt
+ Burns Ranch  60H
+ Burns Ranch  61H
+ Burns Ranch  62H
+ Burns Ranch 70H
+ Burns Ranch 71H
+ Butaud E 1H
+ Butcher Butte 32-144H-21
+ Butcher Butte 33-34H-21
+ Buzzard Vista A D 6H
+ Buzzard Vista D 7H
+ Calamity Jane 2801H
+ CALVERLEY 22-27 101H
+ CALVERLEY 22-27 102H
+ CALVERLEY 22-27 103H
+ CALVERLEY 22-27 104H
+ CALVERLEY 37-36 1H
+ CALVERLEY 37-36 2H
+ CALVERLEY 9-4 10H
+ CALVERLEY 9-4 11H
+ CALVERLEY 9-4 12H
+ CALVERLEY 9-4 13H
+ CALVERLEY 9-4 1WA
+ CALVERLEY 9-4 3H
+ CALVERLEY 9-4 4H
+ CALVERLEY 9-4 7H (LWB)
+ CALVERLEY 9-4 9H
+ Camel Clutch 26-17-24 1HC
+ Campbell Farms 14-9-6 2H
+ Candee 7-9H
+ Candee 8-9H1
+ Candlebox 102H
+ Canyon Creek  Unit 76
+ Canyon Creek  Unit 77
+ Canyon Creek  Unit 78
+ Canyon Creek 131
+ Canyon Creek 134
+ Canyon Creek 160
+ Canyon Creek 174
+ Canyon Creek Unit 178
+ Canyon Creek Unit 225
+ Canyon Creek Unit 226
+ Canyon Creek Unit 35
+ Canyon Creek Unit 64
+ Canyon Creek Unit 79
+ Canyon Creek Unit 82
+ Canyon Creek Unit 83
+ Carden-Baetz B EF Unit 1H
+ Carden-Baetz EF Unit  2H
+ Cardinals 30-4H
+ Cardinals 30-5H
+ Carmen 21-6-6 1H
+ Carpenter 1H-11-14
+ Carson SRC 4E
+ Carter 2-6HLC
+ Cash 1-26H
+ CBR 32-7H
+ CD5-99
+ Cecil's Kersey Farm 17B-212
+ Cecil's Kersey Farm 17B-302
+ Cecil's Kersey Farm 17K-204
+ Cecil's Kersey Farm 17K-232
+ Cecil's Kersey Farm 17K-332
+ Cecil's Kersey Farm 17K-402
+ CECILE LAND 9-4 HC 001-ALT
+ CECILE LAND 9-4 HC 002-ALT
+ Cecils Kersey Farm 17B-214
+ Cecils Kersey Farm 17B-304
+ Cecils Kersey Farm 17K-334
+ Cecils Kersey Farm 17K-404
+ Celesta 2-5-32XH
+ Celesta 3-5-32XH
+ Celesta 4R-5-32XH
+ Celesta 5-5-32XH
+ Celesta 6-5-32XH
+ Chaco 2206-16 221H
+ Chaffin Heirs 4-33 HC  002 ALT
+ Chaffin Heirs 4-33HC 001-Alt
+ Chain Lakes 29-130D
+ Chain Lakes 29-150H
+ Chain Lakes 29-155H
+ Chain Lakes 29-160D
+ Chain Lakes 29-2
+ Chain Lakes 29-50D
+ Chameleon State 31-16 HU
+ Chameleon State 31-16-1H
+ Champlin  263 H-2
+ Champlin  452 K 29-150H
+ Champlin 320 1-160H
+ CHAMPLIN 320 C 1-140H
+ Champlin 533 B 8-30
+ Chandler 8-6H
+ Chandler Farms HD 20-212HN
+ Chandler Farms HD 20-229HC
+ Chandler Farms HD 20-229HN
+ Chandler Farms HD 20-252HN
+ Chandler Farms HD 20-269HC
+ Chandler Farms HD 20-269HN
+ Chandler Farms HD 20-292HN
+ Chandler Farms HD 20-332HN
+ Chandler Farms HD 20-372HC
+ Chandler Farms HD 20-372HN
+ Chandler Farms HD 20-389HN
+ Charles 1H
+ Charles 2H
+ Charles 5H
+ Charlie Brown 1-17-8XH
+ CHARLIE SWEENEY 31-23S-28E RB 201H
+ CHARLIE SWEENEY 31-23S-28E RB 202H
+ Checketts 18-15
+ Cheryl 17-20 8TFH
+ Chesnut 21Q-321
+ Chesnut 21T-201
+ Chesnut 21T-221
+ Chesnut 21T-241ST
+ Chesnut 21T-301
+ Chesnut 21T-321
+ Chesnut 21Y-341
+ Chesnut 21Y-401
+ Chesnut 27G-203
+ Chevron TR 12-24-597
+ Chevron TR 13-21-597
+ Chevron TR 13-24-597
+ Chevron TR 21-23-597
+ Chevron TR 22-23-597
+ Chevron TR 23-21-597
+ Chevron TR 23-23-597
+ Chevron TR 24-23-597
+ Chevron TR 313-21-597
+ Chevron TR 32-21-597
+ CHEVRON TR 321-23-597
+ CHEVRON TR 322-23-597
+ Chevron TR 323-21-597
+ Chevron TR 323-23-597
+ Chevron TR 324-21-597
+ Chevron TR 324-23-597
+ Chevron TR 334-21-597
+ Chevron TR 342-21-597
+ Chevron TR 343-27-597
+ Chevron TR 413-21-597
+ CHEVRON TR 413-24-597
+ Chevron TR 414-21-597
+ Chevron TR 42-21-597
+ Chevron TR 421-23-597
+ Chevron TR 422-23-597
+ Chevron TR 423-21-597
+ Chevron TR 423-23-597
+ Chevron TR 43-27-597
+ Chevron TR 432-21-597
+ Chevron TR 433-27-597
+  Bertolla 30-19 HC-1
+ Chevron TR 434-21-597
+ Chevron TR 441-21-597
+ Chevron TR 442-21-597
+ Chevron TR 443-27-597
+ Chevron TR 512-24-597
+ Chevron TR 513-21-597
+ Chevron TR 521-23-597
+ Chevron TR 522-23-597
+ Chevron TR 523-21-597
+ Chevron TR 523-23-597
+ Chevron TR 524-21-597
+ Chevron TR 531-21-597
+ Chevron TR 532-21-597
+ Chevron TR 533-27-597
+ Chevron TR 534-27-597
+ Chevron TR 544-27-597
+ Chevron TR 632-21-597
+ Chevron TR 634-27-597
+ Chicken Yard 32-15N-7W 1H
+ CHIEF PINKIE 7706H
+ Children's Weston 11H
+ Children's Weston 15H
+ Children's Weston 503H
+ Children's Weston 504H
+ Childress 1-26H
+ Chisholm Trail 19_18-16N-9W 1HX
+ Chumley 1H
+ Chumley 2H
+ Chupacabra 51 State Unit 2H
+ Cimarron State 16-19S-34E RN 133H
+ Circosta 1H
+ Circosta South U1H
+ Circosta South U4H
+ City of Pecos 24 Unit A 1H
+ Clarice Jo  1-36-1XH
+ Clark Ranch 182-1
+ CLOUGH RWF 434-21
+ CLUB NE SMF JF  5H
+ CLUB NE SMF JF  7H
+ CLUB NW SMF JF 1H
+ CLUB SE SMF JF 8H
+ Clydesdale 1H
+ CMC FENWAY 22/34 D 31WA
+ CMC FENWAY 22/34 E 32WB
+ CMC FENWAY 22/34 E 33WA
+ CMC FENWAY 22/34 F 34WB
+ Coalgate 1-8-17H
+ Coalgate 2-8-17H
+ COATES 738E 32HA
+ Cochran 1H-20
+ Cockroft 19U-334
+ Cockroft 19U-404
+ Cockroft 19V-204
+ Cockroft 19V-214
+ Cockroft 19V-234
+ Cockroft 19V-304
+ Cockroft 19V-314
+ Cockroft 19W-214
+ Cockroft 19W-314ST
+ CODE BREAKER 848 1H
+ Coetta 1-15-10XH
+ Cole 1-36H
+ COLLIER APA 8 1H
+ COLUMBUS FEE 002H
+ Colvin Unit B 8
+ Comanche  #203H
+ COMBS RANCH 21-33-70 USA A 3H
+ Concord South Unit 1H
+ Conklin 2H
+ Conklin East 1H
+ Conklin East 3H
+ Conklin East 4H
+ Conklin East 5H
+ Connell-Wright 153H
+ Connell-Wright A 150H
+ Connell-Wright A 151H
+ Connell-Wright B 152H
+ Connie 26E-332
+ Connie 26E-402
+ Connie 26F-212
+ Connie 26F-302
+ Connie 26F-402
+ Constitution LC21-655
+ Constitution LC21-660
+ Cook 32-29 H 001
+ Cook 32-29 H 002
+ Cook 9-8 14-25H36
+ Cook 9-8 15-25H1
+ Cooke Ranch F 2SL
+ Cooke Ranch L 3SL
+ COPE 82-81 71HE
+ COPE 82-83 47HD
+ Corner Pocket 1707 1UMH-25
+ CORSAIR STATE UNIT 3H
+ Cotton 18-19-17N-4E 1MH
+ COVAL 20&29-11-14 H 002
+ Cowden 28 Unit 2801 AH
+ Cox (AW) 2H
+ Cox (AW) 3H
+ Cox (AW) 4H
+ Cox (AW) 5H
+ Crews Unit 10H
+ Crews Unit 8H
+ Crews Unit 9H
+ Crites 13-20-20 1 H
+ CROSS BAR RANCH 1719LS
+ CROSS BAR RANCH 1719WA
+ Cross Bar Ranch 1720LS
+ Cross Bar Ranch 1720WB
+ CROSS BAR RANCH 1723LS
+ CROSS BAR RANCH 1723WB
+ CROSS BAR RANCH 1811LS
+ CROSS BAR RANCH 1811MS
+ Crow Valley 7-62-22-2H
+ Culberson Hughes 2H
+ Culberson Hughes 3H
+ Culberson Hughes 4H
+ Currie Neal 47 4401H
+ Currie Neal 47 4403H
+ Currie Neal 47 4405H
+ Cutthroat 1307 1WH-13
+ CVR 5-63-32-4841B2
+ CVR 5-63-32-4841C2
+ CVR 5-63-32-4956B2
+ Cynthia 16-11-25 1HA
+ D CULBERTSON 26-15S-36E TL ST  234H
+ D J Sullivan C 11
+ D.M. Hopkins 16
+ Davila 3H
+ Davila 4H
+ Davila 501H
+ Davila AC 25H
+ Davila AC 2H
+ Davis 20-20-24 1HA
+ Davis 3-61
+ Davis 30-12-26 2HC
+ Davis 30-12-26 3HB
+ Davis Bros 27 001
+ DAVIS BROS 34-3 H 001
+ Davis W J A  4
+ Davison 16-9 HC 5-ALT
+ DAVISON 16-9 HC 6-ALT
+ Day L&L 5H
+ Day L&L 6H
+ Day L&L 7H
+ DCNR 594 (02-205-02) 2H
+ DCNR 594 (02-205-04) 4H
+ DCNR 594 (02-205-06) 6H
+ DCNR 594 (02-205-08) 8H
+ Debbie 32_29N-8W 1HX
+ Deckard 10-9 3-3H
+ Deckard 10-9 4-3H
+ Denison 6-7H #1 1
+ Denison 6-7H #2 2
+ Dennis 8-13 8-20H21
+ Dennis 8-13 9-20H16
+ Derbonne 27-34 HC 001-Alt
+ Derbonne 27-34 HC 002-Alt
+ Derting, B G 11H
+ Desalvo Tony 8-14 2-6H36
+ Desalvo Tony 8-14 3-6H31
+ DESOTO 0&G 19-18 H 001
+ DESOTO O&G 19-18 H 002
+ Desoto O&G TR 13-12 H  001
+ Desoto O&G TR 13-12 H 002
+ Desoto O&G TR 13-12 H 003
+ Deulley Unit 3H
+ Dewing (05-100-02) R 2H
+ Dewing (05-100-03) R 3H
+ Diamondback LC22-770
+ Diaz 1H
+ DICK JAY 92-TTT-B01 WF 121H
+ Dietz 5-3H
+ DITTMER KE 20-024HC
+ DITTMER KE 20-024HN
+ DITTMER KE 20-026HN
+ DITTMER KE 20-027HC
+ DITTMER KE 20-027HN
+ DITTMER KE 20-028HN
+ DITTMER KE 20-029HC
+ DITTMER KE 20-029HN
+ DITTMER KE 20-031HN
+ Divide Clark 28-21-14N-6W 1HX
+ DJ Sullivan  6B
+ DJ Sullivan F 3
+ DM Hopkins #21
+ DM Hopkins #8
+ Donmar Ranch FIU 1-7-18XH
+ DONNA STATE WEST UNIT 1H
+ Dore 3-10X
+ Doris 12-13-10-6 1XH
+ Dorothy Unit 38 #1
+ DOROTHY WHITE 82-TTT-B33 WF 124H
+ DOROTHY WHITE 82-TTT-B33 WF 127H
+ Double K B 3H
+ Double K B2H
+ Dr J 1808 7-1UOH
+ DR K 24-23S-27E RB 206H
+ DR SCRIVNER FED 01 24S 28E RB 124H
+ DR SCRIVNER FED 01-24S-28E RB  208H
+ DR SCRIVNER FED 01-24S-28E RB  228H
+ Dream Cooler 13-12-10-6 2XH
+ Drees Unit PSA A 1H
+ Drees Unit PSA B 1H
+ Drees Unit PSA C 1H
+ Drees Unit PSA D 1H
+ Drees Unit PSA E 1H
+ Drewett 17-20 H  1
+ Drewett 17-20 H  2
+ Drinnon 32-18-17 1H
+ Drummond 5501 41-21 4T
+ Drummond 5501 41-21 7B
+ Drummond 5501 41-21 8T
+ Duane Weisend 6H
+ Duane Weisend 8H
+ Dudeck Land 11-10 5-17H8
+ Dudeck Land 11-10 6-17H8
+ Dudeck Land 11-10 7-17H8
+ Dudeck Land 11-10 8-17H8
+ Dudeck Land 11-10 9-17H8
+ Dukes Federal LC10-735
+ Dukes Federal LC10-745
+ Dunn 7I-201
+ Dunn 7I-221
+ Dunn 7I-321
+ Dunn 7L-201
+ Dunn 7L-221
+ Dunn 7L-301
+ Dunn 7L-341
+ Dunn 7Q-221
+ Dunn 7Q-241
+ Dunn 7Q-301
+ Dunn 7Q-341
+ E J Craddock 8-28X21H
+ E L HENRY 15-10 H 001
+ Earnest 1H
+ Earnest 2H
+ Earp Federal LC23-735
+ Earp Federal LC23-740
+ Earp Federal LC23-745
+ East Fork 32-29 #2TFH
+ East Fork 32-29 1H
+ East Fork 32-29 7H
+ East Sauls Creek 26 1-2
+ Edgar Cason 3H 002-Alt
+ Edgar Cason 3H 003-Alt
+ Edgar Cason 3H 004-Alt
+ Edgar Unit 2H
+ Edgemere Farms 1-25-36XH
+ Edith Gray-Bord-Schendel ULW 1
+ Edith Gray-Schendel USW B1
+ Edith Gray-Schendel USW C1
+ Edith Mae 1-24-25XH
+ Edward Lee 1-13-12XH
+ Edwards A 5H
+ Edwards A 9H
+ Ehrlich 5E-323
+ Ehrlich 5E-423
+ Ehrlich 5J-203
+ Ehrlich 5J-223
+ Ehrlich 5J-243
+ Ehrlich 5J-303
+ Ehrlich 5J-323
+ Ehrlich 5M-243
+ Ehrlich 5M-343
+ Eichelberger 1-28-21XH
+ Eileen 1H-14X
+ Eisaman 3H
+ EK -29- BS2 FEDERAL COM 4H
+ EL Henry 15-10 HC 2
+ El Mar 21 A3CN Fed Com 1H
+ El Regalo Buckhorn 19H
+ El Regalo Buckhorn 20H
+ El Regalo Buckhorn 21H
+ El Regalo Buckhorn 22H
+ El Regalo Buckhorn 23H
+ ELAND STATE 32-18S-33E RN 123H
+ ELAND STATE 32-18S-33E RN 124H
+ Elbert 10N
+ Elbert 11N
+ Elbert 12N
+ Elbert 1N
+ Elbert 2N
+ Elbert 3N
+ Elbert 4N
+ Elbert 5N
+ Elbert 6N
+ Elbert 7N
+ Elbert 8N
+ Elbert 9N
+ Eldon 34-1H
+ Eliza Edwards 14-9-6 1H
+ Ellen C.  #9
+ Ellie  LD26-615
+ Ellie  LD26-635
+ Ellie  LD26-645
+ Ellie LD26-625
+ ELLIOTT 3317LS
+ ELROD-ANTELL UNIT -B- 11-02 5AH
+ Endless Mountain Recreation NE 3H
+ English 9-8 10-27-27H35
+ English 9-8 13-27H21
+ English 9-8 14-27H21
+ English 9-8 15-27H21
+ English 9-8 16-27H34
+ English 9-8 17-27H22
+ English 9-8-09-27H22
+ Epstein 9H
+ Erickson PC G15-27D
+ ERSA Federal 2-4H
+ Estes 2
+ ESTES B UNIT 1604LS
+ Estlack Matthews 2H
+ Estlack Melvin 2H
+ Evans  10C-14-L
+ Evans  10N-14A-L
+ Evans  29C-14-XR
+ Evans  9N-14C-L
+ Evans 10N-14B-L
+ Evans 10N-14C-L
+ Evans 11N-14C-L
+ Evans 24C-14-L
+ Evans 24N-14A-L
+ Evans 24N-14B-L
+ Evans 24N-14C-L
+ Evans 25C-14-L
+ Evans 25N-14B-L
+ Evans 29N-14A-XR
+ Evans 29N-14C-XR
+ Evans 30N-14B-XR
+ Evans 3N-14B-XR
+ Evans 4-8-13H 1
+ Evans 4C-14-XR
+ Evans 4N-14A-XR
+ Evans 4N-14B-XR
+ Evans 4N-14C-XR
+ Evans 9C-14-L
+ Evelyn 1508 1H-17
+ Everts 03-086-02 P 2H
+ Everts 03-086-04 P 4H
+ Everts 03-086-05 P 5H
+ Everts 03-086-06 P 6H
+ Everts 03-086-07 P 7H
+ Everts 03-086-09 P 9H
+ Fagerberg 11C-7-M
+ Fagerberg 11N-7A-M
+ Fagerberg 11N-7B-M
+ Fagerberg 15N-7A-M
+ Fagerberg 23N-7C-M
+ Fagerberg 25N-7B-M
+ Fagerberg 25N-7C-M
+ Fagerberg 25N(S)-7B-M
+ Fagerberg 28N-18B-M
+ Fagerberg 36C-7-M
+ Fagerberg 36N-7B-M
+ Fagerberg 3C-18-M
+ Fagerberg 6C-7-M
+ Fagerberg 6N-7C-M
+ Fallin 23-26-35 HC 1
+ Fallin 23-26-35 HC 2
+ FARADAY 23NW 1H
+ Fargeson 29-20 HC  #2
+ Fargeson 29-20 HC #1
+ FARMAR A S118HU
+ FARMAR AA POOLED UNIT N112HU
+ FARMAR AB POOLED UNIT N113HM
+ FARMAR AF POOLED UNIT S715HM
+ FARMAR AG POOLED UNIT S714HU
+ FARMAR B N494HM
+ FARMAR B S494HM
+ FARMAR BB POOLED UNIT S693HM
+ FARMAR BB POOLED UNIT S694HU
+ FARMAR CC POOLED UNIT N736HD
+ FARMAR CD POOLED UNIT N737HM
+ FARMAR D N542HM
+ Fascinator Fee Com #2H
+ Fasken State 52H
+ Fasken State 53H
+ Fasken State 54H
+ Fasken State 55H
+ Fasken State 56H
+ Fasken State 57H
+ Fasken State 58H
+ FASKEN STATE 59H
+ Fasken State 60H
+ Fasken State 63H
+ FEDERAL 299-26-1
+ Federal 30 123H
+ Federal GM  311-10
+ Federal GM  441-10
+ Federal GM 11-10
+ Federal GM 12-10
+ Federal GM 312-10
+ Federal GM 322-10
+ Federal GM 322-9
+ Federal GM 33-10
+ Federal GM 332-10
+ Federal GM 333-10
+ Federal GM 334-10
+ Federal GM 34-10
+ Federal GM 341-10
+ Federal GM 342-10
+ Federal GM 343-10
+ Federal GM 344-10
+ Federal GM 41-10
+ Federal GM 411-10
+ Federal GM 411-9
+ Federal GM 42-10
+ Federal GM 42-8
+ Federal GM 421-9
+ Federal GM 422-10
+ Federal GM 422-9
+ Federal GM 43-10
+ Federal GM 43-8
+ Federal GM 432-10
+ Federal GM 432-9
+ Federal GM 433-10
+ Federal GM 434-10
+ Federal GM 442-10
+ Federal GM 442-8
+ Federal GM 442-9
+ Federal GM 443-10
+ Federal GM 444-10
+ Federal GM 511-10
+ Federal GM 522-9
+ Federal GM 532-9
+ Federal GM 533-10
+ Federal GM 541-10
+ Federal GM 542-8
+ Federal GM 543-10
+ Federal GM 544-10
+ FEDERAL RG 414-14-398
+ FEDERAL RG 524-14-298
+ Federal RU 21-6
+ Federal RU 321-6
+ FEE STATE 36-16-24  1HA
+ Ferguson 12-19N-16W 1H-R
+ Ferguson NE SMF JF 7H
+ Ferguson SMF JF 5H
+ Ferguson-McKnight 2801H
+ Ferguson-McKnight 2813H
+ Finch Family Trust 1
+ Fineran 2H
+ Fire Canyon Ranch FIU 1-29-32XH
+ Firefly 1-6-7X
+ Fladeland 13-27H
+ Flathead 2-15 2H
+ FLORENCE 25-10-19 1HC
+ Florence GC B  001E
+ FLX1 22-15 163-91 B
+ FLX1 22-15 163-91 D
+ Foegelle- Dugie  102H
+ Foegelle- Dugie  3H 
+ Foegelle- Dugie 104H 
+ Foegelle- Dugie 5H 
+ Folvag 5-8  7H
+ Folvag 5-8 #1H
+ Folvag 5-8 #2TFH
+ Folvag 5-8 8TFH
+ Folvag 5-8 XW 1TFH
+ Ford Family Trust 32-29 H 003-Alt
+ Ford Family Trust 32-29 HC 001-Alt
+ Ford Family Trust 32-29 HC 002 Alt
+ FOREHAND RANCH 35 FEDERAL 1H
+ Forest Baker 1-1H
+ Fort Berthold 148-94-22A-27-2
+ Fort Berthold 148-95-13B-24-12H
+ Fort Berthold 148-95-13B-24-2H
+ Fort Berthold 152-94-13A-24-16H
+ Fort Berthold 152-94-13B-24-10H
+ Fort Berthold 152-94-13B-24-11H
+ Fort Berthold 152-94-13B-24-12H
+ Fort Berthold 152-94-13B-24-13H
+ Fort Berthold 152-94-13B-24-2H
+ FORTRESS STATE UNIT 1H
+ Fowler 1H
+ Fowler 3-9X16H
+ Franchuk 34-19SWH
+ Frank 1406 1H-15X
+ Frank 24-7PH
+ Frank 34-7-2PH
+ Frank 44-7PHU
+ Franklin 22 1HB
+ Free Unit 7H
+ Free Unit 8H
+ Free Unit 9H
+ Freedom Federal LC21-635
+ Freedom Federal LC21-640
+ Freeman 3-24
+ FREEMAN 5H-14LMX
+ FREEMAN 6H-14UMX
+ FREEMAN 7H-14UMX
+ Fritsche 109 Unit 1
+ Fuerte Vida Waterflood Unit 4W
+ Fuerte Vida Waterflood Unit 7W
+ Fuller 13 24 W1LM Fed Com 3H
+ G Klein Unit D 2
+ G Klein Unit D 3
+ G Klein Unit D 4
+ G Klein Unit D 5
+ G SCHWARTZ 17-18 (ALLOC-D) 4NU
+ G SCHWARTZ 17-8 (ALLOC-A) 1NC
+ G SCHWARTZ 17-8 (ALLOC-C) 3NC
+ G SCHWARTZ 17-8 (ALLOC-F) 6NC
+ G SCHWARTZ 17-8 (ALLOC-F) 6NU
+ G SCHWARTZ 17-8 (ALLOC-H) 8NC
+ G SCHWARTZ 17-8 (ALLOC-H) 8NU
+ GALLANT FOX 37 UNIT B 2H
+ Gallegos, Carmelita A1
+ Galvan Ranch  A364H
+ Galvan Ranch  A764H
+ Galvan Ranch  B358H
+ Galvan Ranch  B360H
+ Galvan Ranch  B858H
+ Galvan Ranch  B859H
+ Galvan Ranch  B860H
+ Galvan Ranch A355H
+ Galvan Ranch A356H
+ Galvan Ranch A357H
+ Galvan Ranch A358H
+ Galvan Ranch A360H
+ Galvan Ranch A755H
+ Galvan Ranch A756H
+ Galvan Ranch A757H
+ Galvan Ranch A758H
+ Galvan Ranch A760H
+ Galvan Ranch A762H
+ Galvan Ranch B 607H
+ Galvan Ranch B104H
+ Galvan Ranch B105H
+ Galvan Ranch B106H
+ Galvan Ranch B107H
+ Galvan Ranch B108H
+ Galvan Ranch B109H
+ Galvan Ranch B359H
+ Galvan Ranch B605H
+ Galvan Ranch B606H
+ Galvan Ranch B609H
+ Gardendale G Unit  40H 
+ Gardendale G Unit  41H 
+ Gardendale G Unit  42H 
+ Gardendale G Unit  43H 
+ Garrett 4-9-11-6 1HX
+ Garza B Unit 4H
+ Garza B Unit 5H
+ Gates 05 D Unit H 11-20
+ Gates 053 Unit G 9-20
+ Gates 05D 8-7A
+ Gates 05D 89-7A
+ Gates 05D 9-7A
+ Gates 05D Unit A 11-19
+ Gates 05D Unit A 7-19
+ Gates 05D Unit A 9-19
+ Gates 05D Unit B 13-19
+ Gates 05D Unit E 21-19
+ Gates 05D Unit F  5-20
+ Gates 05D Unit F 3-20
+ Gates 05D Unit G  7-20
+ Gates 05D Unit H 13-20
+ Gates 05D Unit I 15-20
+ Gates 05D Unit J 17-20
+ Gates 05D Unit J 3-21A
+ Gates 09 Rose 21-18
+ Gates 09 Rose A BVP 32 Unit 1
+ Gates 09 Rose A BVP 33 Unit 1
+ Gates 09 Rose B  2-28
+ Gates 09 Rose B 15-18
+ Gates 09 Rose B 19-18
+ Gates 09 Rose B 22-18
+ Gates 09 Rose B 3-28
+ Gates 09 Rose B 4-28
+ Gates 09 Rose B 5-28
+ Gates 09 Rose B 6-28
+ Gates 10 Rose A  1000-52
+ Gaucho State 14-15 45H
+ Gaujillo Unit 10H 1H
+ Gaujillo Unit 10H North 2H
+ Gaylord Perry 41 4401BH
+ Gaynor 34-33H
+ Geis 1-15N-9W 1H
+ Gene Carroll 1H-17
+ Gene Carroll 1H-18
+ Gene Carroll 1H-7
+ Gene Carroll 1H-8-5
+ Gene Carroll 2H-8-5
+ GEP Bundrick 35-2 HC-  001
+ GEP Bundrick 35-2 HC-  002 ALT
+ GEP ET AL 9-4 HC 002-ALT
+ GEP ETAL 9-4 HC 001-ALT
+ GERONIMO FEDERAL COM 11H
+ Giacomo 11 FEE 3H
+ Gilbert-Morello A Unit  20H
+ Gilbert-Morello B Unit  21H
+ Gilley Unit 504H
+ Gilley Unit 505H
+ Gilley Unit 5H
+ Gillham 18X-102
+ Gillham 18X-104
+ Gillham 18X-232
+ Gillham 18X-234
+ Gillham 18X-332
+ Gillham 18X-334
+ Gillham 18Y-202
+ Gillham 18Y-214
+ Gillham 18Y-312
+ Gillham 18Y-314
+ Gillian 8-26-35XH
+ Gillilan  6-26-35XH
+ Gillilan 7-26-35XH
+ Glover Rayes B Unit  222H
+ Glover Rayes B Unit  223H
+ Goetzel 30C-30-M
+ Goetzel 30N-30B-M
+ Goetzel 31C-30-M
+ Goetzel 31N-30B-M
+ Goetzel 31N-30C-M
+ Goetzel 32C-30-M
+ Goetzel 32N-30C-M
+ Goetzel 4C-30-M
+ Goetzel 4N-30A-M
+ Goetzel 4N-30C-M
+ Goetzel 5C-30-M
+ Goetzel 5N-30B-M
+ Goldberg USA 24-33TFH
+ Goose 1606 1LMH-3
+ Goose State #2H
+ GOSS 1-29HMC
+ GOVERNATOR UNIT 804H
+ GOVERNATOR UNIT 805H
+ GOVERNATOR UNIT 806H
+ GRAHAM 186-187 (ALLOC-D) 4SM
+ GRAHAM NASH FEDERAL COM 7H
+ Gravitt 1H-30
+ Gray 4H
+ Great Scott  3H
+ Greathouse C21-6 Unit 2H
+ GREENWICH 57-3142 3H
+ GREENWICH 57-3142 4H
+ Grindstone 2 FEE 3H
+ Griswold 1-31-6XH
+ Grizzly 0881 2-1H36
+ Grizzly 0881 4-1H36
+ Guajillo Unit 10 4H
+ Guajillo Unit 10 North 3H
+ GUAJILLO UNIT 16 SOUTH  1H
+ GUAJILLO UNIT 16 SOUTH  2H
+ GUAJILLO UNIT 16 SOUTH  3H
+ GUAJILLO UNIT 16 SOUTH  4H
+ Guajillo Unit 9 South 4H
+ Gubbels 7H
+ Gubbels Unit C  2H
+ Gubbels Unit C  3H
+ GUITAR 10 24 28 RB 201H
+ GUITAR 10 24 28 RB 221H
+ GUITAR 10-24-28 RB 205H
+ GUITAR 10-24S-28E RB 222H
+ Gulfport Jacobs 211061 4A
+ Gus Tips GU1 D3H
+ Gussie Yanta Unit 1010H
+ Gussie Yanta Unit 108H
+ Gussie Yanta Unit 11H
+ Gussie Yanta Unit 9H
+ Guttersen 31Y-441
+ GW Rentals OHI 205H
+ GW Rentals OHI 3H
+ GW Rentals OHI 405H
+ GW Rentals OHI 5H
+ GW Rentals OHI 605H
+ GWOSDZ A - MIGURA A SA 1H 1H
+ GWOSDZ A 10H
+ GWOSDZ A 11H
+ Gwosdz A 12
+ Gwosdz A 13
+ Gwosdz A 14
+ Gwosdz A 5H
+ Gwosdz A 6H
+ Gwosdz A 7H
+ Gwosdz A 8H
+ Gwosdz A 9H
+ H M PHILLIPS STATE 1720 1H
+ H M PHILLIPS STATE 27-3 1H
+ Hachar -A- 1H
+ Hackberry 26 Federal COM 1H
+ Hackberry 26 Federal COM 2H
+ Haffner 41-23
+ Hagen Banks 5198 12-6 13TX
+ Hagen Banks 5198 12-6 9BX
+ Haigler 1-4H
+ Halcomb A S272HM
+ Hamar 3H-17
+ HANGING H STATE 70 3H
+ Hansen 21-3TFH
+ Hardesty 35-10-7 1H
+ Hardesty 35-10-7 2H
+ Hare 1H
+ Hare 2H
+ Harmon Creek C 16H
+ Harmon Creek C 17H
+ Harmon Creek C 18H
+ Harmon Creek C 27H
+ Harmon Creek C 28H
+ Harmon Creek C 38H
+ Harper LD21-655
+ Harper LD21-662
+ Harper LD21-668
+ Harper LD21-675
+ Harris #1H
+ Harris #2H
+ Harris 1-17WH
+ Harris Weldon 9-9 7-11H2
+ Harris Weldon 9-9 8-11H2
+ Harris Weldon 9-9 9-11H1
+ HARRIS-COOK 80 108HA
+ HARRIS-COOK 80 108HB
+ HARRIS-COOK 80 208HL
+ Harris-Hitchison 80 208HL
+ HARRIS-HUTCHISON 207HL
+ HARRIS-HUTCHISON 50 105HA
+ HARRIS-HUTCHISON 50 205HL
+ HARRIS-HUTCHISON 60 106HA
+ HARRIS-HUTCHISON 60 206HL
+ HARRIS-HUTCHISON 70 107HA
+ Harris-Hutchison 80 108HA
+ Hartman 1-34
+ Hasta La Vista #801H
+ HASTA LA VISTA UNIT 803H
+ Hawkins 5-61-20 2532BN2
+ Hawkins 5-61-20 2532C2
+ Hawkins 5-61-20 4033B2
+ Hawkins 5-61-20 4148B2
+ HAY SCARLETT 42/43 11WA
+ Haynes #162
+ Haynes #171
+ Haynes 173
+ Hazard Federal LC22-745
+ HDK East 2H
+ HDK EAST 3H
+ HEADLEE 3526 UNIT 1LS
+ HEADLEE 3526 UNIT 2LS
+ HEADLEE 3915H
+ Hecker 11-18-2PH
+ Heinz 18-19  #4H
+ Heinz 18-19 #2H 
+ Heinz 18-19 #3H
+ Heinz 18-19 #6H
+ Heinz 18-19 XW #1H
+ Hemlock Valley 10H
+ Hemlock Valley 5H
+ Hemlock Valley 8H
+ Henson 27-11-25 10HA
+ Hereford Federal 1-20H
+ Hereford Federal 2-20H1
+ Hereford Federal 3-20H
+ Hereford Federal 4-20H2
+ Hereford Federal 5-20H
+ Hereford Federal 6-20H1
+ Hereford Federal 7-20H
+ Hereford Federal 8-20H2
+ Hereford Federal 9-20H
+ Herman 03_34-15N-8W 1HX
+ HERMIT 5556 1H
+ Herod FIU  1-8-5XH
+ Heros 2308 09L Com 1H
+ Herrick Unit C 8H
+ Heston LD06-620
+ Heston LD06-625
+ Heston LD06-630
+ High Point 13-155H 
+ High Point 13-160D
+ High Point 13-85D
+ High Point 13-90D
+ Highland 5-9H
+ Hirsch Estate #1
+ Hoffmann Unit 17H
+ HOGHLAND 2H
+ Holbein  #1
+ Holinsworth 7H-9X
+ Holliday 1H
+ Holliday 3H
+ Holliday 7H
+ Holliday Federal LC23-775
+ Holliday Federal LC23-780
+ Holliday Federal LC23-785
+ Hollywood  1606 1LMH-4
+ Holstein 2-27H
+ HOLT A 136-25 (ALLOC-G) 7SM
+ Homier 1808 36-1MH
+ Hondo 34-12TFH
+ Hons 19H
+ Hood 11C-22-M
+ Hood 11N-22A-M
+ Hood 11N-22B-M
+ Hood 14N-22A-M
+ Hood 14N-22B-M
+ Hood 23C-22-M
+ Hood 23N-22B-M
+ Hood 23N-22C-M
+ Hood 25C-22-M
+ Hood 25N-22C-M
+ Hood 36C-22-M
+ Hood 36N-22C-M
+ Hop 18E-232
+ Hop 18E-332
+ Hop 18E-402
+ Hop 18F-102
+ Hop 18F-212
+ Horn Splitter  1004H
+ Hornbuckle "A" 3
+ Hornsby 35 Fed 7H
+ Hornsby 35 Fed 8H
+ Hornsby 35 Federal Com 4H
+ Horrocks 2-35A1E
+ Horsetail  08B-1711
+ Horsetail  08B-1712
+ Horsetail  08B-1743
+ Horsetail 07E-0601
+ Horsetail 07E-0602
+ Horsetail 07E-0603
+ Horsetail 07E-0604
+ Horsetail 07E-0634
+ Horsetail 07E-0636
+ Horsetail 07E-1801
+ Horsetail 07E-1802
+ Horsetail 07E-1803
+ Horsetail 07E-1804
+ Horsetail 07E-1834
+ Horsetail 07E-1836
+ Horsetail 07F-0608
+ Horsetail 07F-1805
+ Horsetail 07F-1806
+ Horsetail 07F-1807
+ Horsetail 07F-1808
+ Horsetail 07F-1838
+ Horsetail 07F-1839
+ Horsetail 08B-1742
+ Horsetail 08C-1707
+ Horsetail 08C-1708
+ Horsetail 08C-1738
+ Horsetail 08C-1739
+ Horsetail 08D-1734
+ Horsetail 08D-1735
+ Horsetail 29G-2043
+ Hospital 31-36 #7H
+ Hospital 31-36 #8TFH 
+ HSS STATE 45-17X20 1H
+ Huffman 1H-30-19
+ Huffman 2H-30-19
+ Hughes 1-22H
+ Hunt Timberland 36-11-12 H 001
+ HWRD 3&10-14-13 C 1
+ HWRD 3&10-14-13 C 2
+ Iceman 1706 1UMH-33
+ ICEMAN UNIT 1401H
+ IGE 127
+ IGE 128
+ IGE 129
+ IGE 130
+ IGE 132
+ IGE 137
+ IGE 138
+ IGE 139
+ IGE 141
+ IGS 115
+ IGS 146
+ IGS 149
+ IGS 419
+ IGW 150
+ IGW 152
+ IGW 154
+ Ingram 9-17 7-34H28
+ INTERGALACTIC UNIT 7301H
+ Iron Woman 14-9H
+ Irvin East 100H
+ Irvin East 101H
+ Irvin East 103H
+ Irvin East 104H
+ Irvin East 660H
+ Irvin East 661H
+ Irvin East 662H
+ Irvin East 663H
+ Irvin East 93H
+ Irvin East 94H
+ Irvin East 95H
+ Irvin East 96H
+ Irvin West 331H
+ Irvin West 332H
+ Irvin West 333H
+ Irvin West 334H
+ Irvin West 335H
+ Irvin West 336H
+ Irvin West 337H
+ Irwin 23-14 Federal  1H
+ J H Dickinson  2
+ J Klein 7Q-321
+ J Klein 7T-121
+ J Klein 7T-201
+ J Klein 7T-241
+ J Klein 7T-301
+ J Klein 7Y-201
+ J Klein 7Y-241
+ J Klein 7Y-341
+ J L Hood 15-10 H 001
+ J L Hood 15-10 H 002
+ J Peeler A Unit 10H
+ J Peeler A Unit 11H
+ J Peeler A Unit 12H
+ J. Smith Unit A 6
+ Jack 21-16 #2H
+ Jack 21-16 #3TFH
+ Jack 21-16 #6H
+ Jack 21-16 #7TFH 
+ Jack 21-16 #8TFH
+ Jack 21-16 XW #1H
+ Jackson 1406 1H-6X
+ Jackson 25-24-10-6 1XH
+ Jacobucci 32K-243
+ Jacobucci 32K-403
+ Jacobucci 32K-443
+ Jacobucci 32O-203
+ Jacobucci 32O-303
+ Jacobucci 32O-423
+ Jacobucci 32O-443
+ Jacobucci 32S-203
+ Jacobucci 32S-303
+ Jacobucci 32S-323
+ Jacobucci 32S-343
+ Jacobucci 32S-403
+ Jacobucci 32S-423
+ Jambers  100H
+ Jambers  101H
+ Jambers  102H
+ Jambers  99H
+ Jambers 80H
+ Jambers 81H
+ Jambers 82H
+ Jambers 85H
+ Jambers 86H
+ James & Robert Tiller Gas Unit 1 2H
+ James Marston 30-19 HC 001
+ James Marston 30-19 HC 002-ALT
+ JAMES MARSTON 30-19 HC 003-ALT
+ James Miller FIU 1RR-6-31XH
+ Janecka (SA) 2H
+ Janecka (SA) 4H
+ Janie Conner 13-24S-28E RB 201H
+ JANIE CONNER 13-24S-28E RB 207H
+ Janie Conner 13-24S-28E RB 221H
+ Janysek 11H
+ Janysek 12H
+ Janysek 13H
+ Janysek A 1H
+ Jasik 10H
+ Jasik 11H
+ Jasik 12H
+ Jasik 14H
+ Jasik 15H
+ Jerome Anderson 10-15  1H
+ Jerome Anderson 10-15 6H
+ Jersey Lilly 17 1HB
+ Jesse Chisholm 12-1-9-6 1XH
+ Jester 1606 1UMH-3
+ JIM TOM LONTOS 30 23S 28E RB 221H
+ JIM TOM LONTOS 30-23S-28E RB 206H
+ Jimmerson Unit  10H
+ JIMMY KONE 05-24S-28E RB  226H
+ JIMMY KONE 05-24S-28E RB 203H
+ JL MCMASTER 155-15 (ALLOC-A) 1NM
+ JL MCMASTER 155-156 (ALLOC-A) 1SM
+ JL MCMASTER 155-23 (ALLOC-C) 3NM
+ JLH E Unit C 6H
+ Joe Coleman 13-23S-27E RB 206H
+ John 1-10HH
+ John A Blunt 13-24 H 001
+ John A Blunt 13-24 H 002
+ John A Blunt 13-24 H 3
+ John C Morris 30-19 H 002
+ JOHN WARREN 15-10 H 001
+ JOHN WARREN 15-10 H 002
+ Johnny Federal LC11-715
+ Johnny Federal LC11-725
+ JOHNNY RYALL UNIT 1103H
+ JOHNNY RYALL UNIT 1152H
+ Johnson (02-135-06) K 6H
+ Johnson (02-135-08) K 8H
+ Johnson (02-135-10) K 10H
+ Johnson 10-45
+ JOHNSON 44-02S-B53 WF 121H
+ JOHNSON 44-02S-B53 WF 201H
+ JOHNSON RANCH 1017LS
+ JOHNSON RANCH 1019H
+ JOHNSON RANCH 1019LS
+ JOHNSON RANCH 1020H
+ JOHNSON RANCH 1020LS
+ Johnston 1H
+ Johnston 2H
+ Johnston 3H
+ Jones A LS 001
+ Jones A LS 002
+ Jones Trust 12 11 21 1H
+ Jordan 1-3H
+ JOYCE P2 UNIT 7123AH
+ JOYCE P2 UNIT 7123BH
+ JOYCE P2 UNIT 8230BH
+ Juble D Griffis 8
+ Jug 1H
+ Jug 2H
+ Jujubee 1H
+ Jujubee 2H
+ JUNE UNIT 7227AH
+ Junior 1909 24-1H
+ Kaiser Vaugh 1-35-2XH
+ Kanon 1H-15-22
+ Karen Randolph 11H
+ Karen Randolph 2H
+ Karen Randolph 3H
+ Karen Randolph 4H
+ Karen Randolph 5H
+ KAREN UNIT 5121AH
+ KAREN UNIT 5121BH
+ Karnes City SE Unit 3H
+ Karnes City SE Unit 4H
+ Karnes City SE Unit 5H
+ Karnes City SE Unit 6H
+ Kathy Coleman 14-23S-27E RB 206H
+ Kawata  30C-17-M
+ Kawata  31C-17-M
+ Kawata  31N-17C-M
+ Kawata  4N-17B-M
+ Kawata  5N-17B-M
+ Kawata 31N-17A-M
+ Kawata 32N-17B-M
+ Kawata 32N-17C-M
+ Kawata 4N-17C-M
+ Kawata 5C-17-M
+ Keathley 30-12-26 2HA
+ Keathley 30-12-26 3HA
+ Kelley  1H
+ Kelley 2H
+ KEMMER 4217H
+ KEMMER 4218H
+ KEMMER 4219H
+ KEMMER 4220H
+ KEMMER 4221H
+ Kenedy Armstrong GU 1
+ KENOSHA 4441 1H
+ Kentzel State 42 SL W101DM
+ Kermit 14-9H
+ Kerogen 2H
+ KEYSTONE 1004LS
+ KEYSTONE 1004MS
+ KEYSTONE 1005H
+ KEYSTONE 1007H
+ Kimble Gilley 2H
+ Kimble Gilley 3H
+ Kimble Gilley 502H
+ Kimble Gilley 503H
+ Kimble Gilley 504H
+ King ERB 2H
+ King ERB 3H
+ King Unit C 1H
+ King Unit C 2H
+ King Unit C 3H
+ King Unit C 4H
+ King Unit D 1H
+ KINTA 1-30/19H
+ Klein 33 Federal COM 10H
+ Klimek 10-2H
+ Klusman GU A1
+ KM-MILLER UNIT ZAV  3H
+ KM-MILLER UNIT ZAV 4H
+ Koala 5H
+ Koala Wold 153-97-1-5-29-2H
+ KODAK FD 27-062HN
+ KODAK FD 28-002HN
+ Kodak FD 28-042HC
+ Kodak FD 28-122HC
+ Kodak FD 28-162HC
+ KODAK FD 28-162HN
+ KODAK FD 28-199HN
+ KODAK SOUTH FD 25-201HC
+ KODAK SOUTH FD 25-240HN
+ KODAK SOUTH FD 25-240HNX
+ KODAK SOUTH FD 25-241HC
+ KODAK SOUTH FD 25-241HN
+ KODAK SOUTH FD 25-280HN
+ KODAK SOUTH FD 25-280HNX
+ KODAK SOUTH FD 25-320HN
+ Kolodziej-Pawelek 106H
+ Kolodziej-Pawelek 108H
+ Kolodziej-Pawelek 7H
+ Kolodziej-Pawelek 9H
+ Kona  A19-636
+ Kona A19-616
+ Kona A19-624
+ Kona A19-646
+ Kona A19-662
+ Kone  #69
+ Kone  37H
+ Kone  38H
+ Kone  A1H
+ Kone  B1H
+ Kone 70H
+ Korth A Unit 7H 
+ Korth A Unit 8H 
+ Kotara Ridley Unit 14H
+ Krackel 31-1H
+ Krause GU1 A 2H
+ Krause GU1 A 4H
+ Kristof 1H
+ Krnyaich 4H
+ Kruciak-Yanta Unit 102H
+ Kruciak-Yanta Unit 103H
+ Kukla 4-16H
+ Kukla 5-16H1
+ Kukla 6-16H
+ Kukla 7-16H
+ Kummer LE23-615
+ KUNSEMILLER 5-61-20-0801B2
+ KUNSEMILLER 5-61-20-0916B2
+ KUNSEMILLER 5-61-20-2417B2
+ KUNSEMILLLER 5-61-20-0801B2B
+ L Billingsley 8H #1
+ L D Barnett 23-26-35 H 001
+ Lajco 17M-323
+ Lajco 17M-423
+ Lajco 17R-223
+ Lajco 17R-243
+ Lajco 17R-303
+ Lajco 17R-403
+ Lajco 17U-203
+ Lajco 17U-343
+ Lake Fork Ranch 4-13 B4
+ Lambe 1E
+ Lambshead Ranch 2432
+ Lamkin 4 001
+ LANE TR E 43-42 (ALLOC-A) 1NM
+ LANE TR E 43-42 (ALLOC-A) 1NU
+ LANE TR E 43-42 (ALLOC-E) 5NU
+ LANE TR E 43-42 (ALLOC-F) 6NM
+ LANE TR E 43-42 (ALOC-E) 5NL
+ LANE TR E 43-42 (ALOC-E) 5NM
+ LANGE AA POOLED UNIT N042HM
+ LANGE AB POOLED UNIT N044HU
+ Langston 13-24-9-6 1XH
+ Lapp A15-613
+ Lapp A15-620
+ Lapp A15-629
+ Lapp A22-689
+ Lark 33-5 21-4
+ Larsen 1-12-1
+ Lasseter & Eppright Unit K 1
+ Lasseter & Eppright Unit K 11
+ Lasseter & Eppright Unit K 2
+ Lasseter & Eppright Unit K 21
+ Lasso 1918 12NH
+ Lasso 3031 12SH
+ Latham Draw 19-90
+ Latham Draw 29-130
+ Lau   1-4H
+ Lauper 4-26H
+ Laura FIU 1-4H
+ Lazard Family 1H 001
+ LAZY E 9-4 (PSA-H) 8NS
+ LC Blunt JR ET UX 10-15 2
+ LC Blunt JR ET UX 10-15 H 001
+ LC Blunt JR ET UX 17-8 H 1
+ LC Blunt JR ET UX 17-8 H 2
+ Leaseburg Unit 1H
+ Leffler  8N-23B-L
+ Leffler  8N-23C-L
+ Leffler 1C-23-L
+ Leffler 1N-23B-L
+ Leffler 1N-23C-L
+ Leffler 26C-23-L
+ Leffler 26N-23B-L
+ Leffler 40C-23-L
+ Leffler 41C-23-L
+ Leffler 41N-23C-L
+ Leffler 8C-23-L
+ Leffler 8N-23A-L
+ LeMarr 24-22N-20W 1H
+ Lena 2440H
+ Lena 3440H
+ Lening 1-30/19H
+ Lening 2-30/19H
+ Lening 3-30/19H
+ LENORAH UNIT 2 0607BH
+ LENORAH UNIT 2 0627SH
+ LENORAH UNIT 2 0628SH
+ Leo Janysek Unit A 2
+ Leo Janysek Unit A 3
+ Leon 1H-2-35
+ Leona Trust 1-15N-10W 1H
+ LEONARD 1H
+ Leonard 2H
+ Leonard Estate 14
+ Lester Powers Unit O 2H
+ Lewis 21-16-9 H 001
+ Lewis 21-16-9 H 002
+ LIAM STATE 53-12 1H
+ Little Pete Federal  41X-3 D
+ Little Pete Federal  41X-3 DXA
+ Little Pete Federal  41X-3G2
+ Little Pete Federal 41X-3H
+ Little Pete Federal 41X-3HXE2
+ LIZZIE RAE  8-17-1H
+ Lock-Baetz EF Unit  1H
+ Lock-Baetz EF Unit  2H
+ Logos  #5
+ Lohman 1H-2X
+ Loke 5H
+ Loloff Farms 26G-232
+ Loloff Farms 26G-432
+ Loloff Farms 26H-202ST
+ Loloff Farms 26H-232
+ Loloff Farms 26H-312ST
+ Loloff Farms 26H-332
+ Loloff Farms 26I-312
+ Loloff Farms 26I-402
+ Lomax 35-26 H 001
+ Lomax 35-26 H 002
+ Lomax 35-26 H 003
+ Lopez A 1H
+ Lorene 1-8-5XH
+ Lost Creek 03-62-08-2H
+ LOST SADDLE 46 1H
+ Lougheed 2-11  #8TFH
+ Loughnane Unit  1H
+ LOUIS STATE 24 1H
+ Louthan 2-20N-17W 1H
+ Low Valley 1807 1LMH 1LMH
+ LPI-KLOESEL 31-19 (ALLOC-A) 1NL
+ LPI-KLOESEL 31-19 (ALLOC-A) 1NU
+ LPI-KLOESEL 31-19 (ALLOC-B) 2NU
+ Lucky Ivy 1H
+ Lucy 1H
+ Lucy 2H
+ Ludwig 4-22-15XH
+ Ludwig 5-22-15XH
+ Ludwig 6-22-15XH
+ Ludwig 8-22-15XH
+ Ludwig 9-22-15XH
+ LUJAN STATE 1810H
+ LUJAN STATE 1822H
+ Luker 303
+ Luker 703HC 1HA
+ Luker 803HC 1HA
+ Luman 4-1
+ Lundin 11X-15A
+ Lundin 11X-15AXB
+ Lundin 11X-15E
+ Lundin 11X-15EXH
+ Lundin 11X-15F
+ Lundin 11X-4AXD
+ Lundin 11X-4E
+ Lybrook 2309-34B 765
+ Lychee BWS State Com #1H
+ Lyons 3-17 A3
+ M Gohlke A2
+ M Gohlke A3
+ M Gohlke A4
+ M Gohlke A5
+ M Gohlke A6
+ M Gohlke A7
+ M Gohlke Unit A 1
+ M T Cole-NCLE (AW) 1H 2H
+ M W SMITH 5-14H11
+ M W SMITH 6-14H11
+ M W SMITH 7-14H11
+ M W SMITH 8-14H11
+ M Williams SR 2-11 H 001
+ M Williams SR 2-11 H 002
+ MABEE 24 2306LH
+ MABEE 24 2306MH
+ MABEE 24 2308LH
+ MABEE 24 2308MS
+ MABEE 24 2311SH
+ MABEE 24 2312SH
+ MABEE 240C 1102LH
+ MABEE 240C 1102MH
+ MABEE 240C 1103LH
+ MABEE 240C 1103MH
+ MABEE 240C 2601LH
+ MABEE BREEDLOVE 3901LS
+ MABEE BREEDLOVE 3903LS
+ MABEE BREEDLOVE 3905LS
+ Macy 1-20WH
+ Madison 2-11 2H
+ Madison 2-11 3H
+ Madzia 10H
+ Madzia 2H
+ Madzia 4H
+ Madzia 6H
+ Madzia 8H
+ Magpul Federal LC21-670
+ Magpul Federal LC21-675
+ Malachosky Edwards 1H
+ Malachosky Edwards 2H
+ Malachosky Edwards 3H
+ Malachosky Edwards 4H
+ MALLON 27 FEDERAL COM 1H
+ MALLON 27 FEDERAL COM 2H
+ MALLON 27 FEDERAL COM 3H
+ Mamba 17 2H
+ Man O War 26 1HA
+ Man O War 26 Unit C 8H
+ MAN STATE 003H
+ Marcia 11 2-13N-11W 1HX
+ MARCUS LD 11-374HC
+ MARCUS LD 11-376HN
+ MARCUS LD 11-377HN
+ MARCUS LD 11-378HN
+ MARCUS LD 11-379HN
+ MARCUS LD 11-380HN
+ Marik 4-3
+ Marilyn 7-18-19N-3E 1WH
+ Marilyn 7-18-19N-3E 2WH
+ Marlin 24-12H
+ Martens 4-6H
+ Martin #1
+ Martin Edward 2H
+ Martin Edward 3H
+ Martin Edward 4H
+ Martin Edward 5H
+ MARY SCHARBAUER B1 1201BH
+ MARY SCHARBAUER B2 1201LH
+ MARY SCHARBAUER B3 1202BH
+ MARY SCHARBAUER B4 1202LH
+ MARY SCHARBAUER B6 1203BH
+ MARY SCHARBAUER B7 1203LH
+ Maryland 3-16H
+ Maryland 4-16H
+ Maryland 5-16H
+ Mas Federal #3H
+ MASK HZ UNIT 1006H
+ MASK HZ UNIT 1007H
+ Mason Estate 15-10HC 001 ALT
+ Mason Estate 15-10HC 002 ALT
+ Mason Estate 15-22HC 001 ALT
+ Mason Estate 15-22HC 002 ALT
+ Matter State 3-17H
+ Matthews 1H
+ May B 23H
+ May B 24H
+ May B 26H
+ May B 27H
+ May B AC 24H
+ Mayweather 33-4 HC 001-Alt
+ Mayweather 33-4 HC 002 ALT
+ McAllen B 57
+ McBee 1-3H
+ MCC HZ UNIT 1101H
+ MCC HZ UNIT 1102H
+ MCC HZ UNIT 1108H
+ MCC HZ UNIT 1109H
+ MCC Partners West 10H
+ MCC Partners West 11H
+ MCC Partners West 7H
+ MCC Partners West 8H
+ MCC Partners West 9H
+ McClelland  8H-26X
+ McCrary  22-27 HC 001
+ McCrary  22-27 HC 3
+ McCulley LS 004E
+ McCurry 3-21 HB
+ McCurry 4-21 HC
+ McDermott State Unit 1720 #1
+ McEntire 2-35 2H
+ McEntire 3-35 2H
+ McEntire 4-35/2H
+ McFarms ET AL 28 H 001-ALT
+ McFarms ET AL 28 H 002-Alt
+ McFarms ET AL 28H 003-Alt
+ McFarms ET AL 28H 004-Alt
+ MCK 6&31-11-14H 001
+ McKinnon UT  14-22 3-3-22-15-5H
+ McKinnon UT  14-22 3-3-22-15-7H
+ Mclean 1H
+ McMillen G20-30D
+ McMurry Crim  40 204HL
+ McMurry Crim 30 203HL
+ MCMURRY-CRIM 10 101HA
+ MCMURRY-CRIM 10 201HL
+ MCMURRY-CRIM 20 102HA
+ MCMURRY-CRIM 20 102HB
+ MCMURRY-CRIM 20 202HL
+ MCMURRY-CRIM 30 103HA
+ MCMURRY-CRIM 30 103HB
+ MCMURRY-CRIM 40 104HA
+ MCMURRY-CRIM 70 107HB
+ MCMURRY-CRIM 70 207HL
+ MCMURRY-CRIM 80 208HL
+ MCMURRY-CRIMM 70 42-317-40744-00
+ McNamara 41-26-2XH
+ McNamara 41-26H
+ McNeff 22-10-5 1H
+ Meadors 25-1H
+ Meadors 25-2H
+ Meadors 36-1HX
+ MEANS 26H 001-ALT
+ Meadors 36-1HX
+ MEANS 26H 001-ALT
+ Medina Jonas A 2H
+ Medina Jonas A 3H
+ Medina Jonas A 4H
+ Melvin 1H
+ Mesa 11B2-26D
+ Mesa 11B2-28D
+ Mesa 11C1-26D
+ Mesa 11C1-28D
+ Mesa 11D1-26D
+ Mesa 11D1-28D
+ Mesa 12A1-26D
+ Mesa 12A1-28D
+ Mesa 12B2-26D
+ Mesa 12C1-28D
+ Mesa 12D1-28D
+ Mesa 12D2-26D
+ Mesa 13A2-26D
+ Mesa 13B1-26D
+ Mesa 13B2-28D
+ Mesa 13C1-26D
+ Mesa 13D1-26D
+ Mesa 13D1-28D
+ Mesa 14A1-26D
+ Mesa 14B1-26D
+ Mesa 14C1-28D
+ Mesa 14C2-26D
+ Mesa 14D1-26D
+ Mesa 15C1-26D
+ Mesa 16B2-29D
+ Mesa 16D1-29D
+ Mesa 5C2-28D
+ Mesa 6C1-28D
+ Mesa 6D1-28D
+ Michael Dunn MSH 10H
+ Michael Dunn MSH 210H
+ Michael Dunn MSH 6H
+ Michael Dunn MSH 8H
+ Middleground 16 6H
+ MIDLAND -AV- FEE 3HB
+ MIDLAND -AV- FEE 4HA
+ MIDLAND -AV- FEE 5HB
+ MIGURA A 10H
+ Milacek 2007 27-1H
+ Miller A 4H
+ Miller B 3H
+ Miller C 2H
+ Millet B Unit 40H
+ Millet B Unit 41H
+ Millet C Unit 42H
+ Millett A Unit 21H
+ Millett B Unit 22H
+ Milne PT Unit  C-45
+ Minutemen LC21-615
+ Minutemen LC21-625
+ Mitcham 9-16 HC 001
+ Mitcham 9-16 HC 002
+ Mitcham 9-16 HC 005
+ Mitchell 18-18-25 1HA
+ MITCHELL 28-47 W101DM
+ Mitchell 39 W101PA
+ Mittlestadt 34-12H
+ MK 1-35HLC
+ MND 6 A
+ MND 6 B
+ MND 6 C
+ MND 6 D
+ MND 6 E
+ MND 6 F
+ MND 6 M
+ Mohawk North 1H
+ Mohawk North 2H
+ Mojack N-28HC
+ MOJACK O-28HN
+ Mojack P-28HN
+ MOL 1-17-8XH
+ MONARCH STATE 3405H
+ Monarchos 13 Unit 3H
+ Monument 9-1
+ Monument 9-150D
+ Monument Lake  11-160D
+ Monument Lake 11-160D
+ Monument Lake 11-160H
+ Monument Lake 11-165H
+ Monument Lake 11-50
+ Monument Ridge B  21A-08-07-95
+ Monument Ridge B  21B-17-07-95
+ Monument Ridge B  24C-08-07-95
+ Monument Ridge B  24D-08-07-95
+ Monument Ridge B  31A-17-07-95
+ Monument Ridge B  31B-17-07-95
+ Monument Ridge B  31C-17-07-95
+ Monument Ridge B  31D-17-07-95
+ Monument Ridge B  32A-17-07-95
+ Monument Ridge B  34B-08-07-95
+ Monument Ridge B  34C-08-07-95
+ Monument Ridge B  34D-08-07-95
+ Monument Ridge B  44C-08-07-95
+ Monument Ridge B  44D-08-07-95
+ Monument Ridge B 23D-08-07-95
+ Monument Ridge B 33C-08-07-95
+ Monument Ridge B 43D-08-07-95
+ Moon 3-32C4
+ Moore Billie 10-12 2-36H
+ Moore Billie 10-12 3-36H
+ Moore Billie 10-12 4-36H
+ MORGAN 33-4215H
+ MORGAN 33-4415H
+ Moritz 1H
+ Moritz 2H
+ Moritz 3H
+ Moritz Edward 4H
+ Moritz Edward 5H
+ Morrill Ranch 19
+ Morrill Ranch 23
+ Moseley 2-8
+ Moser A 1H
+ Moser A 3H
+ Moser A 5H
+ Moser C 2H
+ Moser C 4H
+ Moser C 6H
+ Moser C 8H
+ Mossberg Federal LC10-760
+ Mossberg Federal LC10-765
+ Mowery 1-36H
+ MRS S K East  227
+ MRS S K East 222
+ MRS S K East 223
+ Mulloy 2H
+ Mulloy 3H
+ Mulloy 4H
+ Mulloy 5H
+ Mulloy 6H
+ Mumford 1H
+ Mumford 3H
+ Murdock 4-30X31H
+ Murphy Bonded 3H 001-ALT
+ Murphy Bonded 3H 002-ALT
+ Murphy Bonded 3H 003-ALT
+ Murray 2-15A1E
+ Mutual  0780 2-8H
+ Myers 10-19-26 1HC
+ Myox 28 State Com #5H
+ Myrin Livestock 3-20B3
+ N Bauerle 4H
+ N Escavada Unit #313H
+ N Escavada Unit #328H
+ N Escavada UT 329H
+ Nageezi Unit 405H
+ Nageezi Unit 406H
+ Nashville 3-21H
+ Nashville 4-21H1
+ Nashville 5-21H
+ Natho Unit A  3
+ Natho Unit A 4
+ Natho Unit A 5
+ Natho Unit A 6
+ Nayro 1H-11
+ Nayro 2H-11
+ Nayro 3H-11
+ Nayro 4H-11
+ Nayro 5H-11
+ Neal 9-8 5-26H22
+ Neal 9-8 6-26H25
+ NEAL RANCH 38 C UNIT 3801BH
+ NEAL RANCH 38 C UNIT 3802BH
+ NEAL RANCH 42B UNIT 4201BH
+ NEAL RANCH 42B UNIT 4202BH
+ NEAL RANCH 42B UNIT 4231AH
+ NELLER GAS UNIT 1 D1H
+ Neller-Elizondo D2H
+ Nelson 11-18-2TFHU
+ Nelson 11-18H
+ Nelson 11-18TFH
+ Nelson 11-18TFHU
+ Nelson 25-26XH
+ Nelson Unit 1
+ NEPSU D-03
+ New Mexico DD State Com 4
+ Nitsch Unit B 3H
+ Nitsch Unit B 4H
+ NMC  1H
+ NMU 1-3H
+ Nola May Shay 19-9-6 1H
+ NORDENG  34X-23E
+ Norfolk 10-1H1
+ Norfolk 11-1H
+ Norge Marchand Unit 58-3
+ Norma 1H
+ Norma 2H
+ North Alamito Unit 308H
+ North Cheyenne 3-10X3H
+ North Cheyenne 4-10X3H
+ North Platte  T44-P41-13HC
+ North Platte  Y-U-13HNB
+ North Platte  Y44-U41-13HNC
+ Northern 31-30 1TFH
+ Northern 31-30 2H
+ NR-01 King North 1H
+ NR-01 King North 4H
+ Obrigewitch 24-9PH
+ Obrigewitch 44-8PHU
+ OC Rogers Conner 54-101H
+ OCHO LD 17 367HC
+ Olympia Min 2-11 HC 001-ALT
+ Oppel 1H-16-21
+ Oppel 1H-17-20
+ Oppel 1H-9
+ Orin 2-9H
+ Orr 11C-32-M
+ Orr 11N-32B-M
+ Orr 11N-32C-M
+ Orr 14C-32-M
+ Orr 14N-32C-M
+ Orr 23C-32-M
+ Orr 23N-32A-M
+ Orr 23N-32B-M
+ Orr 25C-32-M
+ Orr 25N-32B-M
+ Orr 36C-32-M
+ Orr 36N-32B-M
+ Orr State 10C-35-M
+ Orr State 10N-35A-M
+ Orr State 10N-35C-M
+ Orr State 15C-35-M
+ Orr State 15N-35B-M
+ Orr State 23C-35-M
+ Orr State 23N-35C-M
+ Orr State 25C-35-M
+ Orr State 25N-35B-M
+ Orr State 36C-35-M
+ Orr State 36N-35B-M
+ Orr State 36N-35C-M
+ Oscar Flick 1-26H
+ Otten 1H
+ Otten 2H
+ Outlaw C 11H
+ Owl Road 1-5/8H
+ Owl Road 2-4/9H
+ Oyler FIU 1-30-19XH
+ oyloe 5199 14-26 12tx 
+ Ozley 25 Federal COM 1 25
+ P Bibler  154-99-3-5-29-3H
+ P Bibler  154-99-3-5-8-14H
+ P Bibler 154-99-3-5-29-3H3
+ P Bibler 154-99-3-5-8-14H3
+ Paint Creek 902H
+ Park State 36 Com  1
+ Parker  15-18-25 1HC
+ Parks 1-27
+ Parks 3-14X23H
+ Parks 4-14X23H
+ PARKS BELL 3923H
+ PARKS BELL 3924H
+ PARKS FIELD UNIT 2 1450BH
+ PARKS FIELD UNIT 2 1450LH
+ PARKS FIELD UNIT 2 1454H
+ PARKS FIELD UNIT 2 1863BH
+ PARKS FIELD UNIT 2 1863LH
+ PARKS FIELD UNIT 2 1904 BH
+ Patent Gate 7-6 #2H
+ Patent Gate 7-6 #3H
+ Patent Gate 7-6 XW #1H
+ PAUL 25 24S 28E RB  121H
+ PAUL 25 24S 28E RB 221H
+ Peacock  36-19-26 1HC
+ Peacock 36-19-25 1HA
+ Pearce 9-10 2-5H32
+ Pearce 9-10 3-5H32
+ Pearce 9-10 4-5H32
+ Pease RU 62 1H
+ Pease RU 62 2H
+ Peeler 9
+ PEGASUS FIELD UNIT 3 104BH
+ PEGASUS FIELD UNIT 3 104LH
+ PEGASUS FIELD UNIT 3 105BH
+ PEGASUS FIELD UNIT 3 105LH
+ PEGASUS FIELD UNIT 3 105SH
+ PEGASUS FIELD UNIT 3 108BH
+ PEGASUS FIELD UNIT 3 108LH
+ PEGASUS FIELD UNIT 3 109AH
+ PEGASUS FIELD UNIT 3 109BH
+ PEGASUS FIELD UNIT 3 109LH
+ PEGASUS FIELD UNIT 3 117BH
+ PEGASUS FIELD UNIT 3 117LH
+ PEGASUS FIELD UNIT 3 118BH
+ PEGASUS FIELD UNIT 3 118LH
+ PEGASUS FIELD UNIT 3 119LH
+ PEGASUS FIELD UNIT 3 120LH
+ PEGASUS FIELD UNIT 3 5505BH
+ PEGASUS FIELD UNIT 3 5505LH
+ PEGASUS FIELD UNIT 3 5506LH
+ PEGASUS FIELD UNIT 3 5507LH
+ Pena 40H
+ Pena 42H
+ Pena 43H
+ Pena 44H
+ Pena 45H
+ Pena 46H
+ Pena 50H
+ Pena 51H
+ Pena 52H
+ Pena 54H
+ Pena A Unit 41H
+ Percy E Hill 4648H
+ Peregrine Petroleum LLC 3-30H
+ Perez Alaniz Deep B 1st
+ Perez-Alaniz Gas Unit 2ST
+ Perez-Alaniz Gas Unit 5
+ Persall 1-8/17H
+ PERSEPHONE 42/31 G 4233H
+ PERSEPHONE 42/31 H 4234H
+ Peter Phillips GU A2
+ Peters 1H-11
+ PETERSON 14X-434
+ PETERSON 5-63-30-0758C2
+ Peterson NENE  5-63-30-0857B2
+ Peterson NENE 5-63-30-0758B2
+ Peterson NWNE 5-63-30 0560B2
+ Peterson NWNE 5-63-30 0560C2B
+ Peterson NWNE 5-63-30 0659C2
+ PFWU 26
+ PFWU 34
+ PFWU 40
+ Phillips  Gas Unit A1
+ Phillips 1-17H
+ Phillips 2833-1HX
+ Phoenix  #7601H
+ PHOENIX A UNIT 7602H
+ Piccoli A #4
+ Pickle 1-8-5-32H
+ Pickle 2-9-4-33H
+ Pierce Federal A 2F
+ Pirl South U1H
+ Pirl South U2H
+ Pirl South U3H
+ Pistol 1-9-16H
+ PISTOL 25-9 4H
+ Pittman 3H
+ Plomero Ranch 10
+ Plomero Ranch 11
+ Plomero Ranch 8
+ Plomero Ranch 9
+ Pluto 1H
+ Pluto 1HB
+ Pointer Boese 44 101H
+ PONY DEAL UNIT A 12 5H
+ POPULUS FEDERAL 4H
+ Postle IC 11-002HC
+ Postle IC 11-039HN
+ Postle IC 11-042HC
+ Postle IC 11-122HN
+ Postle IC 11-319HN
+ Powell Lumber 2
+ Powell Lumber 3
+ Powers J  11H
+ Powers J  12H
+ Powers J  8H
+ Powers J  9H
+ PRCC FEDERAL 274071-3TH
+ Pribil 2007 27-1H
+ Price 001E
+ Price 1H-13
+ Price 1H-18
+ Prima 10 03-14N-6W 1HX
+ Privratsky 41-28PHU
+ Privratsky 44-21PHU
+ PTL1 32-29-164-91B
+ Puckett  13B-1
+ Puckett 22C-1
+ Puckett 23A-1
+ Puckett 23B-1
+ Puckett 23C-1
+ Puckett 32A-1
+ Puckett 32C-1
+ Puckett 33A-1
+ Puckett 33C-1
+ Puckett 34A-1
+ Querencia 27-14-7 1MH
+ Querencia 27-14-7 1WH
+ QUESO STATE 008H
+ R Moore 1-24H
+ R. Killam  1860 #4
+ R&D Hilltop Lumber N U 4H
+ R&D Hilltop Lumber S U2H
+ Raber 10H
+ Raber 12H
+ Raber 8H
+ Racine 2H
+ Racine 3H
+ Racine 6H
+ Radermecher 2-22H1
+ Radermecher 3-22H
+ Raemay Hiner Allocation A 10H
+ Raemay Hiner Allocation B 11H
+ Rafter J 1H-17-20
+ Rainbow  13C2-30D
+ Raindance FC 23-369HC
+ Raindance FC 23-369HN
+ Raindance FC 26-032HC
+ Raindance FC 26-369HC
+ Rainey  #1
+ Randolph Karen 10H
+ Randolph Karen 12H
+ Randolph Karen 1H
+ Randolph Karen 9H
+ Randolphy-Gurley Unit 104
+ Randy 1-13H11X2
+ Raspberry State Com #1H
+ RATLIFF I 4401LS
+ Rattlesnake LC10-770
+ Rattlesnake LC10-785
+ RAY 3427 A 4WA
+ RAY 3427 B 5WA
+ Razor  25O-2410
+ Razor  25O-2412
+ Razor 12G-0109A
+ Razor 12G-0110B
+ Razor 12G-0111A
+ Razor 12G-0112B
+ Razor 12H-0113A
+ Razor 12H-0115A
+ Razor 12H-0116B
+ RAZOR 25O-2411
+ RAZOR 25O-2443
+ RAZOR 25O-2444
+ Razor Federal 12G-1309A
+ Razor Federal 12G-1310B
+ Razor Federal 12G-1311A
+ Razor Federal 12G-1312B
+ Razor Federal 12H-1313A
+ Razor Federal 12H-1314B
+ Razor Federal 12H-1315A
+ Razor Federal 12H-1316B
+ Reagan 1-16-21XH
+ Reagan LD06-675
+ Reagan LD06-685
+ RED CLOUD 3801H
+ Red Raider 25 BKS State 4H
+ Red Square 16-14N-9W 1H
+ Reece Jane 1-33-4XH
+ REED 1 A 1LS
+ REED 1 A 1WA
+ REED 1 A 1WB
+ REEVES TXL FEE T7-50-15
+ Regier 7 2H
+ Remington Federal LC24-735
+ Remington Federal LC24-740
+ Renee 1-11H2
+ Renee 2-11H2
+ Renee 3-11H2
+ Renee 4-11H2
+ Renee 5-11H2
+ Renee 6-11H2
+ Reno USA 24-9TFH-2B
+ Repine 07-022-01 1H
+ Repine 07-022-04 4H
+ Repine 07-022-05 5H
+ Repine 07-022-07 7H
+ Retama Ranch  #9
+ Retama Ranch #8
+ Retzke 1-25C4
+ Reuthinger-Hachar Unit 1 #1
+ Rich 34-19-24 1HA
+ Richard 2734-1HX
+ RILEY D 1819 4WB
+ RILEY E 1819 5WB
+ Riley LD19-715
+ Riley LD19-722
+ Riley LD19-738
+ Riley LD19-745
+ Riley LD19-752
+ Ringo Federal LC23-720
+ Ringo Federal LC23-725
+ Rink 12X-4C
+ Rippstein Gotthardt 4H
+ Rippstein Gotthardt 503H
+ Rippstein Gotthardt 504H
+ Rippstein Gotthardt 5H
+ Risinger 2102 H
+ Riverside  16D2-14D
+ Riverside  3A1-24D
+ Riverside  3B1-24D
+ Riverside  3C1-24D
+ Riverside  5A2-24D
+ Riverside  5C1-24D
+ Riverside  7B2-13D
+ Riverside  7D1-14D
+ Riverside  8C1-14D
+ Riverside 10A1-14D
+ Riverside 11C2-13D
+ Riverside 12A1-13D
+ Riverside 12C1-12D
+ Riverside 12D1-12D
+ Riverside 13A2-13D
+ Riverside 13B1-12D
+ Riverside 13B2-13D
+ Riverside 13C1-12D
+ Riverside 13C2-13D
+ Riverside 13D2-12D
+ Riverside 14A2-13D
+ Riverside 14B2-13D
+ Riverside 14C1-12D
+ Riverside 16A2-14D
+ Riverside 16B2-14D
+ Riverside 1A1-13D
+ Riverside 1A2-24D
+ Riverside 1B2-13D
+ Riverside 1C1-24D
+ Riverside 2A1-13D
+ Riverside 2B1-13D
+ Riverside 2C2-24D
+ Riverside 2D1-24D
+ Riverside 4A1-24D
+ Riverside 4A2-24D
+ Riverside 4B2-24D
+ Riverside 4D1-24D
+ Riverside 5B2-24D
+ Riverside 7A1-13D
+ Riverside 7A1-24D
+ Riverside 7B1-24D
+ Riverside 7C1-24D
+ Riverside 7D1-24D
+ Riverside 8A1-24D
+ Riverside 8A2-13D
+ Riverside 8B1-13D
+ Riverside 8B2-13D
+ Riverside 8D1-14D
+ Riverside 8D2-14D
+ Riverside 9B1-14D
+ Riverside 9D1-14D
+ RK-UTL 3031A-17 1H
+ RK-UTL 3031B-17 1H
+ ROADRUNNER 3-34H
+ ROADRUNNER 4-34H
+ Robbie Ray 1-19-18XH
+ Roberts Gas Com B #001
+ Roberts Gas Com B #001 
+ Robinson 2-15-10XHS
+ Rocking G Farms 23-14 HC 001 Alt
+ RODEO UT #500H
+ Rodeo UT #501H
+ Rolla Federal 11-3-1H
+ Rolla Federal 11-3-1TFH
+ Rolla Federal 11-3-1TFHU
+ Rolla Federal 11-3-2TFH
+ Romanoff 1-25-24-13XH
+ Ronald  34-33TFH-2B
+ Roper 21-20-24 1HA
+ Rosewood 16-12-7 1H
+ Rosewood 16-12-7 2H
+ Rosewood 16-12-7 3H
+ Ross 1-20-19H
+ Roze 2-33-28H
+ RU 18-41
+ RU 19D-24
+ RU 20-13
+ RU 20-24
+ RU 21-43
+ RU 28-14
+ RU 28-22
+ RU 29-13D
+ Ruckman 2H-20
+ Ruckman Ranch 36
+ Ruckman Ranch 37
+ Ruckman Ranch 38
+ Ruckman Ranch Unit  21
+ Ruckman Ranch Unit  22
+ Ruckman Ranch Unit  40
+ Ruckman Ranch Unit 39
+ RUDD DRAW 29-3 2H
+ RUH 6-62-11-0560BH2
+ RUH 6-62-11-0659B2
+ RUH 6-62-11-0758B2
+ RUH 6-62-11-0857B2
+ Russel 10-3 #3H
+ Rustler Breaks 12 24 27  204H
+ Ruth 28-33 #2TFH
+ Ruth 28-33 #3H
+ Ruth 28-33 #4TFH
+ Ruth 28-33 #7H
+ Ruth 28-33 #8TFH 
+ Ruth 28-33 6TFH
+ Ryan 1H-26XX
+ Rymer 1H
+ Rymer 2H
+ Rymer 3H
+ Salge Kinkler  503H
+ Salge Kinkler  504H
+ Salge Kinkler  5H
+ Salvation Army 1
+ SAM BIRD 6-3 1H
+ San Christoval Ranch B 2H
+ San Christoval Ranch B 502H
+ San Christoval Ranch B 503H
+ Sanders 36-21N-18W 1H
+ Sasseen 24-10-19 1HC
+ Sawyer 1613 1H-27X
+ SCHARBAUER C 36/37 A 3621H
+ SCHARBAURER C 36/37 D 3624H
+ Schaumberg  17F-202ST
+ Schaumberg  17F-204
+ Schaumberg  17F-232
+ Schaumberg  17F-234
+ Schaumberg  17F-332
+ Schaumberg  17F-334
+ Schaumberg  17G-202
+ Schaumberg  17G-214RD
+ Schaumberg  17G-312
+ Schaumberg  17G-314
+ Schendel L 1H
+ Schendel M 1H
+ Schendel N 1H
+ Schendel-Douglas 01 2H
+ Schendel-Douglas 01 3H
+ Schendel-Douglas 01 4H
+ SCHENECKER 1813 A 1H
+ SCHENECKER 1813 A 2H
+ Schneider 19P-232
+ Schneider 19P-332
+ Schneider 19Q-202
+ Schneider 19Q-312
+ SCHNEIDER HD 11 339HN
+ SCHNEIDER HD 11 342HNX
+ SCHNEIDER HD 11 382HNX
+ SCHNEIDER HD 11-259HN
+ SCHNEIDER HD 11-259HNX
+ SCHNEIDER HD 11-262HN
+ SCHNEIDER HD 11-299HNX
+ Schrock 1-23-26XH
+ Scott 1H
+ Scott 24_13-16N 1HX
+ Scott 5H
+ SCREAMING EAGLE UNIT 3803H
+ SCREAMING EAGLE UNIT 3804H
+ SCREECH OWL FEDERAL 002H
+ SCREECH OWL FEDERAL 003H
+ SCREWDRIVER 24 FEDERAL COM 2H
+ SD WE 15 FED P9 5H
+ SD WE 15 FED P9 7H
+ Seal-Lehman B Unit 50H
+ Seal-Lehman B Unit 51H
+ Seal-Lehman B Unit 52H
+ Seal-Soto A 40H
+ Seal-Soto B 41H
+ Seal-Soto C 42H
+ Seal-Soto D 43H
+ Seal-Soto E 44H
+ Seckman  2H
+ Seckman 1H
+ Seckman Unit 3H
+ Seg Pintail  2-21H
+ Seg Pintail 2-21-28H
+ Seg Ruffeld Grouse  2-29-20H
+ Seg Wolf 2-29MH
+ Semler Gas Unit A4
+ Serenity 5-22H
+ Shadow  A26-656
+ Shadow A26-632
+ Shadow A26-637
+ Shadow A26-646
+ Shadow A26-663
+ Shangri-La 25-24-15N-8W 1HX
+ Shasta 1106 1 WH-28
+ Shasta 1106 1UMH-28
+ SHAWN COUCH OHI  10H
+ Shawn Couch OHI 206H
+ Sheriff Woody 10 Unit B 5H
+ Sherley G-4-9HC
+ Sherley H-4-9HN
+ Sherley I-4-9HN
+ Sherley J-4-9HC
+ Shields UT 15-12-3-3-13-24-1H
+ Shields UT 15-12-3-3-13-24-3H
+ SHL 22 E
+ SHL 22 F
+ SHL 22 G
+ SHL22 A
+ SHL22 B
+ SHL22 C
+ SHL22 D
+ SHL22 H
+ Shorty 4-9 1H
+ Shorty 4-9 2TFH
+ Shorty 4-9 3H
+ Sidney McCullin 16-9 H 001
+ Siegele 22H
+ Siegele 23H
+ Sisko 1-8-5XH
+ Sitka BSI State Com 1H
+ SKUNK CREEK 1-24-25-16H3
+ Sky King 47 4H
+ Slaughter Rhodes Trust  C5H
+ Slaughter Rhodes Trust C4H
+ Slawson River Rat Fed 1-23-14H
+ Slawson River Rat Fed 5-23-14MLH
+ Slider 1706 1LMH-33
+ Slo Poke 33-1H
+ Sloan 24-16N-3E 1MH
+ Sloan 24-16N-3E 2MH
+ SMALLS FEDERAL 7H
+ Smith 30-16-21 1HA
+ Smith Farms 1-24H
+ Snook B 1A
+ Snowden 27-1H
+ SOPAPILLA STATE 2H
+ South Bauerle 1H
+ SOUTH TEXAS SYNDICATE  D2H
+ SOUTH TEXAS SYNDICATE  D3H
+ Southern Ute 1-8-1
+ Southern UTE 33-10;21-1 2
+ Southern Ute AG 1
+ Southern Ute GU M2
+ Southern Ute Tribal 33-01 1
+ SOUTHERN UTE TRIBAL A 5-1
+ Southern Ute Tribal BK2
+ SOUTHERN UTE TRIBAL D 2
+ Southern Ute Tribal E3
+ Soyonara 1208  28-2MH
+ SPANISH TRAIL 218WA
+ SPANISH TRAIL 218WB
+ SPANISH TRAIL 3-10 344-1H 3441H
+ SPANISH TRAIL 3-10 344-2H 3442H
+ SPANISH TRAIL 3331H
+ SPANISH TRAIL 3332H
+ Spaur 10I-201
+ Spaur 10I-321
+ Spaur 10L-201
+ Spaur 10L-241
+ Spaur 10L-301
+ Spaur 10L-321
+ Spaur 10L-421
+ Spaur 10Q-241
+ Spohn Ranch 10H
+ Spohn Ranch 11H
+ SRC Willams  11-4-5NM-C
+ SRC Willams  A-4-5NM-C
+ SRC Williams  12-4-5NM-C
+ SRC Williams 11-4-5CM
+ SRC Williams 11-4-5NM-A
+ SRC Williams 12-4-5CM
+ SRC Williams 12-4-5NM-A
+ SRC Williams 22-4-5NM-C
+ SRC Williams A-4-5NM-A
+ ST 4401WB
+ ST 4402WB
+ ST 4407LS
+ ST 4408LS
+ St Charles  #99
+ ST Charles 103
+ ST Charles Company 109
+ ST W 4308LS
+ ST W 4310LS
+ St.Summerfield 2-18
+ Stangl 2-15N-9W 1H
+ Stark 3H-1UMX
+ Stark 4H-1LMX
+ Stark 5H-1UMX
+ State  3-36H
+ STATE 2207-36D #193H
+ State 28-13
+ State Antelope 24-21-16XRLNC
+ State Antelope 41-44-28HNB
+ State Antelope 44-21-16XRLNB
+ State Antelope O34-21-16XRLNB
+ State Com M 10
+ State CVX Unit B1314 #1
+ STATE EILAND UNIT 7-33 1H
+ STATE EILAND UNIT 9-33 1H
+ STATE EILAND UNIT 9-33 4H
+ STEBBINS 20 FEDERAL 123H
+ STEEL UNIT 8206H
+ Stella  2N
+ Stella 1N
+ Stella 3N
+ Stella 4N
+ Stenehjem 31X-28 DXA
+ Stephen 1H-27X
+ Stieb 1-12H
+ Stockton 1-34H
+ Stratosphere 36 State #6H
+ Strong  17-7
+ Strope 05-026-02  G 2H
+ Strope 05-026-03 G 3H
+ Strope 05-026-05 G 5H
+ STS I  4H
+ STS I  5H
+ STS I 3H
+ STS I 6H
+ STS I 7H
+ Stumberg Estate 11H
+ Stumberg Estate A 1H
+ Stumberg Estate B 1H
+ Stumberg Unit C 1H
+ Stumberg Unit C 2H
+ Stumberg Unit C 3H
+ Stumberg Unit C 4H
+ SUGG -A- 185 6NU
+ SUGG A 157 4SM
+ SUGG A 171-172 (ALLOC-A) 1NU
+ SUGG A 171-174 (ALLOC-H) 8NU
+ SUGG A 185 8NM
+ SUGG A 185-187 (ALLOC-F) 6SU
+ SUGG A 185-187 (ALLOC-G) 7SM
+ Sugg D 104 6NM
+ Sugg D 104 7NU
+ SUGG E 197-198 (ALLOC A) 1NU
+ SUGG E 208-207 (ALLOC-H) 8NU
+ SUGG-A- 1434NU
+ SUGG-A- 1435NU
+ SUGG-A- 1434NU
+ SUGG-A- 1435NU
+ Sullivan  #16
+ Sullivan 19st
+ Sullivan F #3
+ Sullivan Gas Unit 20ST
+ Sullivan Gas Unit A 6
+ Sullivan IV 4
+ SUMC 19-9-13H 1
+ SUN UP 29-14N-6W 1H
+ Sure Shot  903H
+ SURE SHOT 901H
+ SURE SHOT 951H
+ SUSAN SCOFIELD WAS 1H
+ Susan Scofield WAS 5H
+ Sutton 2H
+ Swaim  11H
+ Swaim  12H
+ Sweet Chin Music 25 1HA
+ SWITCHBACK STATE 21H
+ Swope 1H
+ Swope 2H
+ Swope 5H
+ Sympson  2-7-6XH
+ Sympson 10-6H
+ Sympson 12-6H
+ Sympson 6-6-7XH
+ Sympson 7-6-7XH
+ Sympson 8-7-6XH
+ Sympson 9-7-6XH
+ T COSNER FED 18-074372-1XPH
+ T R Jackson 1H
+ T-Bar-X/Botts GU #1
+ TALLOW 0433 12H
+ TALLOW 0433 8H
+ Tallow 0805 2NH
+ TALLOW 0916 10H
+ TALLOW 0916 11H
+ TALLOW 0916 12H
+ TALLOW 0916 13H
+ TALLOW 0916 7H
+ Tallow 1720 2SH
+ Tapp 003
+ Tarentaise Federal 10-19H1
+ Tarentaise Federal 11-19H
+ Tarentaise Federal 13-19H
+ TARGET B 3905WB
+ TARGET D 3904WB
+ TAYLOR A 14-16 (ALLOC-D) 4NM
+ TAYLOR A 14-16 (ALLOC-F) 6NM
+ TAZ GAS UNIT 2H
+ TAZ GAS UNIT 3H
+ TAZ GAS UNIT 4HB
+ TAZ GAS UNIT 5HB
+ TB Slick  #142
+ TB Slick  232
+ TB Slick 244
+ TB Slick 254
+ Terrell 35-26 H 1-Alt
+ The Slot 14-13N-8W 1H
+ THE SPHINX 703H
+ Thiele B Turbo A ULW 1
+ Thiele Unit B 3
+ Thiele Unit B 4
+ Thiele Unit B 5
+ Thiele Unit B 6
+ Thomas 13-16N-3E 2MH
+ Thomas 24-16N-3E 1MH
+ Thomas 24-16N-3E 2MH
+ Thompson 30-19 H 002
+ Thompson30-19 H 001
+ Thorne 1-A
+ Three Elk   4041-27 2H
+ Three Rivers Federal 33-16T-720
+ Three Rivers Federal 33-21-720
+ Three Rivers Federal 33-23-720
+ Three Rivers Federal 33-31-720
+ Three Rivers Federal 33-32-720
+ Three Rivers Federal 33-42-720
+ Three Rivers Federal 33-43-720
+ Thunder 17-12-26 1HA
+ Thunder 17-12-26 2HB
+ Thunder 17-12-26 3HC
+ THUNDERBIRD UNIT 5002H
+ TIGER 14-24S-28E RB 202H
+ TIGER 14-24S-28E RB 221H
+ TIGER 14-24S-28E RB 222H
+ Tilden O 1H
+ TIMBERWOLF STATE UNIT 1701H
+ Timmerman G13-21D
+ Tina 5H-23X
+ Tina 6H-23X
+ Tina 7H-23X
+ Tina 8H-26
+ TJ 1-13H12X1
+ TNT 1H
+ TNT 2H
+ TNT 3H
+ TNT 4H
+ TNT 5H
+ TNT EAST 4H
+ TNT EAST RU 22 3H
+ Toad 1606 1UMH-14
+ Tom 36-17-24 1HB
+ TOM MATTHEWS 10 24S 28E RB 223H
+ TOM WALTERS 12-23S-27E RB 203H
+ TOMAHAWK 2425 A 5LS
+ TOMAHAWK 2425 B 6LS
+ Tombstone Federal LC23-755
+ Tombstone Federal LC23-760
+ Tombstone Federal LC23-765
+ Tompkins   21C-08-07-95
+ Tompkins   31D-08-07-95
+ Tompkins   41D-08-07-95
+ Tompkins 21A-08-07-95
+ Tompkins 31A-08-07-95
+ Tompkins 31B-08-07-95
+ Tompkins 32A-08-07-95
+ Tompkins 32B-08-07-95
+ Tompkins 32C-08-07-95
+ Tompkins 41A-08-07-95
+ Tompkins 41B-08-07-95
+ Tompkins 42A-08-07-95
+ Tompkins 42B-08-07-95
+ Tompkins 42C-08-07-95
+ Tonya East 1H
+ Tonya East 3H
+ Tonya East 5H
+ TOP GUN  1H
+ TOP GUN  2H
+ Topeka 10-12H
+ Torrison  24-8TFH
+ TOTUM 18-TTT-C24 NL 211H
+ Toy Darrow 1H-7-6
+ Toy Darrow 1H-8-5
+ Toy Darrow 2H-7-18
+ Toy Darrow 2H-8-17
+ Trail Unit 104
+ Trail Unit 155
+ Trail Unit 49
+ Trail Unit 53
+ Trail Unit 54
+ Trail Unit 67
+ Trail Unit 68
+ Trail Unit 71
+ Trail Unit 95
+ Trail Unite 83
+ Trammell 1R-11-14-23XH
+ Travis Cobb  4H
+ Tres C FIU 1-35-2XH
+ Tretter 3H
+ Tri State Trucking PA 342-26
+ Tri State Trucking PA 343-26
+ Tri State Trucking PA 43-26
+ Tri State Trucking PA 542-26
+ Tri State Trucking PA 543-26
+ Trial 1H
+ Trial 2H
+ Trial 501H
+ Trial 502H
+ TRIANGLE 75 2H
+ Trickshot 1707 1UMH-24
+ Trigger 39-40 Unit D 12H
+ Trigger 39-40 Unit D 13HL
+ Trigger 39-40 Unit D 14H
+ Trinity 33-16N-11W 1H
+ Trout 1-36H
+ Truchan NW WHL BL 3H
+ Truchan SW WHL BL  2H
+ Truchan SW WHL BL 4H
+ TRUST STATE 242 1H
+ Tubb 3-247HA
+ Tucker 1-25H
+ Tucker 31-6HC 001 ALT
+ TURRENTINE 1
+ Twin 1-32
+ Two Shields Butte 1-24-12-1H
+ Two Shields Butte 14-33-6H
+ Twobins 5501 41-21 9TX
+ TXL 19 H301DM
+ TXL 31 H301PA
+ TXL 39 H301DM
+ TXL 7 B201BO
+ TXL SOUTH 56-T2-2X11 W101DE
+ TXL T1 2701BH
+ TXL T2 2731AH
+ TXL T3 2702BH
+ TYCOON D 703H
+ TYCOON D 751H
+ TYCOON D 752H
+ TYCOON E 1004H
+ TYCOON E 1006H
+ TYCOON E 1052H
+ TYCOON E 1053H
+ TYCOON G UNIT 1201H
+ TYCOON G UNIT 1202H
+ TYCOON G UNIT 1251H
+ TYCOON G UNIT 1252H
+ UL 21 Bighorn 1H
+ UL 23 CURIOSITY 2H
+ UL CARPENTER 7-20 UNIT 3LS
+ UL CARPENTER 7-20 UNIT 4LS
+ UL Echo Canyon 20-17 2H
+ UL ELK PARK 21-21 1H
+ UL FOURMILE 21-17 1H
+ UL FOURTH OF JULY 22-21 1H
+ UL Fremont 38-17 1H
+ UL Guanella 05-17 1H
+ UL MASON EAST UNIT 3LS
+ UL MASON EAST UNIT 4LS
+ UL MASON EAST UNIT 5LS
+ UL MASON UNIT 6LS
+ UL MASON UNIT 7LS
+ UL ROCK OF AGES 3922-17 1H
+ UL Sunshine Mesa 29-21 1H
+ UL Yankee Boy 18-17 1H
+ UNIVERSITY 3-35 105HB
+ UNIVERSITY 3-35 106HB
+ UNIVERSITY 3-35 107HB
+ University B20 11 W101DM
+ UNIVERSITY B20 12 W101AP
+ UNIVERSITY B20 12-13 W101DD
+ UNIVERSITY B20 1W W201NC
+ University B20 2 W101MD
+ UNIVERSITY B21 5 W101NC
+ UNIVERSITY B21 7 W101AP
+ UNIVERSITY B21 8 W101CN
+ USA Raven Forest 4
+ Uszynski-Furlow D  4H
+ Uszynski-Furlow D 1H
+ Uszynski-Furlow D 2H
+ Ute AB 2
+ UTL 2635-17 1H
+ UTL 2932-17 1H
+ UTL 4344-21 1H
+ UTL L J BELDIN 1211-17 3H
+ Vachal  3-34 #7H
+ Vachal  3-34 #8TFH
+ Vachal  3-34 XW #1H
+ VACHAL 3-34 #5tfh
+ VACHAL 3-34 #6H
+ VALLECITO 3738-28 1H
+ VANESSA 5232B UNIT 5232BH
+ Vanguard 20-16-26 1H
+ VAST STATE 002H
+ VAST STATE 003H
+ VAST STATE 004H
+ VAST STATE 024H
+ VAST STATE 025H
+ VAST STATE 026H
+ Vaughan 9-17 10-22H21
+ Vaughan 9-17 8-22H26
+ Vaughan 9-17 9-22H26
+ Vermillion #1
+ Verona 6-23-14XH
+ VETO 1301H
+ Vible  10C1-1D
+ Vible  15A1-1D
+ Vible 10B1-1D
+ Vible 11C1-1D
+ Vible 11D1-1D
+ Vible 11D2-1D
+ Vible 13B2-1D
+ Vible 13C2-1D
+ Vible 13D1-1D
+ Vible 13D2-1D
+ Vible 14A1-1D
+ Vible 14B1-1D
+ Vible 14C1-1D
+ Vible 14D1-1D
+ Vible 15B1-1D
+ Vible 15C1-1D
+ Vible 3B1-12D
+ Vible 3B2-12D
+ Vickrey 1H-32-5
+ Viking Helmet State Com #2H
+ VIKING HELMET STATE COM 24H
+ Vinson 3R-22X27H
+ Voloshin 3-25
+ W Lybrook Unit  744H
+ W LYBROOK UNIT #716H
+ W LYBROOK UNIT #718H
+ W LYBROOK UNIT #719H
+ W Lybrook Unit 701H
+ W Lybrook Unit 702H
+ W Lybrook Unit 703H
+ W Lybrook Unit 704H
+ W Lybrook Unit 711H
+ W Lybrook Unit 743H
+ W LYBROOK UNIT 753H
+ W LYBROOK UNIT 754H
+ W LYBROOK UNIT 755H
+ W Lybrook UT 710H
+ W Lybrook UT 712H
+ W Lybrook UT 714H
+ W Lybrook UT 735H
+ W Lybrook UT 750H
+ W Lybrook UT 751H
+ W Lybrook UT 752H
+ W LYBROOK UT 767H
+ Walker 8-6 #1
+ Walker West 5H
+ Walker West 6H
+ Wallaby GU 1H
+ Wallaby GU 2H
+ WANORECK C POOLED UNIT N135HU
+ WANORECK D POOLED UNIT N137HU
+ Warbler State Com #4H
+ Warbonnet  13C2-2D
+ Warbonnet  14A2-23D
+ Warbonnet  14B1-12D
+ Warbonnet  15D1-25D
+ Warbonnet  4A1-11D
+ Warbonnet  9C1-25D
+ Warbonnet 10C2-2D
+ Warbonnet 11A2-2D
+ Warbonnet 11C2-23D
+ Warbonnet 11C2-2D
+ Warbonnet 11D2-2D
+ Warbonnet 12B1-2D
+ Warbonnet 12C2-2D
+ Warbonnet 13A1-2D
+ Warbonnet 13B1-12D
+ Warbonnet 13B1-2D
+ Warbonnet 13B2-24D
+ Warbonnet 13C1-12D
+ Warbonnet 13C2-24D
+ Warbonnet 13D1-12D
+ Warbonnet 13D2-24D
+ Warbonnet 13D2-2D
+ Warbonnet 14B1-2D
+ Warbonnet 14C1-12D
+ Warbonnet 14C1-2D
+ Warbonnet 14C2-24D
+ Warbonnet 14D1-2D
+ Warbonnet 15B2-2D
+ Warbonnet 16C1-25D
+ Warbonnet 3A1-13D
+ Warbonnet 3B1-11D
+ Warbonnet 3B2-13D
+ Warbonnet 3D2-13D
+ Warbonnet 4B1-13D
+ Warbonnet 4C1-13D
+ Warbonnet 4D1-13D
+ Warbonnet 4D2-11D
+ Warbonnet 5A1-13D
+ Warbonnet 5B1-13D
+ Warbonnet 5C2-2D
+ Warbonnet 5D2-2D
+ Warbonnet 6A1-13D
+ Warbonnet 6B1-13D
+ Warbonnet 6C2-2D
+ Warbonnet 6D1-13D
+ Warbonnet 7B1-13D
+ Warbonnet 7C1-13D
+ Warbonnet 9-23-A-1H
+ Warbonnett 5C1-13D
+ Warbonnett 6C1-13D
+ Warchime 25-18-25 1HA
+ Ward 2-33 4H
+ Ward 3-33 4H
+ WARE SR 13-12
+ WARE SR 23-12
+ WARE SR 423-12
+ Warner 1H
+ Warner 4H
+ Warner 5H
+ WARREN 25-23S-27E RB 203H
+ WARREN 25-23S-27E RB FED COM 206H
+ Wassman B 5H
+ Watson North 1-8-17XH
+ WCU 5 5
+ Weber  1806-15-1MH
+ Wefler N U3H
+ Welder 4
+ Wells Ranch AA22-617
+ Wells Ranch AA22-625
+ Wells Ranch AA22-631
+ Wells Ranch AA22-688
+ Wells Ranch AF05-625
+ Wells Ranch AF05-635
+ Wells Ranch BB01 624
+ Wells Ranch BB01- 638
+ Wells Ranch BB01-611
+ Wells Ranch BB01-615
+ Wells Ranch BB01-669
+ Wells Ranch State AA23-750
+ Wells Ranch State AA33-718
+ Wells Ranch State AA33-725
+ Wells Ranch State AA33-735
+ Wells Ranch State AA33-744
+ Wells Ranch State AA33-755
+ Wells Ranch State BB05-630
+ Wells Ranch State BB05-635
+ Wells Ranch State BB05-644
+ Wells Ranch State BB05-650
+ Wells Ranch State BB05-656
+ Wells Ranch State BB05-665
+ Wells Ranch State BB05-669
+ West Pena B  220H
+ West Pena B  221H
+ West Pena B  222H
+ West Pena C 33H
+ West Pena C 34H
+ West Pena C 35H
+ West Pena D  30H 
+ West Pena D  31H 
+ West Pena D  32H 
+ WEYERHAEUSER 14-23 HC 001-ALT
+ WEYERHAEUSER 14-23 HC 002-ALT
+ Weyerhaeuser 15-10 HC 001
+ Weyerhaeuser 15-22 HC 1-Alt
+ Weyerhaeuser 15-22 HC 2-Alt
+ Weyerhaeuser 6-7 H 001
+ WEYERHAEUSER 6-7 H 002
+ WHATCHA WANT UNIT 7376H
+ Whipple 2H
+ Whiske Canyon 10
+ Whiskey Canyon 12
+ Whiskey Canyon Unit 13
+ Whiskey Canyon Unit 15
+ Whiskey Canyon Unit 8
+ Whiskey Canyon Unit 9
+ Whiskey River  98-34 1H
+ White 2-23C5
+ White 5198 12-6 5B
+ White 5198 12-6 6T
+ White 5198 12-6 7B
+ White City 31 Federal 4
+ Wiedeman 11-5-3-NCHZ
+ Wiedeman 12-5-4CHZ
+ Wiedeman 12-5-4NCHZ
+ Wiedeman 21-5-3CHZ
+ Wiedeman 21-5-3NBHZ
+ Wiedeman 22-5-4CHZ
+ Wiedeman 22-5-4NBHZ
+ Wiedeman A-5-3NBHZ
+ Wigeon 23 Fed Com 4H
+ Wild Cap State 8H
+ Wile E Coyote State 40 3H
+ WILL TRUST 6-62-10-1614B2
+ WILL TRUST 6-62-10-1719BN2
+ WILL TRUST 6-62-10-1719BS2
+ WILL TRUST 6-62-10-3230B2
+ WILL TRUST 6-62-10-3335B2
+ WILL TRUST 6-62-10-4846BN2
+ WILL TRUST 6-62-10-4846BS2
+ WILL TRUST 6-62-10-4951B2
+ WILL TRUST 6-62-10-6462BN2
+ WILL TRUST 6-62-10-6462BSB
+ William Unit A 4
+ Williams 3-27HLC
+ Wilma WRN JF 1H
+ Wilma WRN JF 3H
+ Wilma WRN JF 5H
+ WILSON 1-6MH
+ Winchester Federal LC24-715
+ Winchester Federal LC24-720
+ Winchester Federal LC24-725
+ Wind A-17N-A
+ WINDHAM -A-  101LH
+ WINDHAM -A-  102LH
+ WINDHAM -A- 102BH
+ WINDHAM A 101BH
+ WINDHAM A 103 LH
+ WINDHAM A 103BH
+ WINDHAM A 104 LH
+ WINDHAM A 104BH
+ WINDWARD FEDERAL 011H
+ WINDWARD FEDERAL 012H
+ Winfield-Raemay Allocation A 880H
+ Winfield-Raemay Allocation B 881H
+ Winfield-Raemay Allocation C 882H
+ Winfield-Raemay Allocation D 883H
+ Wingard 1-22-15XH
+ Winham 7-22H
+ Winkelmann 1H
+ Wolverine 55-1  1H
+ Woodring 30-31-1H
+ WOODY 3-46 1H
+ Worley GU  #3
+ WORSHAM 1405H
+ Wyatt 1-5-8XH
+ Wyatt 1H-24
+ Wyatt Bridger 1-12H
+ YBLD 9&16-11-14H 001
+ Yogi 1808 8-1UOH
+ York 6-1H
+ Yoshi 1606 1UMH-15
+ Yost A 1H
+ Yost B 5H
+ Youberg RU 14-7
+ Youberg RU 23-7
+ Youberg RU 24-7
+ Youberg RU 31-7
+ Youberg RU 311-7
+ Youberg RU 313-7
+ Youberg RU 321-7
+ Youberg RU 323-7
+ Youberg RU 324-7
+ Youberg RU 412-7
+ Youberg RU 413-7
+ Youberg RU 422-7
+ Youberg RU 423-7
+ Youberg RU 424-7
+ Youberg RU 513-7
+ YOUBERG RU 514-7
+ Youberg RU 523-7
+ Youberg RU 524-7
+ Youberg SR 12-12
+ Youberg SR 21-12
+ Youberg SR 22-12
+ Youberg SR 31-12
+ Youberg SR 311-12
+ Youberg SR 312-12
+ Youberg SR 321-12
+ Youberg SR 322-12
+ YOUBERG SR 332-12
+ Youberg SR 341-12
+ Youberg SR 342-12
+ Youberg SR 344-12
+ Youberg SR 41-12
+ YOUBERG SR 42-12
+ Youberg SR 421-12
+ YOUBERG SR 422-12
+ Youberg SR 44-12
+ Youberg SR 441-12
+ Youberg SR 442-12
+ Youberg SR 511-12
+ Youberg SR 521-12
+ Youberg SR 531-12
+ Youberg SR 541-12
+ YOUBERG SR 544-12
+ Young 3-15A3
+ Young 3-36A1
+ ZACH MCCORMICK FED 18-24S-29E 1
+ Zaeske Eckols 3H
+ Zaeske Eckols 4H
+ Zaeske Eckols 503H
+ Zaeske Eckols Unit 2H
+ Zaeske Eckols Unit 501H
+ Zaeske Eckols Unit 502H
+ ZOS 1-26-35XH
+ ZUMA 3 57-T1-3X10 W102AP
+ ZUMA 3 B203BO
+ ZUMA 3 B203DM
+ ZUMA 3 SL W202DM
+1-23 Baggerly
+11X-34R
+1C-19
+2A-26
+2E-08
+2K-30
+2M-33
+2S-06
+2S-09
+2S-14
+3-67-36R
+312-JD-10H
+315-J-10H
+348-D-10H
+365X-32S
+392 Ventures 12-22D
+392 Ventures 22AD
+392 Ventures 22JD
+3A-01
+3J Trust 24-8-2PH
+3J Trust 34-8-2PH
+3M 19-11-3 1H
+512426
+512427
+512428
+513064
+513065
+513067
+513068
+513141
+513702
+513775
+513827
+513845
+513923
+514082
+514083
+514096
+514101
+514119
+514462
+514463
+514474
+514475
+514476
+514477
+514478
+514479
+514480
+515495
+515496
+515874
+515883
+515884
+515885
+515886
+515887
+515888
+515966
+515967
+515F4-34
+516206
+516847
+516849
+516850
+516DR3-20
+517C3-34
+517D3-20
+517L1-20
+518G4-20
+519134
+519167
+519168
+521Z2-33
+523ER4-29
+528E2-20
+528L2-20
+528L2-34
+531G2-29
+538N1-20
+539G1-28
+542D4-29
+542F4-33
+542Z3-33
+543G1-29
+544Z3-29
+546Z-29
+548D2-34
+548Z2-34
+551A4-33
+552G2-33
+552Z4-33
+553Z2-29
+554D1-29
+555C5-29
+561D-13
+561D1-13
+562S3-33
+563L2-33
+567Z-29
+571A-13
+571A1-13
+571C-13
+571C1-13
+571D-13
+571D1-13
+571L1-13
+571N1-13
+572C-13
+572E1-13
+572ER-13
+572G1-13
+572GR-13
+572N3-33
+575MR-33
+576N2-29
+583L1-33
+587K2-33
+58X-28R
+590419
+590420
+591405
+591979
+592110
+592305
+592339
+592341
+592343
+592345
+592406
+592594
+592595
+592700
+592701
+592702
+592703
+592704
+592766
+592801
+592980
+592981
+592983
+592986
+593052
+593056
+593058
+593059
+593068
+593069
+593070
+593071
+593072
+593150
+593154
+593155
+593164
+593165
+593166
+593168
+593169
+593170
+593171
+593172
+593370
+593453
+593454
+593512
+593731
+593733
+593734
+593771
+593773
+593774
+593775
+593789
+593807
+593808
+593809
+593838
+593839
+593850
+593851
+593852
+593901
+593939
+593940
+593941
+593975
+593976
+593996
+594004
+594006
+594004
+594006
+594303
+594304
+594315
+594874
+596559
+596560
+596561
+596562
+7002F-3
+7026G-3
+7026H-3
+7027H-3
+7027J-3
+7052G-3
+7060C-3
+7060D-3
+7060E-3
+7076K-3
+7076L-3
+7080F-3
+7085A-3
+7109C-3
+7122H-2
+7144C-2
+71X-33R
+7294L-2
+7298B-2
+73X-33R
+7463D-2
+82X-33R
+8ZLW-328A
+900148
+911RR2-29
+915C-34
+916JR2-34
+916NR2-18
+917A-20
+917CR-20
+917E2-20
+917FR3-20
+917KR3-20
+917MR3-34
+917NR-20
+917R-20
+918FR2-20
+921F-33
+921JR3-33
+921RR-29
+922PR-29
+927FR2-34
+927NR2-20
+927SR3-20
+928A-28
+928CR-18
+928NR-20
+928RR2-20
+928SR-28
+928ZR-20
+934CR2-29
+935GR-29
+935HR2-29
+938ZR-18
+941HR2-33
+942C-29
+942E-33
+942KR2-29
+943JR2-33
+943KR-29
+944LR2-29
+944Z-33
+948N-28
+948NR2-18
+951GR3-33
+952KR-33
+952PR-33
+953C-33
+953SR3-33
+954BR2-29
+954GR2-29
+961P-13
+962ER-33
+962RR2-33
+963ER2-33
+963PR2-33
+964ER3-33
+965GR-33
+971J-13
+971M-13
+971R-13
+971S-13
+972F-13
+972H-13
+974JR-33
+974NR3-33
+974W2-33
+974ZR2-33
+975P2-29
+976D2-33
+983ER-33
+985JR-33
+986HR2-33
+988D-29
+A Banduch C 2H
+A Banduch C 3H
+A Banduch C 4H
+A C Land & Cattle 22-27-11 1H
+A Davidson 38B 1HL
+A Davidson 38B 2HF
+A Davidson 38B 3HE
+A Davidson 38B 4HK
+A Davidson 38B 5HL
+A Davidson 38C 6HF
+A Davidson 38C 7HE
+A Davidson 38C 8HK
+A Davidson 38D 10HF
+A Davidson 38D 9HL
+A HERRING 94 93 1N 11H
+A RANCH UNIT 1H 
+Abbie Lane 30G 10H
+Abbie Lane 30G 11H
+Abbie Lane 30G 12H
+Abbie Lane 30G 9H
+Abbie Lane 30X 2H
+Abbie Lane 30X 3H
+Abbie Lane 30X 4H
+Abbie Lane 30X 5H
+Abbie Lane 30X 6H
+Abbie Lane 30X 7H
+Abbie Lane 30X 8H
+ABE 30-31 #1H
+ABE 30-31 #2H
+ABE 30-31 #5H
+Abe Troyer 10H
+Abe Troyer 8H
+Abel 4-4
+ACAA1IUD
+ACAA1JUD
+ACADIA A # 1H
+ACADIA B # 2H
+ACADIA C # 3H
+ACADIA D # 4H
+ACCO TERRA STATE 18-36
+ADAMS 3131
+ADAMS 4211
+ADAMS 4244
+Adamson #1-9H
+Adelman 5-9C4 RECOM
+Adkins #5A
+ADKINS TIDWELL 4403 1WA
+Admiral 1-19-13 1HC
+Admiral Chester NIM 1HA
+Admiral Chester NIM 2H
+Admiral Ernest King 1HC
+Admiral Ernest King 2H
+Admiral Franck Flet 1HC
+Admiral Frank Fletc 2H
+Admiral William Hal 1HA
+Admiral William Halsey Jr. 3XH
+Advanced L&T #11-2
+Advanced L&T #11-3
+Affirmed 23 State Unit #1H
+AGATE 179-142-1S 61H
+AGATE 179-142-2S 21H
+AGATE 179-142-3S 25H
+AH Irby Et Al #8
+Ahrberg 1A
+Ahrberg 2A
+AK STEEL D UNIT 1H 
+AK STEEL D UNIT 2H
+AK STEEL D UNIT 3H 
+Alamo Fed 3976-33-28-1FH
+Albrighton G-10HN
+Aldag 3-35-36-164N-100W
+Aldag 5A-26-25-164N-100W
+Alfsvaag 4-31H
+Alfsvaag 5-31H1
+Alkali Gulch Unit 11-17D
+Alkali Gulch Unit 13-18D
+Alkali Gulch Unit 15-19D
+ALLEN 39 11H
+ALLEN 39 16H
+Allen, John Unit #10H
+Allen, John Unit #6H
+Allen, John Unit #7H
+Allen, John Unit #8H
+Allen, John Unit #9H
+ALLMAN UNIT # 8H
+ALLMAN UNIT # 9H
+ALLMAN UNIT #101H
+ALLMAN UNIT #10H
+ALLMAN UNIT #11H
+ALTITO -B- 23 H - REFRAC
+Altito A 18C Unit 1810H
+Altito A 18C Unit 1811H
+Altito A 18C Unit 187H
+Altito A 18C Unit 188H
+Altito A 18C Unit 189H
+Altito A 19A Unit 1914H
+Altito A 19A Unit 274H
+Altito A 19A Unit 275H
+Altito A 19A Unit 276H
+Altito A 19A Unit 277H
+Altito A 19C Unit 1913H
+Altito A 23A Unit 234H
+Altito A 23B Unit 235H
+Altito A 28A Unit 2813H
+Altito A 28A Unit 2814H
+Altito A 28A Unit 2815H
+Altito A-1 195H
+Altito B 302D Unit 10H
+Altito B 302D Unit 11H
+Altito B 302D Unit 3028H
+Altito B 7A Unit 74H
+Altito B 7A Unit 75H
+Altito D 17A Unit 1712H
+ALVIN 1N-29HZ
+ALVIN 26C-29HZ
+ALVIN 27G-29HZ
+ALVIN 27N-29HZ
+ALVIN 28N-29HZ
+ALVIN 2C-29HZ
+ALVIN 2N-29HZ
+AMANDA 14 #3
+Amanda 21-6-8 1H
+American Pharoah 43 State Unit #1H
+AMERIGO 901A 1H
+AMERIGO 901BL 2H
+AMERIGO 902A 2H
+AMERIGO 902B 1H
+AMERIGO 903A 02H
+AMERIGO 903BL 01H
+Ames Federal 31X-13B
+Ames Federal 31X-13BXC
+Ames Federal 31X-13F
+Ames Federal 31X-13FXG
+ANDELE 16 STATE COM #702H
+ANDELE 16 STATE COM #703H
+ANDELE 16 STATE COM #704H
+ANDERSON 148-100-7-6-2H
+ANDERSON 148-100-7-6-3H
+ANDERSON 148-100-7-6-4H
+Anderson Ranch 3A MBH
+Anderson Ranch 3B TFH
+Anderson Ranch 3C MBH
+Angela Kay 1-22H
+ANGUS UNIT # 5H
+ANGUS UNIT # 6H
+ANGUS UNIT # 7H
+ANGUS UNIT # 8H
+ANGUS UNIT # 9H
+Animal Kingdom 44 A #3H
+Anna 2-34H
+Anna 3-34H1
+Anna 4-34H1
+Anna 5-34H
+Anna 6-34H1
+Anna 7-34H
+Anna 8-34H1
+Anna 9-34H1
+Anna G Baker 6B-30-2H TF
+ANNE COM 15-24S-28E RB 221H
+Anschutz Equus Farms 4-62-29-0801CS
+Anschutz State Fed 5-62-27-0164B2B
+Anschutz State Fed 5-62-27-0362B2
+Anschutz State Fed 5-62-27-0362C2
+Antelope T34-P31-21HNC
+ANTIETAM 9 FED COM #701H
+ANTIETAM 9 FED COM #702H
+ANTIETAM 9 FED COM #703H
+ANTIETAM 9 FED COM #704H
+ANTRIM COOK UNIT # 6H
+ANTRIM COOK UNIT # 7H
+ANTRIM COOK UNIT # 8H
+Apollo
+Appledoorn 14-19H
+APRICOT UNIT # 1H
+ARBALEST 264-0607H
+ARBALEST 272-06H
+Arellano Q-10-9HN
+Arellano R-10-9HC
+Arellano S-10-9HN
+Arellano T-10-9-HN
+ARES 4 STATE #201H
+ARLETA K 1-20-29XH
+Armstrong 2007H
+Armstrong 2008HA
+Army Mule 3976-02-11-01FH
+Arndt A 10H
+Arndt A 11H
+Arndt A 13H
+Arndt A 9H
+ARONCO 4-4C4 RECOM
+ARTEMIS 42/06 E 4235H
+Artie Lee 0504 24-1HW
+Arvine 28A-2H
+Ash 1705 5A-19MH
+Ash 1705 5B-19MH
+Ash 1705 5C-19MH
+Asher 4207
+ASSAULT 126 1HA
+Atlantic Inland Group #5H
+ATLAS #1H
+ATLAS #2H
+Atzger Unit 7H
+Aubie 1H
+Aubie 2H
+Aubie 3H
+AUDACIOUS BTL FEDERAL COM #2H
+Augustus 1H
+Auld 2H-34x
+Aurelius 1H
+Ausitn BIA #1-27H
+AUSTIN 7-6 / 4405H
+Austin, R. E. GU 1H
+AVOCADO UNIT # 1H
+AX113A
+Axis Unit 1H
+Axis Unit 2H
+Axis Unit 3H
+AY112A
+AY145
+AZ99A
+B Harper 23-15-9H 001 05/30/2016
+B Lee State #6
+B&D Land 4-64- 4-5 4BH
+B&V 11A-18-07-95
+B&V 11B-18-07-95
+B&V 13A-07-07-95
+B&V 13B-07-07-95
+B&V 13C-07-07-95
+B&V 13D-07-07-95
+B&V 14B-07-07-95
+B&V 14C-07-07-95
+B&V 14D-07-07-95
+B&V 21A-18-07-95
+B&V 23A-07-07-95
+B&V 23B-07-07-95
+B&V 23C-07-07-95
+B&V 23D-07-07-95
+B&V 24B-07-07-95
+B&V 24C-07-07-95
+B&V 24D-07-07-95
+B&V 33A-07-07-95
+B&V 33B-07-07-95
+B&V 33C-07-07-95
+B&V 33D-07-07-95
+B&V 41A-13-07-96
+B40
+BABCOCK 12N-33HZ
+BABCOCK 14C-33HZ
+Babcock 2-12B4 - RECOM 3
+BABCOCK 22N-33HZ
+BABCOCK 23N-33HZ
+BABCOCK 33C-33HZ
+BABCOCK 35C-33HZ
+Bachelder 1H
+Bacorn BRA 2H
+Baden Baden 7 State Unit #1H
+Bagwell 1808 24-1H
+BAHAMA A UNIT # 1H
+Bahl Unit 1H
+Bahl Unit 2H
+Bahl Unit 3H
+Bailey 20
+Bailey 2H
+Bailey 3H
+Bailey Retzloff Unit 10H
+Bailey Retzloff Unit 508H
+Bailey Retzloff Unit 510H
+Bailey Retzloff Unit 8H
+Bailey Retzloff Unit 9H
+Bailey Retzloff Unit AC 7H
+Baker 9_16-15N-11W 1HX
+BALLISTA 002-1004H
+BALLISTA 213-1301H
+Bandicoot 1HB
+Bandicoot 2H
+Banner Unit 1H
+Banner Unit 2H
+Barataria Bay S #1
+Bargmann Trust A Enervest JV A 1
+Bargmann Trust A Enervest JV B 1
+Bargmann Trust Unit A 2
+Bargmann Trust Unit A 3
+Bargmann Trust Unit A 4
+Bargmann Trust Unit A 5
+Bargmann Trust Unit A 7
+Bargmann Trust Unit A 8
+Bargmann Trust Unit A 9
+Barlow 1305 1-18MH
+Barnes DE Estate #3H
+Barricade 41-1
+Bashara Prothro #103
+Bashor PC GQ #15-13
+Basin Royalty R803HB
+Bass 1
+BAST -34-39 4215H
+BAST 34-39 4415H
+Baston Heirs 29-20HC #1
+Baston Heirs 29-32HC #1
+Baston Heirs 29-32HC #2
+BATES 31-43  4301H
+BATES 31-43  4401H
+BATES 43 AND 42  4314H
+BATES 43 AND 42  4414H
+BATES 43-42  4415H
+BATES 43-42 4315H
+Bates CRC JF 5H
+BATTLE 34 FEDERAL 4H
+Baumberger Unit 5H
+Baumunk South A - 4H
+Baumunk South Unit B 1H
+Baustert #1H-2920X
+BB135A
+BBOG Burns 1H
+Bear Creek 31X-3BXC
+Bear Creek 31X-3F2
+Beaten Path 597-648 2xh
+Beaten Path 597-648 3XH
+Beaver Creek 149-94-31B-30H TF
+Beckett 28-15-9 H 001 03/06/2017
+Bedillion Day Unit #10H
+Bedillion Day Unit #11H
+Bedillion Day Unit #12H
+Bedillion Day Unit #13H
+Bedillion Day Unit #19H
+Bedillion Day Unit #20H
+Bedillion Day Unit #9H
+Beecham-Hunt 1307 #1UMH-13
+Begola USA 34-22H
+Belgian 15 Fed Com 1H
+Benbow 4-33 HC 1- ALT
+Benjamin 112-2H
+Bennett 1H
+Bennett 2-14H
+Bennett 3-14H
+BEOWULF 33 STATE COM #601H
+Berdie Unit 30H
+Bergbigler A4H
+Bergbigler A5H
+Bernhardt 2-13H
+Bernhardt 8_5-15N-9W 1HX
+BERRY APN STATE #5H
+BERRYMAN 1423 #5H
+Bertie 1-33
+Bessie 44 1
+Best GC 001M
+BETSY COCHRAN 25
+BETTY LOU 1011H
+BETTYLOU 1016H
+BETTYLOU 1601
+Beulah Magness No. 5
+BIA 5-8-9 IH
+Big Earl 6-15N-10W 1H
+Big Four 1706 1OH-36
+Big Gulp SWD #1
+Big Jake 1H
+Big Oak C2H
+Big Oak C3H
+BIG SANDY 522-2536H
+Big Sinks Draw 25 Fed Com 4H
+Big Timber 1408 #1UMH-2
+BIG WELLS SOUTH DIM F 10H
+BIG WELLS SOUTH DIM F 11H
+BIG WELLS SOUTH DIM F 1H
+BIG WELLS SOUTH DIM F 2H
+BIG WELLS SOUTH DIM F 3H
+BIG WELLS SOUTH DIM F 4H
+BIG WELLS SOUTH UNIT 14 DIM D 4H
+BIG WELLS SOUTH UNIT 14 DIM D 5H
+BIG WELLS SOUTH UNIT 15 DIM D 6H
+BIG WELLS SOUTH UNIT 15 DIM E 1H
+BIG WELLS SOUTH UNIT 16 DIM E 2H
+BIG WELLS SOUTH UNIT 16 DIM E 3H
+BIG WELLS SOUTH UNIT 17 DIM E 4H
+BIG WELLS SOUTH UNIT 17 DIM E 5H
+BIG WELLS SOUTH UNIT 17 DIM E 6H
+BIG WELLS SOUTH UNIT 3 DIM D 2H
+BIG WELLS SOUTH UNIT 3 DIM D 3H
+BIG WELLS SOUTH UNIT 4 DIM D 1H
+Bighorn South Unit 1-31 #2H
+Billiken 7 Fed 1H
+Billiken 7 Fed 2H
+Billy R Harper 14 H 001 05/30/2016
+Birdsall 2615 1H-11B
+BISCUIT STATE 3976-15-22-2FH
+Bivins LIT 4-7
+BLACK BEAR 36 STATE #601H
+BLACK BEAR 36 STATE #705H
+BLACK BEAR STATE 11 SNE 5H
+BLACK D 1
+Black Magic 6 Com #1
+Black Mamba 13-17N-10W 1H
+Black Stone A-398 B 4 ST 1
+Black Stone A-398 H3
+Blackbeard Operating LLC 
+BLACKBERRY UNIT # 1H
+BlackStone A-398 H2
+Blackstone Minerals 2H#1
+Blackstone Minerals 2H#2
+Blackstone Minerals 35-26HC#1
+Blacktail #19-05-31 1H
+Blackwell Eyhorn B 8H
+BLADE 39-2210H
+BLADE 42-18H
+BLADE 43-1807H
+BLADE 434-2128H
+BLADE 447-2210H
+BLADE 451-1930H
+BLADE 452-19H
+BLADE 453-2128H
+Blakeway 1 C DIM 2H
+Blakeway 1 D DIM 3H
+BLAKEWAY 2 D DIM 4H
+BLAKEWAY 3 D DIM 2H
+Blanchard Unit 3H
+Blegen Ranch 3D TFH-ULW
+Blue Creek USA 24-22TFH-2B
+Bluebird 3-18N-15W 1H
+Blurton 3-7-6XH
+BMC B 32A-13-07-96
+BMC B 32B-13-07-96
+BMC B 41B-13-07-96
+BMC B 41C-13-07-96
+BMC B 41D-13-07-96
+BMC B 42A-13-07-96
+BMC B 42B-13-07-96
+BOEDEKER #15H
+BOEDEKER #16H
+BOEDEKER #17H
+BOLCATO, G. 10H
+BOLCATO, G. 2H
+BOLCATO, G. 5H
+BOLCATO, G. 6H
+BOLCATO, G. 8H
+Bold Johnson 56-T1-34 2H
+Bolf Unit 1H
+BOLT 241-06H
+BOLT 31-06H
+Bonneville 4-23H
+Bonneville 5-23H1
+Bonneville 6-23H1
+Bonnie 1-3H
+Bonsai 32_29-15N-12W 1HX
+Boomhauer 1705 1-15MH
+BOOTLEGGER 21 FEDERAL COM 1H
+Bornemann 1H-7
+Bournakis 3-18B4 RECOM 4
+BOWERS 5-6-4-2E
+Bowman West 141H
+Bowman West 142H
+Bowman West 143H
+Bowman West 144H
+Bowman West 145H
+Bowman West 146H
+BOYD X STATE COM #15H
+BOYLES UNIT # 5H
+BOYLES UNIT # 6H
+BOYLES UNIT # 7H
+BR C-24O 32C-24-2-98
+BR C-24O 32D-24-2-98
+BR C-24O 42D-24-2-98
+BR C-24O 43A-24-2-98
+BRACHIOSAURAUS 26_23-15N-9W 1HX
+Brake 5-5N
+Brandt 1707 #1LMH-12
+BRASWELL 16 STATE #704H
+BRASWELL 16 STATE #705H
+BRASWELL 16 STATE #706H
+BRASWELL 16 STATE #707H
+BRASWELL 16 STATE #708H
+BRASWELL 16 STATE #709H
+Bratlien 3-26H
+Bratlien 4-26H1
+Bratlien 5-26H
+Bravo 28-20-12 1HC
+BRC 1-9
+Breniser #3
+BRIDGE STATE UNIT #301H
+BRIDGE STATE UNIT #602H
+BRIDGE STATE UNIT #701H
+Briscoe Catarina E 5H
+Briscoe Catarina E 6H
+Briscoe Catarina E GU1 4H
+Briscoe Catarina North 104H
+Briscoe Catarina North 105H
+Briscoe Catarina North 106H
+Briscoe Catarina North 107H
+Briscoe Catarina North 108H
+Briscoe Catarina North 109H
+Briscoe Catarina North 110H
+Briscoe Catarina North 111H
+Briscoe Catarina North 112H
+Briscoe Catarina North 113H
+Briscoe Catarina North 114H
+Briscoe Catarina North 115H
+Briscoe Catarina North 116H
+Briscoe Catarina North 117H
+Briscoe Catarina North 118H
+Briscoe Catarina North 119H
+Briscoe Catarina North 120H
+Briscoe Catarina North 121H
+Briscoe Catarina North 122H
+Briscoe Catarina North 123H
+Briscoe Catarina North 124H
+Briscoe Catarina North 125H
+Briscoe Catarina North 126H
+Briscoe Catarina North 127H
+Briscoe Catarina North 128H
+Briscoe Catarina North 129H
+Briscoe Catarina North 130H
+Briscoe Catarina North 131H
+Briscoe Catarina North 132H
+Briscoe Catarina West 01HA
+Briscoe Catarina West 01HB
+Briscoe Catarina West 01HC
+Briscoe Catarina West 01HD
+Briscoe Catarina West 83H
+Briscoe Catarina West 84H
+Briscoe Catarina West 85H
+Briscoe Catarina West 86H
+Briscoe Catarina West 87H
+Briscoe Catarina West 88H
+Briscoe Catarina West 89H
+Briscoe Catarina West 91H
+Briscoe Catarina West 92H
+Briscoe Catarina West 93H
+Briscoe Catarina West 94H
+Briscoe Catarina West 95H
+Briscoe Catarina West 97H
+Briscoe Catarina West Ranch 96H
+Briscoe Cochina East Ranch 133H
+Briscoe Cochina East Ranch 134H
+Briscoe Cochina East Ranch 135H
+Briscoe Cochina East Ranch 136H
+Briscoe Cochina East Ranch 137H
+Briscoe Cochina East Ranch 138H
+Briscoe Cochina East Ranch 139H
+Briscoe Cochina East Ranch 140H
+Briscoe Cochina East Ranch 141H
+Briscoe Cochina East Ranch 142H
+Briscoe Cochina East Ranch 143H
+Briscoe Cochina East Ranch 144H
+Briscoe Cochina East Ranch 145HR
+Briscoe Cochina East Ranch 146H
+Briscoe Cochina East Ranch 147H
+Briscoe Cochina West Ranch 34H
+Briscoe Cochina West Ranch 35H
+Briscoe Cochina West Ranch 36H
+Briscoe Cochina West Ranch 37H
+Briscoe Cochina West Ranch 38H
+Briscoe Cochina West Ranch 45H
+Briscoe Cochina West Ranch 46H
+Briscoe Cochina West Ranch 78H
+Briscoe Cochina West Ranch 79H
+Briscoe Cochina West Ranch 80H
+Briscoe Cochina West Ranch 81H
+Briscoe Cochina West Ranch 82H
+Briscoe Cochina West Ranch 83H
+Briscoe Cochina West Ranch 84H
+Briscoe Cochina West Ranch 85H
+Briscoe Cochina West Ranch 86H
+Briscoe Cochina West Ranch 87H
+Briscoe Cochina West Ranch 99H
+Briscoe J GU3 State 34-7H
+Briscoe No.2
+Briscoe R GU4 State 162-7H
+Briscoe R GU5 State 145H
+Briscoe R GU5 State 147H
+Briscoe R GU6 State 1423H
+Briscoe R GU6 State 1433H
+Briscoe R GU6 State 1443H
+Briscoe Ranch EF  24R
+Briscoe Ranch EF  33
+Briscoe Ranch EF  34
+Briscoe Ranch EF  35
+Briscoe Ranch EF 37-1
+Briscoe Ranch EF 38
+Briscoe Ranch EF 38-1
+Briscoe Ranch EF 39
+Briscoe State AR (SA1) 20H
+Briscoe State AR (SA2) 21H
+Briscoe State AR (SA3) 22H
+Briscoe State AR (SA6) 207H
+Briscoe State AR (SA7) 217H
+Briscoe State AR (SA8) 227H
+Britt 10-1H
+Britt 1226HA
+Britt Caldwell 1015HA
+BROADWAY 29-32HC001-ALT
+Brock 9-2H
+Broesche OL Unit 1
+Brokers Tip 24 State Unit #1H
+Broncos 35-5H
+Broncos 35-6H
+Brookie 1306 #1UMH-18
+Broughton 36 Fee 2
+Broughton 5HST2
+Brown 32-18-7 1H
+Brown Trust 110H
+Brown Trust 111H
+Brown Trust 112H
+Brown Trust 113H
+Brown Trust 114H
+Brown Trust 115H
+Brown Trust 116H
+Bruce & Bar A55A56-2303 N 02WS
+Brummett 8-17 HC 2-ALT
+BRUMMETT 8-17HC 3-ALT
+Brunson 1024H
+Brunson 5A 1HL
+Brunson 5A 2HF
+Brunson 5D 3HE
+Brunson 5D 4HJ
+Brunson 5D 5HL
+Brushy West 3046E
+Bruton 19-12E
+Bruton 19-13E
+Bruton 19-14E
+Bruton 19-16E
+Bruton 19-17E
+Bruton 19-17W
+Bruton 19-18E
+Bruton 19-18W
+Bruton 19-19E
+Bruton 19-19W
+Bruton 19-20E
+Bruton 19-20W
+Bruton 19-21E
+Bruton 19-21W
+Bruton 30-01E
+Bruton 30-02E
+Brysch Jonas 4H
+Brysch Jonas 504H
+Brysch Jonas 505H
+Brysch Jonas 5H
+Brysch Unit A 1
+BSI Eagles DU H1
+BSI Eagles DU H2
+BSI Fighting Camels B1
+BSI Fighting Camels H1
+BSI Mocs DU H1
+BSI Mountain Hawks H1
+BSI SeaHawks H1
+BSMC A-937 1H
+BTR 5-35D-35
+Buckman 24-21PH
+Buckman 34-21PH
+Buckman 34-9-2PH
+Buckman 44-9PHU
+Bud 4-30H
+Bud 5-30H1
+Bue 5-2H
+Buffalo Township Unit 6H
+Buffalo Township Unit 7H
+Buffalo Township Unit 8H
+Buffalo Township Unit 9H
+Buford 2-28/21H
+Bullet 27-11-2H
+Bullseye 101H
+Bum A-21H
+Burchard #4
+Bures 20-29 #8TFH
+Bures 20-29 XE #1H
+Burnett E #5
+Burnett Ranch CO2 Flood "PA"  N 08AR
+Burnett Ranch CO2 Flood YA-21R
+Burns Ranch B 2H
+Burns Ranch B 3H
+Burns Ranch B 4H
+Burr Federal 1-26H1
+Burr Federal 15-26H1
+Burr Federal 16-26H
+Burr Federal 2-26H
+Burr Federal 23-26H2
+Burr Federal 3-26H
+Burr Federal 4-26H
+Burr Federal 5-26H
+Burr Federal 7-26H1
+Burr Federal 8-26H2
+Burrell 5-33MH
+Busselman Unit A 3
+Busselman Unit A 4
+Busselman Unit A 5
+Busselman Unit A2
+Butcher Butte 26-131EWH-23
+Butcher Butte 31-134H-21
+Butcher Butte 32-144H-22
+Butcher Butte 33-34H-22
+Butcher Butte 34-34EWH-23
+BUTTERMILK STATE 3976-15-22-1FH
+BUZZ 21 STATE #701H
+Buzzard State 21-16H
+Byrd 2-32 29H
+Byrd 3-32 29H
+Byrd 4-32 29H
+C M Hutchinson 37 H 001 05/31/2017
+C.E. Frederick 1508 1H-22XR
+C27A
+Cabrito State 6H
+Cabrito State 7H
+Caesar 1H
+Caldwell 22-18-6 1H
+Calgary Federal #6
+Calgary Federal #7
+CALM BREEZE 2 FED COM #701H
+CALM BREEZE 2 FED COM #702H
+CALM BREEZE 2 FED COM #703H
+CALM BREEZE 2 FED COM #704H
+Calmus BIA #1H-2017X
+CALVERLEY 12 2A
+CALVERLEY 9-4 5H
+CALVERLEY 9-4 6H
+CALVERLEY 9-4 8H
+CAMPBELL 1H
+Campbell 2015 1-26H23H
+CAMPBELL 3H
+CAMPBELL 5H
+Campbell 6H
+Campbell 7H
+Campbell West SN 134 321 504H
+Campbell West SN 134 321 604H
+Campbell West SN 134-321 204H
+CANE CREEK UNIT / 16-2-25-18
+CANE CREEK UNIT / 2-1-25-18
+Cannon Fed 3876 1-12-1FH
+Cannon Ranch 5003
+Cannon Ranch Unit #5000
+Cannon Ranch Unit No. 5001
+Cannon Ranch Unit No. 5005
+Canon Ranch Unit # 5009
+Canon Ranch Unit #12
+Canon Ranch Unit #3046
+Canon Ranch Unit #5
+Canon Ranch Unit #5002
+Canon Ranch Unit #5008
+Canon Ranch Unit 3044
+Canteen 29-7N
+Cantu B 10H
+Cantu B 11H
+Caplis 4 H 001 06/11/2017
+Caprito 83-404H
+Caprito 98 201H
+Caprito 98 301HR
+CAPROCK 1599-23-41H
+CARAVAN BVX STATE #11H
+Caribou 10 #2H
+Carmel Trust 20-29HC-1
+Carol 1-18H
+CARPENTER STATE #3H
+Cartwright Com #91
+Cascade Creek 697-05-71
+Cascade Creek 697-09-10B
+Case #33-1H
+Caspiana Plantation H 002
+Cass 16 State 2H
+Cass 16 State 3H
+Cass 16 State 4H
+Casselman 8 19LL
+Casselman 8 20LL
+Casselman 8AH
+Cassowary  3 27-16N-8W 1HXX
+Castle 0780 1-17H20
+CATAPULT 116-0136H
+CATAPULT 117-0136H
+CATAPULT 297-1324H
+CATAPULT 697-1324H
+CBR 32-4H
+CBR 32-5H
+CC13
+CC13A
+CCU Atlantic Express 42-19MBH
+CCU Atlantic Express 42-19TFH
+CCU Audubon 2-1-27MBH
+CCU Audubon 2-1-27TFH
+CCU Audubon 21-27MBH
+CCU Audubon 31-27TFH
+CCU Bison Point  14-34H
+CCU Bison Point  14-34TFH
+CCU Boxcar 14-22TFH
+CCU Boxcar 24-22MBH
+CCU Boxcar 34-22TFH
+CCU Burner  1-1-26MBH
+CCU Dakotan  8-2-16TFH
+CCU Golden Creek 2-1-26MBH
+CCU Golden Creek 3-1-26TFH
+CCU Pacific Express  42-19MBH
+CCU Pacific Express 42-19TFH
+CCU Red River 1-2-16MBH
+CCU Red River 3-2-16MBH
+CCU Red River 3-2-16TFH
+CCU Red River 4-2-16TFH
+CCU Zephry 14-34TFH
+CCU Zephry 24-34TFH
+CCU Zephyr 24-34MBH
+CCU Zephyr 34-34MBH
+CCU Zephyr 34-34TFH
+CCU Zephyr 44-34MBH
+CD3-111A
+CD5-18
+CD5-20
+CD5-22
+CDU 223H
+CDU 238H
+CDU 239H
+CDU 240H
+CDU 241H
+CDU 272H
+Cecile Land 17H 002-ALT
+Cecile Land 17H 003-ALT
+CECILE LAND 17H 004 ALT
+CECILE LAND 17H 005 ALT
+Cecilia Stroh 24-7 MBH
+CEDAR CANYON 15 003H
+CEDAR CANYON 21-22 FED 33H
+CEDAR CANYON 21-22 FED 34H
+CEDAR CANYON 22-15 FEE 31H
+CEDAR CANYON 22-15 FEE 32H
+CEDAR CANYON 23 FED COM 33H
+CEDAR CANYON 23 FED COM 6H
+CEDAR CANYON 27 FEDERAL COM 5H
+CEDAR CANYON 27 STATE COM 10H
+CEDAR CANYON 29 FEDERAL 3H
+CENTRAL ROBERTSON CLEARFORK UNIT 1156
+CENTRAL ROBERTSON CLEARFORK UNIT 1263
+CENTRAL ROBERTSON CLEARFORK UNIT 1264
+Chain Lakes 29-160H
+Chain Lakes 29-165H
+CHALFANT 2-7H
+Challenger C 2H
+Challenger C 3H
+Challenger C 4H
+Challenger C 5H
+Challenger C 6H
+CHALLENGER UNIT C A
+CHALLENGER UNIT C A 2H
+Chandler Farms HD 20-332HC
+Chandler Farms HD 20-349HN
+Channel 1H-30X
+CHAPARRAL 1H
+CHAPMAN 23-15
+Chapman 31-15H
+Chapman Rothe 2H
+Chapman Rothe 3H
+Chapman Rothe 5H
+Chapman Rothe 6H
+Chapman Rothe 7H
+Charchenko 14-21H
+Charging Eagle 15-21A-16-4H
+Charging Eagle 21-25-2TFH
+Charlene 2305 #1-29H
+Charleston 4-22H1
+Charleston 5-22H
+Charlie Sorenson 17-8 #8TFH
+Charlie Sorenson 17-8 XE #1H-R
+Charlotte 18H
+Charmaine USA 14-35TFH
+Checkers State Unit 54-12-21 701H
+Chennualt 57-1H
+Cherry Pie 57-T1-20 #1H ST01
+Cheryl Federal 24X-12A
+Cheryl Federal 24X-12AXB
+Cheryl Federal 24X-12E
+Cheryl Federal 24X-12EXF
+CHEVRON MINERALS 13 13H
+Chevron TR 314-21-597
+Chicago 5-26H
+Chicago 6-26H1
+Chicken Fry Federal Com 1H
+Chickenhawk #2H
+Chickenhawk #3H
+Chickenhawk #4H
+Chickenhawk #5H
+Chief 30 State #7H
+Chili Parlor 17 Federal Com 3H
+Chincoteague 32 State Com 2H
+Chincoteague 32 State Com 3H
+Chincoteague 32 State Com 5H
+Chincoteague 32 State Com 6H
+Chinook 1806 1-24H
+Chippewas DU H #1
+Chittim Heirs 11H
+Chittim Heirs 12H
+Chittim Heirs 16H
+Chittim Heirs 17H
+CHK 22-C9 1
+Chlouber 2H-16LMX
+Chlouber 3H-16UMX
+CHLOUBER 7H-16LM
+Choate # 1
+Choate SWD #1
+Chosa Draw 27 Fed Com 1
+Christensen 34-33H
+CHUPACABRA 1213-7-1H
+City of Pecos 15-16 2HB
+Claire #3-23-26H
+Claire #4-23-26H
+Claire #5-23-26H
+Clarice USA 14-9H
+CLARKS CREEK 110-0719H
+CLARKS CREEK 73-0719H
+CLARKS CREEK 74-0719H
+CLARKS CREEK 75-0719HX
+Clarks Creek USA 14-35H
+Claudius 1H
+Clay Robertson 29-20HC-1
+Clay Robertson 29-32HC-1
+CLEVELAND A 601 4H
+Cline #6
+Cloyce Clark #19-1
+Cloyce Clark #19-2
+Cloyce Clark #19-3
+Cloyce Clark #19-4
+CLR Blurton 4-7-6XH
+CLR Gillilan 3-26-35XH
+CLR MacDonalds Quarter 1-18H
+CLR Moons Half 1-16H
+CLR Stogsdill 1-28H
+CLR SYMPSON 5-7-6XH
+CLUB NW SMF JF 3H
+Clyde #2-34H
+Clyde #3-34H
+CMWW A 4409H
+CMWW A 4410H
+CN Unit 1H
+CN Unit 2H
+Coal Bank 35-1
+Coates B Marathon Unit 3 #1UH
+Cobra 1806 1-8MH
+Cobra 30_19-17N-10W 1HX
+Coffee #1
+Coffey 1-7H
+Coffman 15-2H
+Colcam WYO 4H
+Colcam WYO 5H
+Colcam WYO 6H
+COLDBLOOD  STATE 7372 UNIT 1WA
+Cole 1311H
+Cole 1312H
+COLE 36-2406 AL 1 N 16BL
+COLE 36-2406 AL 10 N 14MA
+Cole 36-2406 AL 11 N 11SA
+Cole 36-2406 AL 12 N 12SC
+Cole 36-2406 AL 13 N 13MB
+Cole 36-2406 AL 14 N 14SA
+COLE 36-2406 AL 15N 10SC
+COLE 36-2406 AL 16N 11MA
+COLE 36-2406 AL 2 N 12BL
+COLE 36-2406 AL 3 N 16WA
+COLE 36-2406 AL 4 N 14BU
+COLE 36-2406 AL 5 N 12WA
+COLE 36-2406 AL 6 N 10BU
+COLE 36-2406 AL 7 N 16SA
+COLE 36-2406 AL 8 N 15SC
+COLE 36-2406 AL 9 N 16MB
+Cole Younger State 30-23 Unit D 13H
+Coleman 2
+Collectors S NTG HR 2H
+Collectors S NTG HR 4H
+Collectors S NTG HR 6H
+Collectors S NTG HR 8H-A
+COLLEEN UNIT # 4H
+COLLEEN UNIT # 5HR
+COLLEEN UNIT # 6H
+COLLEEN UNIT # 7H
+COLLIE A 20
+COLLIE A EAST N63H
+COLLIE B 34
+Collins 18Q-301
+Comanche SM 413H
+Combs #19-18-1H
+Compton 10-2-35XH
+Compton 2-2-35XH
+COMPTON 3-2-35XH
+COMPTON 4-2-35XH
+Compton 5-2-35XH
+Compton 6-2-35XH
+Compton 7-2-35XH
+Compton 8-2-35XH
+Compton 9-2-35XH
+Condor 3 #2
+Condor 3-1
+condor 46 #3
+Condry #5-28H
+Condry #6-28H
+Condry #7-28H
+CONE PATRICK 7; LCV RA 2-ALT
+CONE PATRICK 7; LCV RA SUN 2-ALT
+Conkling FIU 1-32-5XH
+Conly 28 H 001
+Conly 30-15-9 H 002 07/21/2017
+CONNIE MACK #1H
+CONOTTON 8H
+CONVOY 28 STATE COM #501H
+CONVOY BUC STATE #1H
+Cook 4-14B3 RECOM 2
+Cook 62/83 #9262A
+Cook 85WS #86
+Cook Ranch 113 #40
+Cook Ranch 85WS #99
+Cook Ranch 89 #10
+Cook, W.I. Estates Sec 139A #7
+Cooke Ranch L (SL) 1H
+Cookshack 4-16N-7W 1H
+Cope 23_14-19N-16W 1HX
+Copeland #4-33H
+Copeland #5-33H
+Copeland #6-33H
+Copeland #7-33H
+Copeland #8-33H
+Copeland #9-33H
+Copeland Mitchell F #5 
+Copeland Mitchell J #1
+Copperhead 7-17N-10W 1H
+COR 15-31
+Corbets 34-149-2WA
+Corder E NTG HR 6H-A
+Corder E NTG HR 8H
+Corder W NTG HR 2H
+Corder W NTG HR 4H
+Cormac 17-20 4415H
+CORNFIELD UNIT # 8H
+CORNFIELD UNIT # 9H
+CORNFIELD UNIT #10H
+CORNFIELD UNIT #11H
+CORNFIELD UNIT #12H
+CORNFIELD UNIT #13H
+CORONA 61-30
+Cotton Draw Unit 179H
+Cotton Draw Unit 250H
+Cotton Draw Unit 251H
+Cotton Draw Unit 254H
+Cotton Draw Unit 255H
+Cotton Draw Unit 277H
+Cotton Draw Unit 278H
+Cottonberry 20 Fed Com #2H
+Cottonberry 20 Fed Com #4H
+Cottonwood East 1-25-24XH
+Cottonwood West 1406
+Cottonwood West 1606H
+Cottonwood West McDonald 2406H
+Countiss I 1H
+Countiss I 2H
+Countiss I 3H
+Countiss I 4H
+Countiss R 1H
+Countiss R 2H
+Countiss R 3H
+Countiss R 4H
+COUNTY LINE 17A-C2 1H
+COUNTY LINE 18A-C2  1H
+COUNTY LINE 2920D C2 1H
+COUSINS FEDERAL COM #23TH
+Covington 46-10H
+Covington 46-11H
+Covington 46-9H
+Cowan 15_10-15N-11W 1HX
+Cowan 546-3H
+Cowden 30G 1HJ
+Cowden 30G 2HL
+Cowden 30G 3HF
+Cowden 30G 4HK
+Cowden 30G 5HO
+Cowden 30X 6HJ
+CPEUSC FORD 21-16-159N-100W
+CPG 1-26-35-3-1W-H1
+CRANMER 11-27
+Cravat Coal  SHC HR 4H
+Cravat Coal  SHC HR 6H
+Cravat Coal  SHC HR 8H
+Crawford Federal 1H
+Crescent Hale 10 Fed #4H
+Critter Creek 278-1527H
+Critter Creek 512-1510H
+Critter Creek 562-1527H
+Croff  22A-MBH
+Croff 22B UTFH
+Croff 22C MBH
+Croff 7-1-2 MBH
+CROSS BAR RANCH 3027LS
+CROSS BAR RANCH 3027WB
+Cross Creek 17-15-9 H 001 03/27/2017
+CROSSROADS UNIT # 2H
+CROSSROADS UNIT # 3H
+Crow 8 #2 Alt
+Crow 8 #3 Alt
+CUELLAR # 5H
+CUELLAR # 6H
+Culberson AC Fee 2#2
+Culberson Patteson 2H
+Culberson Patteson 501H
+Culberson Patteson 502H
+Cullen #1-30H
+CUMMINS -J- 14
+CUMMINS J 11
+CUMMINS J 12
+CUMMINS J 13
+CUMMINS J 14
+Cundiff Federal GU A 2
+CURRIE 41-44A #501H
+CURRIE 41-44B #101H
+CURRY 21X #1VH
+Curry 2H
+Curry 3H
+Curry 8H
+Curry 9H
+Curtis 21-16MBH-2NH
+Curtis 21-16TFH-3NH
+CUSACK CLAMPIT UNIT #11H
+CUSACK CLAMPIT UNIT #12H
+CUSACK CLAMPIT UNIT #13H
+CUSACK CLAMPIT UNIT #14H
+CUSACK CLAMPIT UNIT #15H
+Custer 34
+Cutbow 1307 #1 UMH-26
+CVR 5-63-32-6457B2B
+CVR 5-63-32-6457D2
+CW State 15-1H
+Cypress 1
+Cypress 33 Fed 9H
+Czop 2H
+D Baker Unit A 6
+Daina 1H
+Dale 23-13-1
+Dale 25-11 2
+Dallas 3-17 3-2-8-5-4H
+Dallas 3-17 3-2-8-5-5H
+Daltex Munn Unit 44-41 5H
+Daniel 560-1H
+Daniel SN 15-10 101H
+Daniel SN 15-10 201H
+Daniel SN 7-6 102H
+Daniel SN 7-6 204H
+Daniel SN 7-6 502H
+Daniele 24-19-18 1H
+Darcy 34-32H
+DARLINGTON UNIT 11B 2H
+Darrel W Sharp 12 H 001 09/12/2017
+DATE BTB STATE COM #8H
+Davidson 02A 3HJ
+Davidson 02B 4HK
+Davidson 02B 5HJ
+Davidson 12A and 12B 4201H
+Davidson 12A and 12B 4401H
+Davidson 2G 3HO
+Davidson 2G 4HK
+Davidson 2G 5HL
+Davidson 2G 6HJ
+Davidson 2X 1HJ
+Davidson 2X 2HL
+Davila 13H
+Davila 14H
+Davila 22H
+Davila 23H
+Davila 505H
+Davila 6H
+Davila 7H
+Davila AC 4H
+Davila AC8H
+Davila Graham 3H
+Davila Graham 4H
+Davila Graham 503H
+Davila Graham 5H
+Davila Graham AC4H
+Davila Graham AC6H
+Davila Unit 503H
+Davila Unit 5H
+Davis #1-8 1611 MH
+Davison 16-9 HC 3-Alt
+Daytona Unit 1A #1H
+Daytona Unit 1B-2H
+DD1
+DD12A
+DD13
+DD13A
+Deane USA 24-22TFH
+Deborah Lynne 1H-6
+Deep Creek 11-22-4-2E
+DEEP CREEK 11-22-4-2E
+Deep Creek 15-9-4-2E-H1
+Deep Creek 4-22-4-2E-H1
+DEEP CREEK 4-22-4-2E-H1
+DEEP CREEK 6-27-4-2E
+Delia USA 14-9TFH
+DELLA 29 FED COM #602H
+DELLA 29 FED COM #701H
+Delong 1V
+DENALI UNIT #102H
+DENALI UNIT #103H
+DENALI UNIT #104H
+DERWARD UNIT # 3H
+DERWARD UNIT # 4H
+DeSpain 2H-20
+DeSpain 3H-20
+DeSpain 4H-20
+Desperado 538 1H
+Desperado ST UN C19 21-18 604H
+Desperado ST UN C19 21-18 605H
+Desperado ST UN C19 21-18 701H
+Desperado ST UN C19 21-18 704H
+Desperado ST UN C19 21-18 705H
+Desperado State Unit C19 21-18 603
+Desperado State Unit C19 21-18 703
+Devonian Unit 1H
+Devonian Unit 2H
+Devonian Unit 3H
+DIAMOND 5 FED COM #6H
+DIAMOND 5 FED COM #7H
+DIAMOND 5 FED COM #8H
+Diana 2-34H
+Diana 3-34/27H
+Diana 4-34/27H
+Diana 5-34/27H
+Dickens 1H-10X
+Dickenson A SN 20-17 106H
+Dickenson A SN 20-17 503H
+Dickenson A SN 20-17 506H
+Dickenson A SN 20-17 603H
+Dickenson A SN 20-17 606H
+Dickson 16-15N-10W 1H
+Dickson CRC JF 1H
+Dickson CRC JF 3H
+Dillard A Unit No. 1
+Dino 1H
+DIO UNIT # 9H
+DIO UNIT #101H
+DIO UNIT #10H
+DIO UNIT #11H
+DIO UNIT #12H
+DIO UNIT #13H
+DIO UNIT #14H
+DIO UNIT #15H
+DIO UNIT #16H
+DIO UNIT #17H
+DIO UNIT #18H
+DIO UNIT #19H
+DIO UNIT #20H
+Direct Assets 12H
+Direct Assets 501H
+Direct Assets 503H
+Direct Assets 504H
+Direct Assets 7H
+Direct Assets 8H
+Direct Assets 9H
+Direct Assets AC7H
+Dixon 5554 XL 3H
+DKS 3H
+DKS 4H
+DMR Trust 2117 1-23H14H
+Dodge 3C TFH
+Dodge 3D MBH
+DODGE UNIT # 9H
+DODGE UNIT #10H
+DODGE UNIT #11H
+DODGE UNIT #12H
+DODGE UNIT #13H
+Dodson A 35-11C
+Dolezal 145-97-20C-17-5H
+Dolezal 146-97-31D-30-1H
+Dolezal 146-97-31D-30-2H
+Dolezal 146-97-31D-30-3H
+Dolezal 5-5H
+Dolezal 6-5H1
+Dolly Varden 1307 #1WH-26
+Donna State East Unit 1H
+DONNELL LOWE PASTURE # 2H
+DONNELL LOWE PASTURE # 3H
+DONNELL LOWE PASTURE # 4H
+Dopey 3
+Dopey 7U
+Dora Bell Bach #2-35H
+DORA ROBERTS RANCH UNIT 4038LH
+DORA ROBERTS RANCH UNIT NO. 4034H
+Dorothy 2H-32LM
+Dorothy 3H-32UM
+Dorothy Allen Unit 4
+Doss EF 1H
+DOSSETT A # 1H
+DOSSETT B # 2H
+DOSSETT C # 3H
+DOSSETT D # 4H
+DOSSETT E # 5H
+DOSSETT F # 6H
+DOSSETT G # 7H
+DOSSETT H # 8H
+Double H 34-8TFH
+Doughtie EF 1H
+Dover Unit (Shrike) 1807 #1UMH-21
+Downs Fed 12-133669-3XTPH
+DRAGON 36 STATE #03H
+DRAGON 36 STATE #04H
+DRAGON 36 STATE #09H
+DRAGON 36 STATE #707H
+DRAGON 36 STATE #708H
+DREYER UNIT #24H
+DREYER UNIT #25H
+Drinnon 32-18-17-1H
+DRIVER 14 STATE #502H
+Duchene 1H
+Duchene 3H
+Duchene 4H
+Duchesne City 2-19C4 RECOM
+Dunbar 05 04H
+Dunbar 05 05H
+Dunbar 05 07H
+Dunbar 05 08H
+Dusek 45 4 2807H
+Dusek A 1H
+Dusek B 1H
+DW LANDFILL 3-33B4 RECOM
+Dyess Fry Unit #3
+Dyess Fry Unit No. 5
+Dyess Tract 7-4
+E41A
+Eady A 4 59-60 1H
+Eady B 4 59-60 2H
+EAGLE STATE 28 56H
+EAGLES RANCH #14H-1
+EARP UNIT # 2H
+EARP UNIT # 3H
+EARP UNIT # 4H
+EARP UNIT # 5H
+East Fork 32-29 #8TFH
+EBU-66-5
+Edmonson E No.6
+Edwards White #A12-14
+EDWIN COX 1 05/03/2017
+EGP 25-24-13HC001 ALT
+EGP 25-24-13HC002 ALT
+EGP 25-36 HC001-ALT
+EGP 25-36 HC002-ALT
+EILAND 1806A 33 1H
+Eisaman 2H
+El Presidente 2 State 4H
+Elaine 1-4H
+ELBRUS UNIT #103H
+Electric State 57-33 Unit #1H
+Elixir - 1805 1-8MH
+Elizabeth Stroh 24-7MBH
+Ellen C. #6H
+Ellen C. 10H
+Ellis 5N 1E #7 HX
+Elmer 1-7 3-1-8-37H
+ELWOOD 16-21 4107H
+ELWOOD 16-21 4207H
+Elwood 29 Unit 2H
+Embar 1703H
+Embar 1704H
+Emerald PWU 20 11H
+Emerald PWU 20 62H
+Emma 2-33_28H
+Emma 3-33_28H
+Emma 4-33_28H
+Emory 1H-15X
+EN-SKABO TRUST-155-93-0631H-5
+EN-SKABO TRUST-155-93-0631H-6
+Endurance #42-30-1V
+ENDURANCE 36 STATE COM #608Y
+ENDURANCE 36 STATE COM #701H
+ENDURANCE 36 STATE COM #702H
+ENDURANCE 36 STATE COM #703H
+ENDURANCE 36 STATE COM #704H
+ENDURANCE 36 STATE COM #705H
+ENDURANCE 36 STATE COM #706H
+ENDURANCE 36 STATE COM #707H
+Enervest Elliot-Hand 2H
+Enervest Elliot-Hand 3H
+Enervest Elliot-Hand 4H
+Engle #18-05-35 1H
+Englemann 1H
+ER Unit 3-3625 1WA
+ERCU #103RH
+Escrito D14 2407 Com 1H
+Estes 8#1
+Estes C Unit 1101LS
+Estill AD Fed #2
+Ethan #1
+Ethel USA 13-35TFH-2B
+Evans #1H-3526X
+Eve 1506 2-17MH
+Eve 1506 3-17MH
+EVEREST UNIT #103H
+Everett A #3
+Everts (03-086-01) P 1H
+Everts (03-086-03) P 3H
+Evitt 14-12-4TFH
+Evitt 14-12H
+Evitt 14-12TFH
+Evitt 34-12-2H
+Evitt 34-12H
+Evitt 34-12TFH
+EWE 2000
+EXCELSIOR 12-7 #13H
+EXCELSIOR 12-7 #14H
+EXCELSIOR 12-7 #15H
+EXCELSIOR 12-7 #18H
+EXELCO #11H
+EXELCO #12H
+EXELCO #13H
+Express State 55-13-6 602H
+Express State 55-13-6 701H
+F. Malek Unit G 2
+F39A
+F40A
+Fairbanks 20-17 #2H
+Fairbanks 20-17 #3H
+Fairbanks 20-17 #4H
+Fairbanks 20-17 #5H
+Fairholm 3-34-33-16
+Fairholm 5-27-28-164N-100W
+Faith Bonita H3H
+Faith Bonita H4H
+Faith Bonita H7H
+Faith Bonita H8H
+Faith Marie 1_36-17N-12W 1HX
+Faith Yana AA Unit K 7H
+Faith Yana BB Unit K 8H
+Faith Yana G5HU
+Faith Yana G6HU
+Faith Yana GG Unit O 1H
+Faith Yana N Unit O1H
+Faith Yana O Unit O 1H
+Faith Yana P Unit O1H
+Faith Yana Q Unit J 1H
+Faith Yana R Unit J 1H
+Faith Yana S Unit J 1H
+Faith Yana T Unit J 1H
+Faith Yana Y Unit K 5H
+Faith Yana Z Unit K 6H
+FAITH-TORO DIM C 10HU
+FAITH-TORO DIM C 9HU
+Fall Creek 3H
+FARMAR A S116HM
+FARMAR B S491HD
+FARMAR CA POOLED UNIT N732HU
+FARMAR CB POOLED UNIT N733HM
+Farris #5
+Fasken State 61H
+Fasken State 62H
+Fasken State A2761 A No. 32H
+Fasken State A2761 B No. 33HR
+Fasken State A2761 C No. 34H
+FBIR Reese 43X-33F
+FEARLESS BSF FEDERAL COM #2H
+Federal 5-8B
+Federal GM  323-4
+Federal GM 313-4
+Federal GM 333-5
+Federal GM 334-5
+Federal GM 34-5
+Federal GM 343-5
+Federal GM 413-4
+Federal GM 423-4
+Federal GM 43-5
+Federal GM 433-5
+Federal GM 434-5
+Federal GM 443-5
+Federal GM 513-4
+Federal GM 532-5
+Federal GM 533-5
+Federal RGU 23-25-198
+Federal RGU 32-26-198
+Fellers State 5H
+Fellers State 6H
+Fellers State 7H
+Fenton #17-1H
+Ferrarini 3-27 B4 RECOM 3
+FERTILE 102-0333H
+FERTILE 55-0333H
+FERTILE 57-0333H
+FERTILE 58-0333H
+FERTILE 59-0333H
+FERTILE 63-1004H
+FERTILE 64-1004H
+FERTILE 65-1004H
+FERTILE 67-0410H
+FERTILE 68-0410H
+FERTILE 69-0509H
+FERTILE 70-0509H
+FERTILE 72-0905H
+FERTILE 73-0905H
+FERTILE 74-0905H
+FERTILE 76-0905H
+FERTILE 77-0905H
+FERTILE 79-0905H
+FERTILE 80-0905H
+FF41A
+Fields 19-1HX
+Fields 2A
+Fighting Okra 18-19 Fed 71H
+First National Shallow A #42
+FISCHER UNIT # 7H
+FISCHER UNIT # 8H
+FISCHER UNIT # 9H
+Fisher 10H
+Fisher 13H
+Fisher 2H
+Fisher 4H
+Fisher 6H
+Fisher 9H
+Fisher C 5H
+Fisher C 6H
+FJ #1H-1807X
+Flag Ranch C 2
+FLATBOW 001-25H
+FLATBOW 002-25H
+FLATBOW 424-13H
+FLATBOW 729-26H
+FLATBOW 731-26H
+Flatland 24-9-1XH
+Flatland 24-9-2XH
+Flatland 43-9-1H
+Flatland 43-9-1XH
+Flatland 43-9-2H
+Flatland 43-9HU
+FLEETWOOD UNIT # 9H
+FLEETWOOD UNIT #10H
+FLEETWOOD UNIT #11H
+FLEETWOOD UNIT #12H
+Flick Unit A 6H
+Flohs  5H
+Flohs  6H
+Flohs 4H
+FLORENCE 2 03/08/2017
+Florene 1406 1H-5X
+FOGHORN 32 STATE #501H
+Fogle 9H
+Folta N BRA 3H
+Folta S BRA 1H
+Folta S BRA 3H
+Foreman 1-2-1T3H
+Foreman 12-11-1-2BH
+Foreman 12-11-1-2T2H
+Foreman 2-2-1THR
+Foreman 3-2-1BHR
+Foreman 3-2-1TH
+Foreman 4-2-1BHR
+Foreman 5-2-1BH
+Foreman 6-2-1BH
+Forsman USA 44-22H
+Fort Berthold 148-95-13A-24-6H
+Fort Berthold 148-95-13A-24-7H
+Fort Berthold 148-95-13A-24-8H
+Fort Berthold 148-95-13B-24-9H
+Fort Berthold 152-94-13A-24-15H
+FOUR K PARTNERS # 3H
+FOUR K PARTNERS # 4H
+FOUR K PARTNERS # 5H
+Fox Creek 222_3422H
+Fox Creek 501-3403H
+Fox Creek 504-2524H
+Fox Creek 505-2501H
+FOXGLOVE 29 001
+Foxtrot NS 30-31 05 405H
+Foxx 31 Fed Com #4H
+Franchuk 34-19NWH
+Francis #1-9MH
+Francis Drake #2
+Franke 501H
+Franke 502H
+Franke 503H
+Franke 8H
+Franke 9H
+Franke AC7H
+Franke May A4H
+Franke May A5H
+Franke May A6H
+Franke Unit 7H
+Franklin Post Proper H ST #1
+Franks 17-8 HC 2ALT
+Franks 17-8 HC 3ALT
+Franks 17-8 HC 4ALT
+Franks 17-8HC 1 ALT
+Fred Hansen 34-8H
+Frederick 7-26H35
+Free 6H
+Freedom Federal LC21-630
+FREEMAN 10H-14UMX
+Freeman 1706 3-14RMH
+FREEMAN 2H-14UMX
+FREEMAN 3H-14LMX
+FREEMAN 4H-14UMX
+FREEMAN 8H-14UMX
+FREEMAN 9H-14LMX
+French 31-15TFH
+Frick 24-8-1HU
+Frick 24-8-1TFH
+Frick 24-8-2TFH
+Froehlich 21-28-2PH
+Froehlich 31-28PH
+Fuerte Vida  Waterflood Unit #3W
+FUJI UNIT #101H
+FUJI UNIT #102HR
+FUJI UNIT #104H
+FULLERTON CLEARFORK UNIT 2417
+FULLERTON CLEARFORK UNIT 2435
+Funk 1H-27
+Funny Cide 32 A- #2H
+Furgason  1-33
+Furgason 1-33
+G. SCHWARTZ 17-18 (ALLOC-E) 5NU
+G. SCHWARTZ 17-8 (ALLOC-B) 2NU
+G. SCHWARTZ 17-8 (ALLOC-C) 3NU
+G&S Big Rigger 2H
+G&S Big Rigger 3H
+G&S Big Rigger 4H
+G&S Big Rigger 5H
+G&S Big Rigger 6H
+G22A
+G40B
+Gallo Rojo 1H
+Gallo Rojo 2H
+GALLO ROJO A AC3H
+Gallo Rojo A Tillie Ann SA 1H
+Galvan Ranch A765H
+Galvan Ranch B608H
+Game Trail 35-14N-8W 1H
+Gandy Dancer 3-13N-8W 1H
+Gardendale 10-06
+Gardendale 6-1
+GARDENDALE 7 10
+Gardendale 7 27
+GARDENDALE 9 1
+Gardendale-Gierisch Allocation A 35H
+GARDENDALE-GIERISCH ALLOCATION B 36H
+GARDENDALE-GIERISCH ALLOCATION C 37H
+Gardendale-Gierisch Allocation D  44H
+GARFIELD FEDERAL 4-5H
+GARFIELD FEDERAL 5-5H1
+GARFIELD FEDERAL 6-5H
+GARFIELD FEDERAL 7-5H1
+Garlen 1H-7X
+Gates 10 Rose A  1051
+Gates 10 Rose A 1012
+Gatz #1H-3019X
+GBU 10-34T
+GBU 10-43
+GBU 15-32L
+GCDU #205
+GCDU #377
+GE POWERS 28N-26HZ
+GE POWERS 29G-26HZ
+GE POWERS 29N-26HZ
+GE POWERS 30C-26HZ
+GE POWERS 3N-26HZ
+GE POWERS 3N-W26HZ
+GE POWERS 4N-26HZ
+GEM 36 STATE COM #701H
+GEM 36 STATE COM #702Y
+GEM 36 STATE COM #703H
+GEM 36 STATE COM #704H
+GEMINI #07H
+GEMINI 7 #08H
+GEMINI 7 #09H
+GEMINI 7 #14H
+GEMINI 7 #15H
+GEMINI 7 #16H
+Genelle Unit B 1
+Genelle Unit C 1
+GEO HUNTER 2H
+GEO HUNTER 3H
+George Lormand 33-3
+George Lormand 33-6
+Gertie #3-33MH
+GH Iles B #1
+GH58D
+GH58E
+Ghost Rider 4778 6-1
+Ghost Rider 4778 7-1FH
+GIBBS UNIT # 1H
+Gibson  GU 4H
+GIBSON SOUTH UNIT 4 DIM B 2H
+GIBSON SOUTH UNIT 5 DIM B 4H
+Gilchrist 2016 1-36H
+Gilley 3H
+Gilley 4H
+Gilley 503H
+Gillilan 10-26-35XH
+Gillilan 2-26-35XH
+GILLILAN 4-26-35XH
+Gillilan 5-26-35XH
+Gillilan 9-26-35XH
+Gilmer 22-27 HC 001-ALT
+Gilmore 32-1H
+GINOBILI UNIT # 3H
+GINOBILI UNIT # 4H
+GINOBILI UNIT # 5H
+GINOBILI UNIT # 6H
+Giraffe Unit 18B #4H
+Gladden Heirs 67 #3
+Glass 38C 1HK
+Glass 38D 2HK
+Glass 38E 3HK
+Glovatsky 145-98-24D-13-1HS
+Glover-Rayes A Unit 220H
+Glover-Rayes A Unit 221H
+Glover-Rayes B Unit  224H
+GND Trust 2-12-4 10H
+GNEISS FED 4075-27-34-1SH
+Goedel #2
+Golden Goose 11H
+Golden Goose 1H
+Golden Goose 3H
+Golden Goose 5H
+Golden Goose 7H
+Golden Goose 9H
+GOLDEN SPIKE FED 4076-9-4-1SH
+Gooseberry B T1-22G
+GORDON A UNIT # 5H
+GORDON A UNIT # 6H
+GORDON TRUST # 2H
+GORDON TRUST # 3H
+GORDON TRUST # 4H
+Gorman 11 #3
+Goss 1915 1H-18X
+GOVT TRACT 3B 20
+Goza 18-44
+Goza 2-Ae
+Grace #36
+Grace #39
+Grace #40
+Grace #41
+Grace #42
+Grace 38
+Graff 1H
+Graff 2H
+Graham #10
+Graham #11
+Graham RE 7-3
+Graham Unit 49
+GRANADA 11 4
+Grande 4-65 20-19 3AH
+GRANT 1-17
+Great Divide #10-1H
+Great Hambino #1H
+Greathouse C21-6 Unit #4H
+Greathouse C21-6 Unit 3H
+GREEN CREIGHTON 0401 1WA
+Greene Hill 592992
+Greene Hill 592993
+Gretchen Northrup 56-T2-42 #1H
+Gretchen Northrup 56-T2-42 2H
+Gretchen Northrup 56-T2-42 3H
+Griffin Givens Unit 1R
+Gripe FIU 1-30-31XH
+GRISSOM 31-42-1N 26HR
+GRISSOM 31-42-2N 25H
+GRISSOM 31-42-7N 21H
+Grizzly Rose 1698-33-44
+Grynberg 11 Fed Com 
+GUADALUPE UNIT #14H
+GUADALUPE UNIT #15H
+Guajillo 12 North 1H
+Guajillo 12 North 2H
+Guajillo 12 North 3H
+Guajillo 12 North 4H
+Guajillo 8 South 1H
+Guajillo 8 South 2H
+Guajillo 8 South 3H
+Guajillo 8 South 4H
+Guajillo 8 South 5H
+Guajillo Unit 11 North 1H
+Guajillo Unit 11 North 2H
+Guajillo Unit 11 North 3H
+Guajillo Unit 11 North 4H
+Guajillo Unit 11 North 5H
+Guajillo Unit 7 South 1H
+Guajillo Unit 7 South 2H
+Guajillo Unit 7 South 3H
+Guajillo Unit 7 South 4H
+Guajillo Unit 7 South 5H
+Guajillo West 34H
+Guajillo West 36H
+Guajillo West 38H
+Guajillo West 56H
+Guajillo West 58H
+Gubbels #38
+Gubbels #41
+Gubbels #52
+Gubbels #56
+Gubbels Unit D 1H
+GUBBELS UNIT D 2H
+Gud Muri 1-1-26TFH-ULW
+Gudmunson 1-1-26MBH
+Gudmunson 3-1-26MBH
+Gudmunson 4-1-26TFH
+Gulley Gas Unit 1 1H
+Gullikson 14-35H
+Gullikson 44-34HU
+Gun Barrel Unit 10-24
+Gun Barrel Unit 10-33
+Gun Barrel Unit 15-11
+Gun Barrel Unit 15-41
+Gun Barrel Unit 19-23L
+Gunderson 20-01W
+Gunderson 20-02W
+Gunderson 20-03W
+Gunderson 20-04W
+Gunderson 20-05W
+Gunderson 20-06W
+Gunderson 20-07W
+Gunderson 20-08W
+Gunderson 20-09W
+Gunderson 20-10W
+Gunderson 29-04E
+Gunderson 29-05E
+Gunderson 29-06E
+Gunderson 29-07E
+Gunderson 29-08E
+Gunderson 29-08M
+Gunderson 29-09E
+Gunderson 29-09M
+Gunderson 29-10E
+Gunderson 29-10M
+Gunderson 29-11E
+Gunderson 29-11M
+Gunderson 29-12E
+Gunderson 29-12M
+Gunderson 29-13E
+Gunderson 29-13M
+Gunderson 29-14E
+Gunderson 29-14M
+Gunderson 29-15E
+Gunderson 29-15M
+Gunderson 29-16E
+Gunderson BCU 20-01E
+Gunderson BCU 20-03E Stgs
+Gunderson BCU 20-04E Stgs
+Gunderson BCU 20-05E
+Gunderson BCU 20-06E
+Gunderson BCU 20-07E
+Gunderson BCU 20-08E
+Gunderson BCU 20-09E
+Gunderson BCU 20-10E
+Gundy #6-12H
+Gundy #7-12H
+Gundy #8-12H
+Gundy #9-12H
+Gus Laffitte 23-14HC 2 Alt
+Gus Tips GU1 D1H
+GUTSY BUN FED COM #1H
+Gwinville 10-16-1
+Gwinville 18-4 1
+Gwinville 29-15 1
+Gwinville 30-14 1
+Gwinville 30-2 2
+GWO 2001
+GWO 2002
+Gwosdz A 2H
+Gwosdz A 3H
+Gwosdz A 4H
+H 320O 9HC
+H SISTERS A4H
+H SISTERS A5H
+H SISTERS A6H
+H SISTERS A7H
+H SISTERS A8H
+H SISTERS B10H
+H SISTERS B11H
+H SISTERS B12H
+H SISTERS B4H
+H SISTERS B5H
+H SISTERS B6H
+H SISTERS B7H
+H SISTERS B8H
+H SISTERS B9H
+H.D. Binns 3-22H
+H.D. Binns 4-22H
+H.D. Binns 5-22H
+H.D. Binns 6-22H
+H.E. TUBB 4241
+H.J. Ballard #1
+HA RA SU118;GRIGSBY 30-19 HC003-ALT
+HA RA SU60;NASH 19-18 HC #1-Alt
+HA RA SU60;NASH 19-18 HC #2-Alt
+HA RA SU67; BROADWAY 32H 001-ALT
+HA RA SUA;Claybrook 15 HZ 2-Alt
+HA RA SUH;James Pace 5-8 HC #1-Alt
+HA RA SUI;Pace 8-17 HC #1-Alt
+HA RA SUM;Halsey 14 HZ #1-Alt
+HA RA SUQQ;NT Powell Jr A 28 HZ #2-Alt
+HA RA SUR118; GRIGSBY 30-19 HC 001-ALT
+HA RA SURR;Headrick 14-11 HC #1-ALT
+HA RA SURR;Headrick 14-11 HC #2-ALT
+HA RA SURR;Headrick 14-23 HC #1-Alt
+HA RA SURR;Headrick 14-23 HC #2-Alt
+HA RA SUXX;Billingsley 25-24 HC #1
+HA RA SUXX;Furlow 25-24 HC #1-Alt
+HA RA SUXX;Furlow 25-36 HC #1-Alt
+HA RA SUYY;Grantham 30-31 HC #1-Alt
+Hadar 10 Fed Com 3H
+Hadar 10 Fed Com 4H
+Hadrian 1H
+HAIRGROVE UNIT # 7H
+Haley 2A
+HALL 37-0405 AL 1 S 03MB
+HALL 37-0405 AL 2 S 08SC
+HALL 37-0405 AL 3 S 02BU
+HALL 37-0405 AL 4 S 06WA
+HAMILTON 11H
+HAMILTON 12H
+Hammack #4
+Hamman 30A #2HM
+Hamman 45 #2HU
+Hamman 45 #3LS
+Hane #14-1H
+Hannah USA 31-4TFH
+Hansen 18-19-1H RD
+Hansen 18-19-2H
+HANSEN KULLIN UNIT # 9H
+HANSEN KULLIN UNIT #11H
+HANSEN KULLIN UNIT #12H
+Hansens 1607 2-12MH
+Hansens 1607 3-12MH
+Hansens 1607 7-12MH
+Hardscrabble 57-34 Unit #1H
+Hardy 1WH
+Harlan 6H
+Harlan 7H
+Harlan N BRA 3H
+Harlan N BRA 4H
+Harlan RK #5H
+Harlan RK 10H
+Harlan RK 8H
+Harley 14-36TFH
+Harmon Creek A Unit #23H
+Harmon Creek A Unit #2H
+Harmon Creek A Unit #3H
+Harmon Creek B Unit 11H
+Harmon Creek B Unit 24H
+Harmon Creek B Unit 7H
+Harmon Creek B Unit 9H
+Harold 16_9?-15N-9W 1HX
+HARR E MTP JF 5H
+HARR W MTP JF 1H
+HARR W MTP JF 3H
+Harris 4HB
+Harris A1H
+Harris A2H
+Harris A3H
+Harris A4H
+Harris B 2H
+Harris B 3H
+Harris B1H
+Harris B4H
+Harris Michael 11116 Unit 10H
+Harris Michael 11116 Unit 6H
+Harris Michael 11116 Unit 7H
+Harris Michael 11116 Unit 8H
+Harris Michael 11116 Unit 9H
+Harry Lawson 6H-5
+Hart 6H
+Hart 7H
+Hart North 1H
+Hart South 1H
+Hart South 2H
+Hart Unit South 2H
+Hartgraves 1-6
+HARTMAN A UNIT # 2H
+HARTMAN B UNIT # 1H
+HASEL 28 Unit  2801AH
+Hastings 1
+Hasty 3-18-6 1H
+Hattie N Bra 3H
+Hausmann 1H
+Hausser E 2H
+Hausser F 3H
+Hausser F 4H
+Hausser G 3H
+Hausser G 4H
+Hausser H 3H
+Hausser H 4H
+Hausser I 1H
+Hausser I 2H
+Hausser I 3H
+Hausser I 4H
+Hausser J 1H
+Hausser J 3H
+Hausser J 4H
+Hausser K 2H
+Hausser K 4H
+Hausser K1H
+Hausser K3H
+Hausser L 2H
+Hausser L 3H
+Hausser L1H
+HAWK 26 FED #701H
+HAWK 26 FED #702H
+HAWK 26 FED #709H
+HAWK 35 FED #03H
+HAWK 35 FED #04H
+HAWK 35 FED #05H
+HAWK 35 FED #06H
+Hawk Haven 2710 1-22H Lateral 1
+HAWKEYE A #1
+Hay 6-1
+Hayes 4-6H
+Hayes 5-6H
+Hayes 6-6H1
+Hayes 7-6H
+Hayhurst SW 5 023HA
+Hayhurst SW 5 024HC
+Hayhurst SW 5 025HD
+Hayhurst SW 5 026HA
+Hayhurst SW 5 027HC
+Hayhurst SW 5 028HD
+Haysi 36
+Haysi 37
+Hazzard Federal LC22-735
+Hazzard Federal LC22-740
+HB Morrison 15H
+HB Morrison 16H
+HEADLEE 3912LS
+HEARD UNIT # 1H
+HEARNS 34 STATE COM #704H
+HEARNS 34 STATE COM #705H
+HEARNS 34 STATE COM #706H
+HEARTHFIRE #1
+Heather USA 13-35TFH
+Hebron 0780 4-18H 
+Hedges 22-19N-17W 1H
+Hedrick 3-1H
+Heinz  18-19 1H
+Heinz 18-19 #5H
+Heinz 18-19 XE #1H
+Helen Butler 33-2
+Hellandsaas 44-8-1H
+Hellandsaas 44-8-2H
+Heller Unit A 2H
+Heller Unit B 6H
+Helsinki Com #90
+Helsinki Com #91
+Hemlock Hunting Club Unit 2H
+Hemlock Hunting Club Unit 3H
+Hemlock Hunting Club Unit 4H
+Hemlock Hunting Club Unit 5H
+Hemlock Hunting Club Unit B-1H
+Hemlock Hunting Club Unit B-2H
+HENDERSON 33-28HC001-ALT
+HENDERSON 33H002-ALT
+Hendrickson Fed 3-36H2
+Hendrickson Fed 4-36H
+Hendrickson Fed 5-36H1
+Hendrickson Fed 6-36H
+HENDRIX UNIT # 7H
+HENDRIX UNIT # 8H
+HENDRIX UNIT # 9H
+HENDRIX UNIT #10H
+HENDRIX UNIT #11H
+HENDRIX UNIT #12H
+Hentz Family A56-0407 N 02WS (fka Hentz Family 7 #1)
+Herbert #4-3H
+Herbert 5-3H
+Hester Farms A-36HN
+Hester Farms B-36HC
+Hester Farms C-36HN
+Hester Farms D-36HN
+Hester Farms E-36HC
+Hester Farms F-36HN
+Hester Farms G-36HN
+Hester Farms H-36HC
+Hester Farms I-36HN
+Hester Farms J-36HN
+Hester Farms K-36HC
+Hester Farms L-36HN
+Hiawatha Deep #4-36
+Hicken Tribal 15-9-4-3-1E-H1
+Hicken Tribal 2-16-3-1E-H1
+Hicklin 2-28HA
+Hickman RE 1 223 37HA
+High Valley 1807 #1UMH-36
+HILGERS 12N-22HZ
+HILGERS 13N-22HZ
+HILGERS 17N-34HZ
+HILGERS 32N-22HZ
+HILGERS 33N1-22HZ
+HILGERS 34N-22HZ
+HILGERS 41N-26HZ
+HILGERS 7N-34HZ
+HILGERS 8N-34HZ
+HILGERS 8N2-34HZ
+HILGERS 8N3-34HZ
+Hill Trust 1806 1-10MH
+Hillerman 1-23
+HINDES UNIT # 3H
+HINDES UNIT # 4H
+HINDES UNIT # 5H
+HINDES UNIT # 6H
+HINDES UNIT # 7H
+HINDES UNIT #8H
+HINDES UNIT #9H
+Hines Federal #1H-0235X
+Hinojosa 11H
+Hinojosa 12H
+Hinojosa 13H
+HIXON 15 H - REFRAC
+HKHR Allocation 7D19H
+HKHR Allocation 8D 20H
+Hoffmann 17H
+Hoile 1H-25X
+Holieway #1H-0433X
+HOLINSWORTH 2H-9X
+HOLINSWORTH 3H-9X
+HOLINSWORTH 4H-9X
+Holinsworth 5H-9X
+Holinsworth 6H-9X
+Holinsworth 8H-9X
+Hollenback #31-30-1H
+Holstein Federal 3-25H2
+Holstein Federal 4-25H
+Holstein Federal 5-25H1
+Holstein Federal 6-25H
+Holstein Federal 7-25H2
+Holt Ranch 320P 4HC
+Homme 11-18TFH
+Hooker 46-1
+Hoppock 2 #1
+Hornsby 35 Federal Com #10H
+Hornswaggle #2
+Hornswoggle #1
+Horsetail 07F-0607
+Horsetail 07G-0609
+Horsetail 07G-0610
+Horsetail 07G-1809
+Horsetail 07G-1810
+Horsetail 07G-1811
+Horsetail 07G-1812
+Horsetail 07G-1844
+Horsetail 07H-0613
+Horsetail 07H-0615
+Horsetail 07H-0646
+Horsetail 07H-0647
+Horsetail 07H-1813
+Horsetail 07H-1814
+Horsetail 07H-1815
+Horsetail 07H-1816
+Horsetail 07H-1846
+Horsetail 07H-1847
+Horsetail Fed 07F-0605
+Horsetail Fed 07F-0606
+Horsetail Fed 07F-0639
+Horsetail Fed 07F-0640
+Horsetail Fed 07G-0611
+Horsetail Fed 07G-0612
+Horsetail Fed 07G-0642
+Horsetail Fed 07G-0643
+Hoskins EFS 1H
+Hoss #92S
+HOUND 30 FED #701H
+HOUND 30 FED #702H
+HOUND 30 FED #703H
+HOUND 30 FED #704H
+Houser 14-36H
+HOUSES QUARTER 10-7-6XH
+Howo 2-4-33MLH 2nd lat
+HR 320O 8HE
+HR 320P 5HE
+HR 320P 6HD
+HR 320P 7HF
+HR Potter 1511 1-3-34MXH
+HS State 113-22X15 1H
+HS State 113-24X13 1H
+HS State 114-13X121H
+HS State 114-24 1H
+Hubbard #2
+Huffstutlar 0334-1HX
+Huffy's Family Unit 10H
+Huffy's Family Unit 13H
+Huffy's Family Unit 14H
+Huffy's Family Unit 15H
+Huffy's Family Unit 16H
+HUGH -27-34-4201H
+Hugh 27-34 4301H
+Hugh 27-34 4401H
+Hughes 10H
+Hughes 11H
+Hugle Unit 1H
+Hugle Unit 2H
+Humphrey 2-15
+HUMPHREY 2-15
+Hunt Garrett 5-34-3H
+Hunt Timberland 36-1-12 H 002
+Hunter 1H
+Hunter 2H
+Hunter 2H
+Hurley Unit 2H
+Hurley Unit 3H
+Hurley Unit B 1H
+Hutchinson 10-15-12H 001-Alt 05/23/2017
+Hutchinson 15-15-12H 001 05/23/2017
+Hyatt A 10H
+Hyatt A 11H
+Hyatt A 6H
+Hyatt A 7H
+Hyatt A 8H
+Hyatt A9H
+I. Harvey 1H
+I. Harvey 2H
+I106A
+I51A
+Ibrom B 6H
+Icewine #2
+Iguana 11-17N-10W 1H
+Iguana Unit 6A #1H
+Iguana Unit 6B #2H
+IKE 1-20-17XH
+INDY 12 1H
+Ingram Farms A 54
+Irgens 41-17-1HU
+Irgens 41-17-1TFH
+Irgens 41-17-2H
+Irgens 41-17-2TFH
+Irgens 41-17-3H
+Iron Horse Fed 43-1R
+Iron Mask 36_25-14N-8W 1HX
+Irvin Family Unit A 2H
+Irvin Family Unit A 3H
+Irvin Family Unit A 4H
+Irvin Family Unit A5H
+Irvin West 330H
+Isaac Taylor 0606 2-15-10WXH
+Ivory Working 14-23HC-1
+J Caplis 5-15-12H 001 10/23/2017
+J H Jines 479-3H
+J SALTER 18-15-9 H 001 HARASU78
+J Smith Unit A 2
+J Smith Unit A 3
+J Smith Unit A 4
+J Smith Unit A 5
+J Smith Unit A 7
+J WOODARD 27-15-9H 001
+J WOODARD 34-15-9H 001
+J5 Ranch E #3
+Jacee E Unit 5H
+Jack 21-16 #4H
+Jack 21-16 5TFH-R
+Jack Samuel 2012 1-20H29H
+Jackson Davis JR 2H#2
+Jackson Davis JR 35-26HC#1
+Jackson Davis JR 35H#1
+Jacobs No. 1
+Jacobson Unit 1H
+Jacobson Unit 2H
+Jacobucci 32K-323
+Jacqueline 2-16H
+Jacqueline 3-16H
+Jacqueline 4-16H
+Jade 1H-5X
+Jake Berger Cattle Co. #2H
+Jake Berger Cattle Co. #4H
+Jake Berger Cattle Co. #5H
+Jana 1-3_10H
+Jane 1509 1H-17
+Janecka 1H
+Janice #1H-2623X
+Janice 1-24H
+Janice Unit 1H
+Janice Unit 2H
+Janice Unit 3H
+JANYSEK UNIT A 1
+JANYSEK UNIT A 4
+JANYSEK UNIT A 7
+Jasper 32-4H
+Jauer Sonka 504H
+Jauer Sonka 5H
+JAVELINA UNIT # 2H
+JAVELINA UNIT # 3H
+JAVELINA UNIT # 4H
+Jaymi 1H-12
+Jean Ann 1711 1H-9X
+JENDRUSCH GEROLD UNIT # 3H
+JENDRUSCH GEROLD UNIT # 4H
+JENDRUSCH GEROLD UNIT # 5H
+JENDRUSCH GEROLD UNIT # 6H
+Jenks Tribal 2-16-21-3-2E-H1
+Jennifer 1H-35X
+Jennings 448
+Jerome 21-15MBH 2SH
+Jerome 21-15TFH-3SH
+Jerome Anderson 15-10 #4H
+Jerome Anderson 15-10 #5H
+Jesse #1
+Jet Pilot 24 Fee #3H
+JF 17-4 -additional completion
+JF 17-7 - additional completion
+JF 22-4
+JF 87-4
+JF 97-4 -additional completion
+JFW 073971-VDW
+Jim Thorpe Com #90
+Jimmie COM #1H-3019X
+JL NUTT HB 1H
+Jo Ella 1-33
+JOANNE UNIT # 1H
+Jody Mantooth 0503 7-1XHW
+JOHN DENNY 41-44 4209H
+JOHN DENNY 41-44 4409H
+John Evans #5A
+John Pack H1
+Johnson 01N-65W-30-8N
+Johnson 1-5
+Johnson 24-7M
+Johnson-Flying Horse USW 1
+Jolene #2-26HR
+Jolene #3-26H
+Jolene 4-26HR
+Jolene 5-26H
+JOLLY ROGER 16 STATE #301H
+Jonah Federal 90-7
+Jones 30-19N-14W-1H
+Jones Holton #60
+JOSHUA TREE A # 1H
+JOSHUA TREE B # 2H
+JOSHUA TREE C # 3H
+Juanita USA 13-35H
+JUBILEE 114-1628H
+JUBILEE 117-2128H
+JUBILEE 118-2109H
+JUBILEE 119-2109H
+JUBILEE 120-2109H
+JUBILEE 121-2128H
+JUBILEE 124-2109H
+JUBILEE 125-2128H
+JUBILEE 126-2128H
+JUBILEE 143-3601H
+JUBILEE 159-2227H
+JUBILEE 163-2227H
+JUBILEE 165-2227H
+JUBILEE 166-2227H
+JUBILEE 167-2227H
+JUBILEE 514-1628H
+JUBILEE 515-2128H
+JUBILEE 516-2109H
+JUBILEE 517-2128H
+JUBILEE 518-2109H
+JUBILEE 519-2109H
+JUBILEE 520-2128H
+JUBILEE 521-2128H
+JUBILEE 522-2109H
+JUBILEE 523-2128H
+JUBILEE 524-2109H
+JUBILEE 546-3601H
+JUBILEE 549-3601H
+JUBILEE 557-2227H
+JUBILEE 558-2210H
+JUBILEE 559-2227H
+JUBILEE 560-2210H
+JUBILEE 561-2227H
+JUBILEE 563-2227H
+JUBILEE 564-2210H
+JUBILEE 565-2227H
+JUBILEE 567-2210H
+JUBILEE 607-2210H
+Judith Winston Knight A #4
+Jugard Federal 5-26-35TFH
+Julie 3H
+Julie 4H
+JUNE BUG UNIT 1H
+June Day Unit B 2
+June Day Unit B 3
+June Day Unit B 701
+Junkyard Dog 1H
+Junkyard Dog 3H
+Jurica 1H
+K RANCH LOS COMPDRS UNIT # 6H
+K RANCH LOS COMPDRS UNIT # 7H
+K RANCH LOS COMPDRS UNIT # 8H
+K Ryan 4-9-16 H 001-ALT
+K32C
+K73A
+K75A
+Kaitlyn 1606 1H-34
+Kane #10KE
+Karnes City NW 2H
+Karnes City NW 3H
+Karnes City NW 501H
+Karnes City NW 502H
+Karnes City NW 503H
+Karnes City SW 5H
+Karnes City SW 6H
+Kassay 13H
+Kassay 1H
+Kassay 3H
+Kassay 5H
+Kassay 7H
+Kassay 8H
+Kassay 9H
+KATARA 602-0916H
+KATHRYN -43-42- 4207H
+KATHRYN -43-42- 4407H
+KATHRYN -43-42-4307H
+KATHRYN 44 5 4407H
+KAUFFMAN STATE UNIT C4-6 4307H
+Kauk 2-34
+Kay 1-19
+KDM 1-7-6T2HD
+KDM 1-7-6T3HD
+KDM 2-7-6T3HD
+KDM 3-7-6T2HD
+KDM 3-7-6T3HD
+KDM 4-7-6T2HD
+KDM 5-7-6BHD
+KDM 5-7-6THD
+KDM 6-7-6BHD
+KDM 7-7-6BHD
+Keeling 31-13-2H
+Keeling 31-13H
+Keeling 31-13TFH
+Keller UT 14-23 3-3-23-14-16H
+Keller UT 14-23 3-3-23-14-4H
+Keller UT 14-23 3-3-23-14-7H
+Keller UT 14-23-3-3-23-14-3H
+KEM Ranch Ranch 1-24-25XH
+Kempf Trust 21-14H
+Ken 1H-4X
+Ken Ryan 33-16-9H 1 12/27/17
+KENDALL 16-17-3-1E
+KENDALL 8-17-3-1E
+Kendall Tribal 1-19-3-1E-H1
+Kendall Unit #12H
+Kendall Unit #4H
+Kendall Unit #5H
+Kendall Unit #8H
+Kennedy 12H
+Kennedy 13H
+Kennedy 14H
+Kennedy 15H
+Kennedy 16H
+Kennedy 512H
+Kennedy 513H
+Kennedy 514H
+Kennedy D #2
+KHC 33-26 #4H
+KIERA 1506 1H-3X
+Kiley A1H
+Kilimanjaro 1106 #1WH-2
+KILIMANJARO UNIT #102H
+KILIMANJARO UNIT #103H
+KILIMANJARO UNIT #105H
+KILLAM & HURD FEE 1181 #1
+KIMBALL # 4H
+KIMBALL # 5H
+KIMBALL # 6H
+KIMBALL # 7H
+Kinbeto Com #90
+King 11-8-2H
+King 11-8H
+King 11-8THFU
+King 2H
+KING D 10
+KING D 4
+KING D 6
+KING D 8
+KING D 9
+King North 2H
+KINGSLEY 4H
+Kirby 1-18
+Kitchen Lights Unit #A-2A
+KIWI UNIT # 1H
+Klatt 145-97-18A 19-1H
+Klatt 145-97-18A 19-2H
+Klatt 145-97-19C 18-3H
+Klatt 145-97-19C 18-4H
+Klatt 145-97-19C 18-5H
+Klein 33 Fed Com #7H
+Klein 33 Fed Com #8H
+Klever 1H
+Klever 2H
+Klickity Klack 32-16N-7W 1H
+KLINE 15H
+KLINE 9H
+Klondike State Com 1H
+Klopfenstein 16-11-23-1HB
+Knight 4 51 2H
+Knighton ET AL 11H006-ALT
+Knighton ET AL 11H007-ALT
+Knighton ET AL 11H008
+Knoll 13-10 4-2-15-7H
+Knute 1-33-4XH
+KO Kipp 1-3-10XH
+Koala 14-32-2H
+Koala 14-32HU
+Koala 2-25-36-14H3
+Koala 31-25-2H
+Koala 31-25-2TFH
+Koala 31-25-3H
+Koala 44-31-2TFH
+Koala 44-31-3TFH
+Koala 44-31H
+Koala 44-31TFH
+KOALA 44-5-3H
+KOALA 44-5TFHU
+Koala Federal 31-25H
+Koala Federal 31-25HU
+Koala Federal 31-25TFH
+Koci 592405
+KOOPMAN 01 03H
+KOOPMAN-LANG (A) 01 02H
+Korth B Unit 19H
+Korth B Unit 20H
+Korth C Unit 10H
+Korth C Unit 11H
+Korth C Unit 12H
+Korth C Unit 13H
+Korth C Unit 9H
+KORTH UNIT #10H
+KORTH UNIT #11H
+KORTH UNIT #12H
+KORTH UNIT #13H
+KORTH UNIT #14H
+Kostelnak 145-97-29B-32-2H
+Kostelnak 145-97-32D-29-3H
+Kotara Ridley 15H
+Kotara Ridley 16H
+Kotara Ridley 17H
+Kotara Ridley 18H
+Kotara Ridley 21H
+Kraus 15-27-11 1H
+Kraus 15-27-11 2H
+Krause A 10H
+Krause A 8H
+Krause A 9H
+Krause A Krause C S 3H
+Krause A Krause C S 4H
+Krause A Krause C SA 1H
+Krause A Krause C SA 2H
+Krause B 11H
+Krause B 12H
+Krause B 13H
+Krause B 14H
+Krause Unit B8H
+Krnyaich A Unit 6H
+KROPP 07-017-01 C 1H
+KROPP 07-017-03 C 3H
+KROPP 07-017-04
+KROPP 07-017-05 C 5H
+KROPP 07-017-06
+KROPP 07-017-07 C 7H
+KROPP 07-017-08
+KROPP 07-017-09 C 9H
+KROPP 07-017-10
+KROPP 07-017-12
+Kudron 33-15N-7W 1H
+Kudu Hunter 6H
+Kudu Hunter 7H
+Kudu Hunter 8H
+Kudu Hunter 9H
+Kukla 34-34H
+Kupscznk Unit B - 1H
+Kupscznk Unit B-2H
+Kupscznk Unit B-4H
+Kupscznk Unit B-5H
+Kurth B3h
+Kurth D5H
+Kuziak B 3H
+L Billingsley 5H #2
+L BLACK 87-88 2N 12H
+L&L Construction Unit A-2H
+L&L Construction Unit A-3H
+L&R Lands 29-20HC-1
+L&R Lands 29-32HC-1
+L7482-13
+L7482-19
+L7506-13
+L7506A-13
+L7529-13
+L7530-13
+L7553A-13
+L7579-19
+La Cruz Tres Land, Ltd. - State #6H
+LA Minerals 14-23HC-1 Alt
+LA Minerals 27-22HC #1
+LA Minerals 27-22HC #2
+Lacey USA 11-5H
+Lackey 1-17/20H
+Lackey 2-17/20H
+Lackey Unit A 2
+Lager Unit 3H
+Laird Unit A 1
+Lamb 13-10-4-2E-H1
+LAND 14C-32HZ
+LAND 14N-32HZ
+LAND 15C-32HZ
+LAND 15N-32HZ
+LAND 28N-29HZ
+LAND 36N-32HZ
+LAND 37N-32HZ
+LAND FED 13N-32HZ
+LAND FED 29C-29HZ
+LAND FED 29N-29HZ
+LAND FED 30C-29HZ
+LAND FED 34C-32HZ
+LAND FED 34N-32HZ
+LAND FED 35C-32HZ
+LAND FED 35N-29HZ
+LAND FED 3N-32HZ
+Landlubber #6
+Landreth BIA 1-14H
+Landrum 2305 1-30H/31H
+LANE TR E 43-42 (ALLOC-A) 1NL
+Langham Unit #3
+LANSING 5-25H1
+LANSING 6-25H 
+Lapp A15-625
+Lapp A15-632
+Larry 1-15
+Larry 1H-22X
+Larry Baumunk 1H
+Larry Jackson 2-16
+LARS UNIT # 2H
+LARS UNIT # 3H
+LARS UNIT # 4H
+LARS UNIT # 5H
+LARSEN 157-101-21-16-3H
+LARSEN 157-101-28-33-3H
+Lasca Butler Searcy Trust 2
+Lassen 1-1-26UTFH
+Lassen 2-1-26UTFH
+Lassen 3-1-26UTFH
+Lassen 4-1-2MBH
+LASSEN 5-1-26UTFH
+Lasseter & Eppright K 3
+Lasseter & Eppright K 31
+LATHAM-MCKNIGHT 1801H
+Laurel Hill 23H
+Laurel Hill 24H
+Laurel Hill 25H
+Lauren #1-28MH
+Layden A24
+Lazard Family 1H-2 Alt
+Lazy A Cotulla G1H
+Lazy A Cotulla G2H
+Lazy A Cotulla G3H
+Lazy A Cotulla G4H
+Lazy A Cotulla G5H
+Lazy A Cotulla H1H
+Lazy A Cotulla H5H
+Lazy A Cotulla Unit DIM H2H
+LAZY A COTULLA UNIT DIM H3H
+Lazy A Cotulla Unit DIM H4H
+LEAH 31 FED 001
+LEATHERWOOD UNIT 1H
+LEATHERWOOD UNIT 2H
+Leavitt Trust Fed 334372-1PH
+Leavitt Trust Fed 334372-2PH
+Lebar 15-34-69 A TR 22H
+LEDWIG EAST UNIT II LAS C 2H
+LEDWIG EAST UNIT II LAS C 7H
+LEDWIG EAST UNIT III LAS C 6H
+Lee 25-15-10H 001 08/11/2017
+LEGACY 2623A-C3 1H
+LEGACY 2623A-C3 2H
+LEGHORN 32 STATE #201H
+Lehman #1-11H
+Lehman E Unit 12H
+Lehman E Unit 4H
+Lehman E Unit 8H
+Leidy Barnes A 2
+LELIA 5X #1H
+Lemac Farms 7-6 HC#1
+Lemac Farms 7-6 HC#2
+Lena USA 14-22H
+Lenard Trust 1-18-19XH
+Lenox #2-5H
+Leo Frank Unit A 2
+Leon #6-12H
+Leon #7-12H
+Leon #8-12H
+Leon #9-12H
+Leon 4-17 3-2-8-5-26H
+Leon UT 4-17 3-2-8-5-17H
+LEONARD AC UNIT #102H
+LEONARD AC UNIT #103H
+LEONARD AC UNIT #104H
+LEONARD AC UNIT #105H
+LEONARD AC UNIT #106H
+LEONARD AC UNIT #107H
+LEONARD UNIT # 6H
+LEONARD UNIT # 7H
+LEONARD UNIT # 8H
+LEONARD UNIT # 9H
+LEONARD UNIT #10H
+LEONARD UNIT #11H
+LEPORI UNIT #101H
+Letty 1-34_27H
+LEWIS 22-15-10 H
+LEWIS 22-15-10 H 001
+LEWTON 26J-36HZX
+Libersat EFS 1H
+Libersat EFS 2H
+Libersat EFS 3UH
+Liberty # 6 - 1
+Liberty # 6 - 2
+Liffrig 11-27-2H
+LIGHTFOOT UNIT # 9H
+LIGHTFOOT UNIT #10H
+LIGHTFOOT UNIT #11H
+LIGHTFOOT UNIT #12H
+LIGHTFOOT UNIT #13H
+LIGHTFOOT UNIT #14H
+Lightning Federal 6-24-13TFH
+Lightning Federal 7-24-13TFH
+LIGHTNING UNIT # 1H
+LIGON 730-19 4305H
+LIGON 730-19 4307H
+Lillibridge 3B UTFH
+Lillibridge 3C MBH
+Lillibridge 3D UTFH
+Lillibridge-Veeder 3E MBH-ULW
+Lindsay 10-3A-1H
+LINK VJ RANCH 23-11 B #2H
+LINK-VJ RANCH 11-14 #1H
+Little 6 #2
+Little Duke 1H
+Little Muddy 17H
+Little Muddy 19H
+Little Muddy 21H
+Little Muddy 23H
+LITTLE RUSH 4-65 28 1V
+Littlejohn 7H
+Livingston Gas Unit 1 (Refrac)
+LL Golson 37-1
+LL Golson 37-2
+LL Golson 37-3
+LL Golson 5-1
+LL Golson 37-3
+LL Golson 5-1
+LL Golson 5-2
+LL Golson 5-3
+LL Golson 7-6HC-1 Alt
+Lockwood USA 44-22TFH
+Loftin 32-29 HC 1-ALT
+Loftin 32-29 HC 2-ALT
+Loftin 32-29 HC 3-ALT
+Loftin 4-32-29H
+LOGOS 2406 29H COM 13
+LOGOS 2508 20D 15
+Lohmeyer 1H-26X
+LOMAS ROJAS 26 STATE COM #705H
+LOMAS ROJAS 26 STATE COM #706H
+LOMAS ROJAS 26 STATE COM #707H
+LOMAS ROJAS 26 STATE COM #708H
+LONESTAR GUNFIGHTER #1H
+Long-Fischer Unit 10H
+Long-Fischer Unit 1H
+Long-Fischer Unit 2H
+Longfellow 3-13 701H
+Longfellow 3-13 702H
+Longfellow 3-13 802H
+Longfellow 3-13-601H
+LONGORIA -11- #2H
+Lookabaugh 25 24-15N-11W 1HX
+Loomer 44-33-2H
+Loomer 44-33-2TFH
+Loomer 44-33TFHU
+Lord Murphy 10 State A #2H
+Loretta 2616 1H-02 A
+Loretta 2616 1H-03 C
+Lorie 26 2H
+LOTTIE LEE B # 2H
+LOTTIE LEE B # 3H
+LOTTIE LEE B # 4H
+Lougheed 2-11 #3H
+Lougheed 2-11 #4TFH
+Lougheed 2-11 #5H
+Lougheed 2-11 #7H
+Lougheed 2-11 XE #1TFH
+Lougheed 2-11 XW #1H
+LOUISE STRAUBE 02 02H
+LOUISE STRAUBE 02 03H
+LOUISE STRAUBE 02 04H
+LOUISE STRAUBE 02 05H
+Love Unit 13H
+Lowe 7-18-19-158N-99W TFH
+Lucile 1H-27X
+Lucky Texan 1H
+Ludeman 1302H
+Ludeman C 704H
+Ludeman D 104H
+Ludeman F 504H
+Ludeman F 505H
+Lukenbill 34-11-1H
+Lukenbill 34-11-1TFH
+Lukenbill 34-11-2H
+Lukenbill 34-11-2TFH
+Lula 1H-16X
+Lund 44-35H
+Lutie Gex 887-8H
+Luttrull 1-30-31XH
+LYDA 33 11H
+LYDA 33-40-1S STATE 16H
+Lydia #1-16H
+Lyman A 3H
+Lyman A 3H
+Lyman A2H
+Lyman A4H
+Lyman A6H
+LYNCH UNIT # 2H
+LYNCH UNIT # 3H
+LYNCH UNIT # 4H
+LYNCH UNIT #17H
+LYNCH UNIT #18H
+M Koopmann Unit A 201
+M Koopmann Unit A 202
+M Koopmann Unit A 203
+M Koopmann Unit A 204
+M Koopmann Unit A 3
+M Terry #1-1WH
+M W Lavigne 11- 2
+M. Thornburg No.2
+M.J. Bashara Unit #101
+MABEE 139 #0414MH
+Mabee 24 #2307LH
+Mabee 24 #2307MH
+Mabee 24 #2308BH
+Mabee 240C #2601AH
+Mabee 240C #2601BH
+MABEE C H22 SS
+MABEE C H23 SS
+Mabee, J.E. A NCT-1 3101H
+Mabee, J.E. A NCT-1 3102H
+Mabee, J.E. A NCT-1 3103H
+Mabee, J.E. A NCT-1 3104H
+MacKelvey 1906 1-26MH
+MACKEY 1H
+Macleod #2-19H
+Madeline 55-26-2HH
+Maduro North Fed #3H
+Magee 36-3 1
+Maggie USA 21-4H
+MAGNOLIA 15 #701H
+MAGNOLIA 15 #702H
+MAGNOLIA 15 #709H
+Magnolia Fed 3875-28-33 1FH
+MAGOULAS UNIT # 2H
+MAGOULAS UNIT # 3H
+MAGOULAS UNIT # 4H
+MAGOULAS UNIT # 5H
+MAGOULAS UNIT # 6H
+MAGOULAS UNIT # 7H
+Mahogany 1HST
+Mahogany 2H
+MAISIE STATE 10-1H
+Maisie State 10-2H
+MAK RANCH # 7H
+MAK RANCH # 8H
+MAK RANCH # 9H
+Malachosky Edward 11752 Unit #10H
+Malachosky Edward 11752 Unit #9H
+Malachosky Edward Unit #6H
+Malachosky Edward Unit #7H
+Malachosky Edward Unit #8H
+Malson 2-7H
+Maltsberger 75H
+Maltsberger Hixon E Unit 3H
+MANCHACA UNIT # 5H
+MANCHACA UNIT # 6H
+MANCHACA UNIT # 7H
+MANCHACA UNIT # 9H
+MANDAREE 024-0706H
+MANDAREE 30-0706H
+MANDAREE 31-0706H
+MANHATTAN 183-178-3S 25HR
+MANHATTAN 183E 2H
+MANHATTAN 183W 1H
+Mann Unit 1H
+Mann Unit 2H
+Mann Unit 3H
+Mann Unit 4H
+Mannering 1-15H
+Mar Ranch A1H
+Mar Ranch A2H
+Mar Ranch B1H
+Mar Ranch B2H
+Marak 15-15-9H 001-Alt 02/17/2017
+Marak 22-15-9 H 001 02/17/2017
+Maral #20-07-33-1H
+Marauder State Unit 1H
+Marburger A Unit #1H
+Marc FIU 1-8-5XH
+Marchezak John 11528 3H
+Marchezak, John Unit #2H
+Marchezak, John Unit #6H
+Marchezak, John Unit #7H
+Marcia #1-10MH
+MARCO 1602A 1H
+MARCO 1602BU 2H
+MARCO 1603A 2H
+MARCO 1603BL 1H
+MARCUS LD 11-379HC
+Marinenko 145-97-30B-31-5H
+Marinenko 145-97-31D-30-1H
+Marinenko 145-97-31D-30-2H
+Marion #1-29HL2
+Marius 1H
+Marlin 29-21 WDW
+MARQUARDT 12-13 FEDERAL COM 11H
+MARQUIS 26 #4
+Marsh 2H
+Marshall 2H
+Martens #5-35MH
+Martin 2
+Martin Mak C 11H
+Martin Mak D 49 H
+Martin Mak D 50H
+Martino 1H
+Martino 2H
+Mary #1H-2326X
+MARY ANN 3 03/06/2017
+Mary Catherine 1-36H
+Mary EtAl 14H 001 08/21/2017
+Mary H #1
+Mary Hansen 14-9H
+Mary Jane 1H
+Mary Jane 3H
+MARYS DRAW 267-2227H
+MARYS DRAW 27-16H
+MARYS DRAW 36-1621H
+MARYS DRAW 432-1604H
+MARYS DRAW 433-1621H
+MARYS DRAW 453-0310H
+MARYS DRAW 455-0310H
+MARYS DRAW 461-2227H
+MARYS DRAW 462-2227H
+MARYS DRAW 49-2326H
+MARYS DRAW 491-1312H
+MARYS DRAW 493-1526H
+MARYS DRAW 494-1527H
+MARYS DRAW 50-2326H
+MARYS DRAW 51-0805H
+MARYS DRAW 50-2326H
+MARYS DRAW 51-0805H
+MARYS DRAW 52-0805H
+MASK HZ UNIT 1004H
+MASK HZ UNIT 1005H
+Mason Estate 16 H-2-Alt
+Masterson  27-18N-2W 1MH
+Mathistad 22A MBH
+Mathistad 22B UTFH
+Mathistad 3NC MTFH
+Mathistad 6-8-35 MBH
+Matlock #1
+Matrix A-29HN
+Matrix B-29HN
+Matrix C-29HN
+Matrix D-29HC
+Matrix E-29HN
+Matrix F-29HN
+Matrix G-29HN
+Matrix S-29HC
+Matrix T-29HN
+MATTERHORN UNIT #101H
+MATTERHORN UNIT #102H
+MATTERHORN UNIT #103H
+MATTERHORN UNIT #104H
+MATTERHORN UNIT #105H
+MATTERHORN UNIT #106H
+Matthews 1-4HC
+MAUNAKEA UNIT #101H
+MAUNAKEA UNIT #104H
+MAX 11 #2H
+MAX 27 #5H
+MAX 27 #6H
+Mayes 1-21H
+MB 139A 415 SH
+MB 9-16 #1
+McAlister Unit  11H
+McAlister Unit  12H
+McAlister Unit  9H
+McBeth A #1
+MCC HZ UNIT 1103H
+MCC Partners Unit 7H
+McCarthy 10_3-15N-9W 1HX
+McCarthy 10_3-15N-9W 2HX
+McCarthy 1506 2-35MH
+MCCLELLAND  7H-26X
+MCCLELLAND 2H-26X
+MCCLELLAND 3H-26X
+MCCLELLAND 9H-26X
+MCCOLLUM A UNIT # 6H
+MCCOLLUM A UNIT # 7H
+MCCOLLUM A UNIT # 8H
+MCCOLLUM A UNIT # 9H
+McCombs State 1-12 2H
+McConnell #19-1H
+MCCOY UNIT # 3H
+MCCOY UNIT # 7H
+MCCOY UNIT # 8H
+MCCOY UNIT # 9H
+MCCOY UNIT #10H
+MCCOY UNIT #11H
+McCrary  22-15-10 HC 001-ALT
+McCrary  22-27 HC 002
+McCue 1H
+McCue 2H
+McDaniel #2-18H
+MCDANIEL 1H-12X
+McFadin HC1 DIMC 2H
+McFadin HC2 DIM C 3H
+McFadin Unit B DIM C 1H
+McGee #29-1H
+McGregor #405
+McGregor #710
+McGregor Unit #607
+McIntosh #4A
+McIntyre State 38 1H
+McKinney 14-23 H 001
+McKinney 14-23 H 002
+McKinney 14-23 H 003
+MCMANUS UNIT # 2H
+MCMANUS UNIT # 3H
+MCMANUS UNIT # 4H
+MCMANUS UNIT # 5H
+MCMANUS UNIT # 7H
+MCMANUS UNIT # 8H
+McMillan #11-7
+McNamara 42-26-2XH
+McNamara 42-26-3XH
+MD7357-13
+MD7432-13
+MD7432A-13
+MD7437-13
+MD7456A-13
+MD7457-13
+MDJ CALDWELL C13NH
+MDJ CALDWELL C23NH
+MDJ CALDWELL CN21H
+MDJ CALDWELL H12SH
+MDJ MINERALS 58-T2-22 W102H
+MDJ MINERALS 58-T2-22 W103H
+MDJ MINERALS 58-T2-22 W104H
+Mechanicsburg 9-6 No. 1
+Mechanicsburg 9-7 No. 2
+Medicine Man 1
+Medwick 32 Fed #7H
+Medwick 32 Fed #8H
+MEESE 16N-35HZ
+MEESE 1C-14HZ
+MEESE 1N-14HZ
+MEESE 26N-14HZ
+MEESE 27N-14HZ
+MEESE 37C-35HZ
+MEESE STATE 38C-35HZ
+MEESE STATE 38N-35HZ
+MEGUIRE 29C-16HZ
+MEGUIRE 30N-16HZ
+MEGUIRE 4N-16HZ
+Meiwes #1-25H
+MEL  2H-30
+Melgaard 2-23H1
+Melgaard 3-23H
+Melgaard 4-23H1
+MELLENCAMP 8-14 4301H
+MELLENCAMP 8-14 4501H
+Mercer 9H 1 ALT
+Mercer 9H 2 ALT
+Mercer 9H 3 ALT
+Mercer 9H 4 ALT
+MERCHANT 1410 A
+MERCHANT 1410 BU
+MERCHANT 1414 A
+MERCHANT 1414 B
+MERCHANT 1416 A
+MERCHANT 1416 BL
+Merideth 2615 1H-8A
+MERIDETH UNIT # 1H
+MERIDETH UNIT # 2H
+MERIDETH UNIT # 3H
+Meritt 12-1H
+MERLIN # 6H
+Merton 21-15MBH
+Merton 21-15MBH 2HN
+Merton 21-15TFH
+MERU UNIT #101H
+MERU UNIT #102H
+MERU UNIT #103H
+Meyers #1H-2821X
+MGS Unit 1H
+MGS Unit 2H
+MHA 1-10-14H-149-91
+MHA 1-13-14H-150-91
+MHA 1-19H-150-90
+MHA 1-32-33H-148-92
+MHA 2-06-31H-150-92
+MHA 2-10-14H-149-91
+MHA 2-10-15H-149-91
+MHA 2-13-14H-150-91
+MHA 2-27-34H-148-92R
+MHA 3-06-31H-150-92
+MHA 3-10-14H-149-91
+MHA 3-32-33H-148-92
+MHA 4-10-14H-149-91
+MHA 4-10-15H-149-91
+MHA 4-27-34H-148-92R
+MHA 5-04-33H-150-92
+MHA 5-06-07H-149-92
+MHA 5-13-14H-150-91
+MHA 5-32-29H-150-91
+MHA 6-04-33H-150-92
+MHA 7-06-01H-149-92
+MHA 7-32-29H-150-91
+MHA 8-27-34-148-92
+Miami Beach 34-123 #2H
+Middle McCowen 190H
+Middle McCowen 90H
+Middle McCowen 91H
+Middle McCowen 92H
+Middle McCowen 93H
+Middle McCowen 98H
+Midkiff 1821H
+Midkiff 1836HR
+Midkiff 1WA
+Midkiff 2WB
+Midland 'AV' Fee 10HB
+Midland 'AV' Fee 11HA
+Midland 'AV' Fee 12HB
+Midland 'AV' Fee 13HA
+Midland 'AV' Fee 14HB
+Midland 'AV' Fee 15HA
+Midland 'AV' Fee 16HB
+Midland 'AV' Fee 1HB
+Midland 'AV' Fee 2HA
+Midland 'AV' Fee 9HA
+Midland 'AX' Fee 5HB
+Midland 'AX' Fee 6HD
+Midland 'AX' Fee 7HA
+Midland 'AX' Fee 8HB
+MIDLAND AC/WYLIE B 1305 1305HB
+MIDLAND AC/WYLIE B 1306 1306HB
+MIDLAND AC/WYLIE B 1306 1313HA
+MIDLAND AC/WYLIE B 1307 1314HA
+Midstates 40 #3 HM
+Migura A 7H
+Migura A 8H
+Mike COM #1H-0706X
+Miller #1A
+Miller #2A
+Miller 41A 1HF
+Miller 41A 2HK
+Miller 41B 3HF
+Miller 41B 4HK
+Miller 41C 5HF
+Miller 41C 6HK
+Miller Estate #3H
+Miller Estate #4H
+Miller Estate #7H
+Miller Estate #8H
+Miners H1
+Minerva 1H
+Minton #1-20
+Minutemen Federal LC21-620
+Miss Gracie #1-18
+Mitchell #1-26H
+MJ McGary 56-T2-32 #1H
+ML 6-14N-9W 1H
+MLT Fed 213668-1TPH
+MLT Fed 213668-2TPH
+MLT Fed 213668-2TPH
+Moberg Federal 149-95-29-32-14HLW
+Moberg Federal 149-95-29-32-20H
+Moberg Federal 149-95-29-32-30HLW
+MOBIL A 006
+MOBIL A 007
+Moccasin Creek 8-26-27-4H3
+Moccasin Creek 8-26-27-53
+Moccasin Creek 8-26-27-5H3
+Moccasin Federal 8-7N
+Mocek, John 11222 Unit #5H
+Mocek, John 11222 Unit #6H
+Mocek, John 11222 Unit #7H
+Mocek, John Unit #4H
+Moczygemba Pollok AC 1H
+Mohawk Lodge Unit 1H
+Mohawk Lodge Unit 2H
+Moline 14-32H
+Molly Grace 36 25-17N-11W 1HX
+Mondello 7-6HC-1
+Monroe 28-39 Unit  A 4HR
+Monroe 28-39 Unit A 31H
+Monroe 28-39 Unit A 5HL
+Monroe 35 4H
+Montezuma 4-64 18-13 4H
+Moon 3-15 C4 RECOM
+Moore Park Unit #1H
+Moore Park Unit #6H
+Moore Park Unit #7H
+Moore Park Unit #8H
+Moore Park Unit #9H
+MOR30CHS
+Morab 29-20 Fed Com 1H
+Moran Trust 2-1
+Morgan 10H
+Morgan 11H
+Morgan 25 26 4215H
+Morgan 25 26 4415H
+Morgan 501H
+Morgan Ac6H
+Morgan Unit 8H
+Morgan Unit 9H
+Morgan Unit AC 2H
+Morgan Unit AC 3H
+Morgan Unit AC 4H
+Morita 18A 1
+Morita 18B 1
+Morita 18C 1
+MORLEY 11H
+MORLEY 12H
+Moro Creek 3311H
+Moro Creek 3312H
+Moro Creek 3313H
+Moro Creek 3314H
+MORRISON, H.B. 11H
+MORRISON, H.B. 12H
+MORRISON, H.B. 13H
+MORRISON, H.B. 14H
+MORRISON, H.B. 73H
+MORRISON, H.B. B 11H
+Mosasaurus 4-16N-9W 1H
+Mosley 5-15-9 H 001 08/16/2016
+Moss #30-1H
+Mossor Unit 1HST2
+Mossor Unit 2H
+Mossor Unit 3H
+Mott #19-1H
+Mott #20-2H
+Motu East 28-21-16-1CH
+Mountain #26-1
+Mountain #26-5
+Mountain #26-8
+MPB-30
+MPC-15A
+MPC-46
+MPS-90
+Mueggenborg 7-17-6 1H
+Mule 18-06-11 1H
+MUNN-CLARK 2618H
+MUNN-CLARK 2620H
+MUNN-CLARK 2627H
+Munson 2002H
+Munson B 2003H
+Munson C 2005H
+Murphy Land & Timber Co #1
+Murphy Sinclair 302H
+Murphy Sinclair 303H
+Murphy Sinclair 502H
+Murphy Sinclair 503H
+Murphy Sinclair AC 3H
+Murphy USA 34-22TFH-2B
+Murray #1-7H
+Murray 2-17 3-2-8-5-12H
+Murray 2-17 3-2-8-5-1H
+Murray 2-17 3-2-8-5-3H
+Murrin 2-23H
+Muskovich Philip 12080 Unit 4H
+Muskovich Philip 12080 Unit 5H
+Muskovich, Philip 12080 Unit 1H
+Mutual 0708 3-8H
+Mutual 0708 4-8H
+Myrtle Crump Arnold A #1
+N-80R
+N50A
+N52A
+NA 10R
+NA 80
+NA-12R
+NA86
+Nabors Prop #11-1
+Nabors Prop #11-2
+NAC 36 H 001 04/14/2017
+Nadyne Ice Burress (NIB) #2H-1720X
+Nageezi Unit 221H
+NAGUSS 30 STATE COM #501H
+Nancy #10-27H
+Nancy #3-27H
+Nancy #4-27H
+Nancy #5-27H
+Nancy #6-27H
+Nancy #7-27H
+Nancy #8-27H
+Nancy #9-27H
+Nancy 2-2-35-26H
+Napier 25-15 #1
+NAUTILUS 16 STATE COM #703H
+NAUTILUS 16 STATE COM #704H
+NAUTILUS 16 STATE COM #710H
+NAUTILUS 16 STATE COM #711H
+NAYLOR JONES B # 2H
+NAYLOR JONES B # 3H
+NAYLOR JONES B # 4H
+NAYLOR JONES UNIT 159 # 2H
+NAYLOR JONES UNIT 34 WEST # 3H
+NAYLOR JONES UNIT 34 WEST #2HR
+NAYLOR JONES UNIT 55 # 2H
+NAYLOR JONES UNIT 55 # 3H
+NAYLOR JONES UNIT 55 # 4H
+NAYLOR JONES UNIT 55 # 5H
+NAYLOR JONES UNIT 68 # 2H
+NAYLOR JONES UNIT 68 # 3H
+NAYLOR JONES UNIT 68 # 4H
+NAYLOR JONES UNIT 68 # 5H
+NAYLOR JONES UNIT 78 # 4H
+NAYLOR JONES UNIT 78 # 5H
+NAYLOR JONES UNIT 78 # 6H
+NAYLOR JONES UNIT 81 # 2H
+NAYLOR JONES UNIT 88 # 3H
+NAYLOR JONES UNIT 92 # 4H
+NAYLOR JONES UNIT 92 # 5H
+ND Levang 2-16-21T2HD
+ND Levang 4-16-21T2HD
+ND Levang 5-16-21BHD
+ND Levang 6-16-21BHD
+ND Levang 7-16-21BHD
+ND Levang 8-16-21BHD
+Neal Lethco 18 1H
+Neal Lethco 35-36 1H
+Neal Lethco State 24-23 1H
+NECTARINE 13 STATE COM #501H
+NEETS UNIT #21H
+Neller Elizondo D 3H
+Nellie C. Martin 27
+Nellie C. Martin 29
+Nellie C. Martin 31
+Nelson 21-18-2TFH
+Nelson 21-18TFH
+Nelson Unit 2H
+Nelson Unit 3H
+NEPTUNE 10 STATE COM #503H
+NEPTUNE 10 STATE COM #504H
+NEPTUNE 10 STATE COM #505H
+NEPTUNE 10 STATE COM #701H
+NERVOSA 24 STATE COM #601H
+Nettles 13-15-10 H 001 04/23/2017
+Nettles 3H
+Nichols A Unit 16H
+Nichols A Unit 17H
+Nichols A Unit 18H
+Nichols A Unit 19H
+Nichols A Unit 20H
+Nichols A Unit 21H
+Nichols A Unit 2H
+Nichols A Unit 3H
+Nichols A Unit 4H
+NICHOLS UNIT # 7H
+NICHOLS UNIT # 8H
+NM 2801
+NOAH BRUNSON A UNIT #1H
+NOAH BRUNSON A UNIT #2H
+NOAH BRUNSON B UNIT #1H
+NOAH BRUNSON B UNIT #2H
+Norge-Marchand Unit 45-2
+Norma 1-35_36_23H
+Norma 2-35_36_23H
+Norma 3-35-36_23H
+Norma 4-35_26H
+Norris 1-12HC #1H
+North Alamito Unit 306H
+North Alamito Unit 307H
+NORTH ALGER / 1-34 SWD
+NORTH DOLLARHIDE 511H
+NORTH DOLLARHIDE 513H
+NORTH DOLLARHIDE UNIT 509H
+North Dollarhide Unit 510H
+NORTH DOLLARHIDE UNIT 512H
+North Platte  T34-P31-13HNB
+North Tarn 1A
+North West Unit 2H
+Northeast Blanco Unit 602 Com #1H
+Northern  31-30-1H
+Northern 31-30-2TFH
+NORTHWEST FETTER 33-72 1-1H
+Norway State #1
+NOVAK UNIT # 3H
+NOVAK UNIT # 4H
+NOVAK UNIT # 5H
+NOVAK UNIT # 6H
+NOVOSAD UNIT #101H
+NOVOSAD UNIT #15H
+NOVOSAD UNIT #16H
+Nugget 34-20-12 1HC
+NUZUM 1-1-12XH
+Nyquist 25 State Unit #1H
+O E BURGE U MSH501H
+O'Quin #2-10H
+O'Quin 3-10WH
+O48B
+O52A
+OAKDALE 10-13H1
+OAKDALE 8-13H2
+OAKDALE 9-13H 
+Oatman 11-2 2WD
+Oats UT 2-26 3-3-23-14-12H
+Oats UT 2-26 3-3-23-14-1H
+OCHO LD 17-364HC
+Ocho LD 17-365HN
+OCHO LD 17-367HN
+Oerhli #1-30
+Ohio State #5
+Old Hickory  41-32TFH
+Old Hickory  42-32MBH
+Old Hickory  42-32TFH
+Old Hickory  43-32MBH-R
+Old Hickory 41-32TFH
+Old McDonald Farm Unit 3H
+Old McDonald Farm Unit 4H
+Old McDonald Farm Unit 5H
+Oliver 1H-22X
+Oliver 2012 1-15H22H
+Ollie 14-13N-7W 1H
+Olson (02-101-05) K 5H
+Olson (02-101-06) K 6H
+Olson (02-101-07) K 7H
+Olson (02-101-08) K 8H
+Olympia 4-27H1
+Olympia 5-27H
+Olympia Minerals 1-1H
+Olympia Minerals 1-36HC-1
+Olympia Minerals 27-22 HC-1
+Olympia Minerals 27-22 HC-2
+OLYMPIC A # 1H
+OLYMPIC B # 2H
+OLYMPIC C # 3H
+OLYMPIC D # 4H
+OMEGA UNIT # 1H
+ONeil 24-24H
+ONeil 34-24H
+OPHELIA 27 #503H
+OPHELIA 27 #709H
+OPPENHEIMER 188 12H
+ORION A #701H
+ORION A #702H
+ORRTANNA 20 FED #703H
+ORRTANNA 20 FED #704H
+Oryx Hunter #5H
+Oryx Hunter #6H
+Oryx Hunter #7H
+Oscar Stohler 41-4H
+OSPREY 10 #602H
+OSPREY 10 #701H
+OSR-Halliday 1056H
+OSR-Halliday 108 3H
+Ostrander #3-1
+Ostrander No.4
+Otis 1-28-33T2HD
+Otis 2-28-33T2HD
+Otis 28-33-32-29BHD
+Otis 5-28-33BHD
+Otis 6-28-33BHD
+Otten 3H
+Otter 16-16N-12W #1H
+OV Royalty Trust LLC BRK 1H
+OV Royalty Trust LLC BRK 201H
+OV Royalty Trust LLC BRK 8H
+Oxford 2H
+Oxford 3H
+Oxford 4H
+Oxford 503H
+Oxford 5H
+Oxford PSA 1H
+Oyloe 5199 14-26 10T
+oyloe 5199 14-26 11b
+P Bibler 155-99-16-31-30-1H
+P Bibler 155-99-16-31-30-1H3
+P Bibler 155-99-16-31-30-2H
+P Conly 19-15-9 H 002-ALT 07/21/2017
+P. Cullen A Unit 1H
+P&G 4 Reynolds #3H
+Pack 1-35
+Pagoda State 57-13 Unit #1H
+Pagoda State 57-13 Unit #2H
+Pagoda State 57-13 Unit #3H
+Pagoda State 57-13 Unit #4H
+Paletta 6HM
+Paletta 7HM
+Paletta 8HM
+Paletta 9HM
+PALM SH #9
+PALMER UNIT # 2H
+PALMER UNIT # 3H
+PALMER UNIT # 4H
+Paloma Ranch EFS 1H
+Pancho Unit A1H
+Pancho Unit A3H
+Pancho Unit A5H
+Pancho unit B2H
+PAPAYA 10 STATE #502H
+Parham 1R-17H
+Paris 1706 3-28MH
+Paris 1706 4-28MH
+Paris 1706 6-28MH
+Paris 1706 7-28MH
+Paris 1706 8-28MH
+Parker 1H-23
+Parker 6 #1
+Parker 7N 2W 33 #1HX
+Parker Minerals 08-07H
+Parker Minerals 08-08H
+PARKER UNIT # 6H
+PARKER UNIT # 7H
+PARKER UNIT # 8H
+PARKER UNIT # 9H
+Parks 11-15-9 H 001
+PARSHALL 153-1820H
+PARSHALL 158-20H
+PARSHALL 161-2928H
+PARSHALL 164-3332H
+PARSHALL 24-3332H
+PARSHALL 27-3332H
+PARSHALL 28-2928H
+PARSHALL 29-2928H
+PARSHALL 30-1820H
+PARSHALL 31-1820H
+PARSHALL 401-3534H
+PARSHALL 402-3534H
+PARSHALL 403-3534H
+PARSHALL 404-3534H
+PARSHALL 405-3534H
+PARSHALL 406-34H
+PARSHALL 68-1820H
+PARSHALL 69-1820H
+PARSHALL 70-19H
+PARSHALL 71-19H
+PARSHALL 78-20H
+PARSHALL 85-2928H
+PARSHALL 86-29H
+PARSHALL 96-3332H
+PARSHALL 97-3332H
+PARSHALL 98-33H
+Patent Gate 7-6 #4H
+Patent Gate 7-6 1H
+Patent Gate 7-6 XE #1H
+Patsy-Clark Unit 11H
+PATTON MDP1 18 FEDERAL 2H
+PATTON MDP1 18 FEDERAL 3H
+Pauline 1-24_25 36H
+Pauline 2-24_25H
+Pauline 3-24_25H
+Pauline 4-24_25H
+Paulson 36-1 #4H
+Paulson 36-1 #5TFH
+Paulson 36-1 #6H
+Paulson 36-1 #6H
+Paulson 36-1 #7TFH
+Pavich Unit 1H
+Pawlik-Rodriguez 1H
+Paxton #1-20H
+Pea Eye Parker 9H
+Pecos SN 43-31 102H
+Pecos SN 43-31 103H
+Pecos SN 43-31 203H
+Pecos SN 43-31 204H
+Pedlik #10-1H
+PEELER MCM C 2H
+PEELER MCM C 3H
+PEELER MCM C 4H
+PEELER MCM C 5H
+PEELER MCM C 6H
+PEELER MCM F 1H
+PEELER MCM F 2H
+PEELER MCM F 3H
+PEELER MCM F 4H
+PEELER MCM F 5H
+PEELER RANCH EFS 10HA
+Peeler Ranch EFS 11HD
+PEELER RANCH EFS 15HE
+PEELER UNIT I MCM L 4H
+PEELER UNIT I MCM L 5H
+PEELER UNIT I MCM L 6H
+PEELER UNIT II MCM L 1H
+PEELER UNIT II MCM L 2H
+PEELER UNIT II MCM L 3H
+PEELER UNIT II MCM N 5H
+PEELER UNIT II MCM N 6H
+PEELER UNIT III MCM N 2H
+PEELER UNIT III MCM N 3H
+PEELER UNIT III MCM N 4H
+Peggy  1-10H
+PEN-2B-HS
+PEN-2H-HS
+Penelope 2015 1-19H30H
+Penner #12-24
+Perine BIA #1H-3229X
+Perla Negra Fed Com #7H
+Persephone 1H
+PERSEPHONE 42/31 A 4221H
+PERSEPHONE 42/31 B 4222H
+PERSEPHONE 42/31 C 4223H
+PERSEPHONE 42/31 D 4224H
+PERSEPHONE 42/31 E 4231H
+PERSEPHONE 42/31 F 4232H
+PERSEUS 1H
+PERSIMMON 24 STATE COM #201H
+PETROSHALE US 8H
+Pettaway 1
+PGA Unit 35 #3
+PGE Browne P 1H
+PGE Browne P 2H
+PGE Browne P 3H
+PGE DOS G1H
+PGE DOS G2H
+PGE DOS G3H
+PGE DOS G4H
+PGE DOS G5H
+PGE DOS G6H
+Phenix 27_22-16N-11W 1HX
+Phenix 27-16N-11W 2H
+Phenix 27-16N-11W 3H
+Phillips #1-23
+Phipps 2-28/21H
+Piceance 28-01W
+Piceance 28-02W
+Piceance 28-03W
+Piceance 28-04W
+Piceance 28-05W
+Piceance 28-06M
+Piceance 28-06W
+Piceance 28-07M
+Piceance 28-07W
+Piceance 29-01E
+Piceance 29-02E
+Piceance 29-03E
+Piceance 29-04M
+Piceance 29-05M
+Piceance 29-06M
+Piceance 29-07M
+Piceance Fed 28-01M
+Piceance Fed 28-02M
+Piceance Fed 28-03M
+Piceance Fed 28-04M
+Piceance Fed 28-05M
+Piceance Federal 28-05E
+Piceance Federal 28-06E
+Piceance Federal 28-07E
+Piceance Federal 28-08E
+Piceance Federal 28-08M
+Piceance Federal 28-08W
+Piceance Federal 28-09E
+Piceance Federal 28-09M
+Piceance Federal 28-09W
+Piceance Federal 28-10E
+Piceance Federal 28-10M
+Piceance Federal 28-10W
+Piceance Federal 28-11E
+Piceance Federal 28-12E
+Piceance Federal 28-13E
+Piceance Federal 28-14E
+Piceance Federal 28-15E
+Piceance Federal 28-16E
+Piceance Federal 28-17E
+Piceance Federal 28-18E
+Piceance Federal 28-19E
+Piceance Federal 28-20E
+Piceance Federal 28-21E
+Piceance Federal 29-01W
+Piceance Federal 29-02W
+Piceance Federal 29-03W
+Piceance Federal 29-04W
+Piceance Federal 29-05W
+Piceance Federal 29-06W
+Piceance Federal 29-07W
+Piceance Federal 29-08W
+Piceance Federal 29-09W
+Piceance Federal 29-10W
+Piceance Federal 29-11W
+Piceance Federal 29-12W
+Piceance Federal 29-13W
+Piceance Federal 29-14W
+Piceance Federal 29-15W
+Piceance Federal 29-16W
+Piceance Federal 29-17E
+Piceance Federal 29-17W
+Piceance Federal 29-18E
+Piceance Federal 29-18W
+Piceance Federal 29-19E
+Piceance Federal 29-20E
+Piceance Federal 29-21E
+Piceance Federal 29-22E
+Piedmont 1H
+Pike Federal 6-3-2TFH
+Pike Federal 7-3-2TFH
+Piloncillo A 23HC
+Piloncillo A 23HD
+Piloncillo A 23HE
+Piloncillo A 23HF
+Piloncillo A 23HG
+Piloncillo A 23HH
+Piloncillo A 28HA
+Piloncillo A 28HB
+Piloncillo A 28HC
+Piloncillo A 28HD
+Piloncillo A 28HE
+Piloncillo A 41 HW
+Piloncillo A 41 HX
+Piloncillo A 41HY
+Piloncillo A 41HZ
+Piloncillo D 17HA
+Piloncillo D 17HB
+Piloncillo D 17HC
+Piloncillo D 17HD
+Piloncillo D 17HE
+Piloncillo D 17HF
+Piloncillo E 14HA
+Piloncillo E 14HB
+Piloncillo E 14HC
+Piloncillo E 14HD
+Piloncillo E 14HF
+Piloncillo E 14HG
+Piloncillo E 20HA
+Piloncillo E 20HB
+Piloncillo E 20HC
+Piloncillo E 20HD
+Piloncillo E 20HE
+Piloncillo E 20HF
+Piloncillo E 20HG
+Piloncillo E 20HG
+Piloncillo E 44HA
+Piloncillo E 44HB
+Piloncillo E 44HC
+Piloncillo E 44HX
+Pintail 23-26 Fed Com #10H
+Pintail 39 #2
+PINYON PINE C # 3H
+Pirate State #101H
+Pirate U 13-13 #3
+Pirate U 13-13 #4
+Pismo East 35-2-2-2CH
+Pistol 25-8-2H
+PISTOLERO 15 FED #701H
+Pittsburgh 3-7H
+PKY 27&22-14-15 2H ALT
+PKY 27&22-14-15 3H ALT
+PKY 27&22-14-15 4H ALT
+Plummer 2117 #1H-24
+POLE CREEK 113-2215H
+POLE CREEK 145-2536H
+POLE CREEK 176-3427H
+POLE CREEK 177-3426H
+POLE CREEK 508-2214H
+POLE CREEK 531-2536H
+POLE CREEK 532-2531H
+POLE CREEK 555-3410H
+POLE CREEK 566-3411H
+Pollard #2-35W SWD
+Pollard Farm 1806 7-1LOH
+POLO 1603B 3H
+POLO 1604A 1H
+POLO 1604BL 2H
+Poncho 1-3-10BH
+Poncho 1-3-10TH
+Poncho 2-3-10BH
+Poncho 2-3-10TH
+Poncho 5-3-10BH
+Pony Deal Unit A 12 1H
+Poole 5H
+POP UNIT # 4H
+POP UNIT # 5H
+POP UNIT # 6H
+Poplar Gap 51
+POTTS 2X
+Powder Hound Fed 3976-14-23-1SH
+POWELL RANCH 1720 1H
+Powell Ranch 1720 SH
+POWERS 1C-34HZ
+POWERS 1N-34HZ
+POWERS 26N-34HZ
+POWERS 27G-34HZ
+POWERS 27N-34HZ
+POWERS 28C-34HZ
+POWERS 2N-34HZ
+Powers J 7H
+Prancer #18-09-07 1H
+Pratt #34
+Pratt #37
+Pratt #38
+PRCC Fed 04-334071-4XTLH
+PRCC Fed 04-334071-4XTUH
+PRESLEY UNIT # 4H
+PRESLEY UNIT # 5H
+PRESLEY UNIT # 6H
+PRESLEY UNIT # 7H
+PRESLEY UNIT # 8H
+PRICHARD C 3AH
+PRICHARD D  4AH
+PRINCE MCM B 2H
+PRINCE MCM B 3H
+PRINCE MCM B 4H
+PRINCE MCM B 5H
+Prince Rupert Federal #1
+Prince Rupert Federal #2
+Prince Rupert Federal #3
+Privott 17_20-16N-9W 1HX
+PROSERPINA 1H
+Prosper Farms 4-65-2-1 4AH
+Prosper Farms 4-65-2-1 4CH
+PROSSER SW UNN BL 10H
+PROSSER SW UNN BL 2H
+Prudence Unit 1H
+Prudence Unit 2H
+Ptasnik 1-30-9-59
+Ptasnik 2-30-9-59
+Ptasnik 3-30-9-59
+Ptasnik 4-30-9-59
+PTL1 05-08 163-91B
+Puckett 11A-12
+Puckett 11B-12
+Puckett 14C-1
+Puckett 14D-1
+Puckett 21D-1
+Puckett 24A-1
+Puckett 24C-1
+Puckett 24D-1
+Puckett 31C-1
+Puckett 43C-2
+Puckett 43D-2
+Puckett 44D-2
+Puckett SWD E1-797
+Pudge 1-7-6XH
+PUMA FED 13C-35HZ
+PUMA FED 13N-35HZ
+PUMA FED 29C-14HZ
+PUMA FED 30N-14HZ
+PUMA FED 34C-35HZ
+PUMA FED 34N-35HZ
+PUMA FED 4C-14HZ
+PUMA FED 4N-14HZ
+PUMA FED 5S-35HZ
+Pumphouse 32 29-16N-9W 1HX
+Pyote Flats  98-34-2H
+Pysell 1HM
+Pysell 2HM
+Pysell 3HM
+QQQ #26
+Quatre Minerals LLC 1
+Queen 2-24H
+Queen 3-24H
+Queen 4-24H
+Queen 5-24H
+Quill 34-11H
+R & S Trust #1
+R May B 19H
+R May B 20H
+R May B 21H
+R W Pawlik Jr Unit A 201
+R. Killam 1860 #3
+R.W. Pawlik Jr Unit A 1
+R.W. PAWLIK JR. - JACK YOUNG ULW 1
+RAB Davidson 27A 18HF
+RAB Davidson 27A 19HJ
+RAB Davidson 27A 21HK
+RAB Davidson 27A 22HE
+RAB Davidson 27B 23HJ
+RAB Davidson 27B 24HM
+RAB Davidson 27B 25HF
+RAB Davidson 27B 26HK
+RAB Davidson 27B 27HM
+RAB Davidson 27B 28HJ
+RAB Davidson 27C 30HM
+RAB Davidson 27C 31HJ
+RAB Davidson 27C 32HK
+RAB Davidson 27D 33HM
+RAB Davidson 27D 34HJ
+RAB Davidson 27D 35HK
+RAB Davidson 27D 36HM
+RAB Davidson A27C 29HK
+RAB Davidson H2701 16HF
+Rachel 1-26_35H
+Rachel 2-26_35H
+Rachel 3-26_35H
+Rachel 4-26_35H
+Rachel 5-26-35H
+Radermecher 4-22H2
+Radzikowski 17 H 001 04/19/2017
+Raindance FD 20-359HC
+Ralph 0304 1-11-2WXH
+Rambo 2-22
+Rancho Grande 10H
+Rancho Grande 4H
+Rancho Grande 5H
+Rancho Grande 6H
+Rancho Grande 7H
+Rancho Grande 8H
+Rancho Grande 9H
+RANDY JOHNSON 19 AND 19A  4403H
+RANDY JOHNSON 19-19  4203H
+RANDY JOHNSON 19-19  4303H
+RANGER C4-6-14 4301H
+RANGER C4-6-14 4303H
+RANGER C4-7 #1H
+Ranger State 33-20S-35E RN #122H
+Rath Federal 10-22H1
+Rath Federal 11-22H
+Rath Federal 12-22H2
+Rath Federal 13-22H
+Rath Federal 6-22H1
+Rath Federal 7-22H
+Rath Federal 8-22H2
+Rath Federal 9-22H
+Ratliff 28 4213H
+Ratliff 28 4215H
+Ratliff 28 4413H
+Ratliff 28 4415H
+RATTLESNAKE 28 FED COM #704H
+RATTLESNAKE 28 FED COM #706H
+RATTLESNAKE 28 FED COM #707H
+RATTLESNAKE 28 FED COM #708H
+RATTLESNAKE 28 FED COM #709H
+Rayes B 3H
+Rayes B 4H
+Rayes B 5H
+Rayes B Geffert A SA 1H
+Rayes B Gwosdz SA 1H
+Razor 25B-2449
+Razor 25B-2450
+Razor 25B-2451
+Razor 25B-2550
+Razor 25M-2401
+Razor 25M-2402
+Razor 25M-2403
+Razor 25M-2404
+Razor 25M-2434
+Razor 25M-2436
+Razor 25N-2405
+Razor 25N-2406
+Razor 25N-2407
+Razor 25N-2437
+Razor 25N-2438
+Razor 25N-2439
+Razor 26I-2346
+Razor 26I-2347
+Razor Fed 26I-3546
+Razor Fed 26I-3547
+Razorback Unit SE 33-77 #703H (604H
+RCRS Jane #1H
+Reay 1-36-1H
+Reba 2-22-27H
+Reba 4-22 27H
+Reba 5-22_27H
+Rebel 20 Fed 1H
+Rebel 20 Fed 2H
+Rebel 20 Fed 7H
+Rebel 20 Fed 8H
+Red Bluff 13-11H
+Red Bluff 13-3SL
+Red Oak Timber 6-7 HC#1
+Red Ranch EFS 32HC
+Red-1
+REDING UNIT # 2H
+REDING UNIT # 3H
+REDING UNIT # 4H
+Redman BIA 1-28H
+Redwood 21-15N-11W 1H
+REDWOOD A # 1H
+REDWOOD B # 2H
+REDWOOD C # 3H
+Reed 8-1H
+Reed Run Norwich PAD D Well 2512
+Reed Run Norwich PAD D Well 2513
+Reed State 16-21-1H
+Reed State 9-4-1H
+Reeves TXL Fee T7-50-15 5H
+Reeves TXL Fee T7-50-15 6H
+Reeves TXL Fee T7-50-15 7H
+Reid 2-19
+Remington 3C MBH
+Remington 3D UTFH
+Remington 3E MBH
+Renbarger 1H-34
+Renbarger 2H-34
+Renea 1-23-14XH
+Reno 43-71-8B-17-2H
+Repp 34-34H
+Repp Trust 34-9H
+Resh 2-8H
+Retzke 1-25C4- RECOM
+Rex 1-9
+Rex Young 6 H 003 06/05/2017
+Reynolds 2-7H
+RFI A 1H
+RFI B #1H
+Rhino 8_5-14H-9W 1HX
+RHINO HUNTER 2H
+RHINO HUNTER 3H
+RHINO HUNTER 4H
+RHINO HUNTER 5H
+Rice University 301
+Rice University 302
+Rice University 303
+Rice University 304
+Rice University 305
+Rice University 306
+Rice-Black Stone 47-101H
+RICHARD 1H-32
+Richey 2407 1-21H Lateral 1
+Richey 2407 1-21H Lateral 3
+Richmond 4-26H1
+Richmond 5-26H
+Ricky's Ridge 21 16-15N-8W 1HX
+Rieder 18T-221
+RIGHTEOUS 6 STATE COM #301H
+RIGHTEOUS 6 STATE COM #601Y
+RINGO -8-9- / 4413H
+Ringo 10 7 4205H
+Ringo 10 7 4405H
+RINGO 8-9 / 4214H
+RINGO 8-9 / 4415H
+Rippstein Gotthardt 2H
+Rippstein Gotthardt 3H
+Rippstein Gotthardt 501H
+Rippstein Gotthardt 502H
+Ritchey 26-1-19HC
+Ritchey 26-1-20HN
+Ritchey 26-1-21HN
+Ritchey 26-1-22HC
+Ritchie Farms 100H
+Ritchie Farms 102H
+Ritchie Farms 149H
+Ritchie Farms 151H
+Ritchie Farms 153H
+Ritchie Farms 154H
+Ritchie Farms 156H
+Ritchie Farms 158H
+Ritchie Farms 33H
+Ritchie Farms 35H
+Ritchie Farms 37H
+Ritchie Farms 39H
+Ritchie Farms 98H
+Ritter 0604 7-1HW
+RIVER LOWE RANCH #18H
+RIVER LOWE RANCH #19H
+RIVER LOWE RANCH #21H
+RIVER LOWE RANCH #23H
+River Rat Federal 2-23-14H
+River Rat Federal 6-23-14H
+Riverside 8C1-13D
+Riverside 9C2-14D
+RJ Kelly Estate #4
+Roan State 24-51H
+Roath 1H-33X
+ROBB WALTER 1502 1WA
+ROBBIE 17 AND 8 / 4405H
+ROBBIE 2421SH
+Robert 1507 1H-21
+Robert Jones 12046 6H
+Robert Jones 12046 7H
+Robert Jones 12046 8H
+Robert Jones 12046 9H
+Robert LeGrande 29H-1
+ROBERTSON CENTRAL (CLEARFORK) 1261R
+Robertson, George 4
+Rocking G Farms 25 H 001-ALT
+Rocking T 10 H 003-ALT
+Rocking T 10 H004-ALT
+Rocking T 10H #1
+Rocking T 10H #2
+Rocking T 11H001-ALT
+Rodenburg 1509 7H-6X
+Rodenburg 1509 8H-6X
+Roger 0509 2-4H
+Rogers A 1H
+Rogers A 2H
+Rogers A 3H
+Rogers A 4H
+Rogers Foester 2H
+Rogers Foester 3H
+Rogers Foester 4H
+Rogers Foester 5H
+Rogers Foester SA 1H
+Rojean No.3
+Rolla Federal 21-3-1H
+Rolla Federal 21-3-1TFH
+Rolla Federal 21-3-2TFH
+Rolla Federal 21-3-3TFH
+Rolla Federal 31-3-1H
+Rolla Federal 31-3-1TFH
+Rolla Federal 31-3-2TFH
+Rolla Federal 31-3-3TFH
+Rolla Federal 31-3-4TFH
+Rollins 1H
+ROMEO FEDERAL COM #001H
+ROOSEVELT U 21-41
+ROOSTERFISH UNIT 22 1H
+ROOSTERFISH UNIT 22 2H
+ROPES, E. (CLEARFORK) UNIT #118
+Ropes, E. (Clearfork) Unit 113
+Ropes, E. (Clearfork) Unit 219
+Ropes, E. (Clearfork) Unit 222
+ROSBOROUGH 01H
+ROSS 106-0915H
+ROSS 42-0915H
+ROSS 43-0915H
+ROSS DRAW 08 FED #1H
+ROSS DRAW 08 FED #7H
+Rosser #1H-16
+ROTC 36 AND 25-15 2H ALT
+ROTC 36 AND 25-15-16 1H ALT
+Rough Coulee USA 24-22TFH
+ROUND PRAIRIE 27-1523H
+Rowdy 1706 1-23MH
+Roxy 3-20 29H
+Roxy 4-20_29H
+Roxy 5-20 29H
+Roy 03-040-55 B 55H
+Roze 1-33/28H
+RP Thomas 02D
+RU Dilts Fed 04-093972-4XTH
+RU T-55 Fed 26-233972-1XTH
+RU-07B
+Ruby Federal #100H
+Ruby Federal #101H
+RUCKER UNIT # 4H
+Rudd Draw 26-18-5H
+Rudd Draw 26-21-1H
+Rudolph Federal 2H
+RUDOLPH UNIT # 7H
+RUDOLPH UNIT #17H
+Rufous 4779 13-1FH
+Rufus USA 21-4TFH
+RUH 6-62-11-0560B2
+Rumsey Trust #36-1H
+Rumsey Trust #36-25-1H
+RUSH 4-65 29-30 3AH
+Russell 10-3 #1H
+Russell 10-3 #3H
+Russell 10-3 #4H
+Russell 10-3F #2H
+Russell 10-3F XW #1H
+RUSSELL UNIT # 2H
+RUSTLER A UNIT #3H
+RUSTLER A UNIT #4H
+RUSTY ANCHOR 7 FEDERAL 1H
+Rusty Crane 604 1W
+Rusty Crane 604-557 1XH
+Ruth 28-33 #5H
+Ruth Smith #1
+Ruthie 1609 1-15-22MXH
+RVR # 2HR
+RYDEN 7-24H2
+RYDEN 8-24H
+RYDEN 9-24H1
+Sabine 10S-2 1H
+Sable Hunter 4H
+Sable Hunter 5H
+Sable Hunter 6H
+Sabrosky 144-97-6A-7-1H
+Sabrosky 144-97-6A-7-2H
+Sabrosky 145-97-27B-34 4H
+Sabrosky 145-97-34D-27 2H
+Sabrosky 145-97-34D-27 3H
+Sabrosky 145-97-34D-27-1H
+Saddle Butte  21-16MBH-3SH
+Saddle Butte  21-16TFH-2SH
+SALADO DRAW WE 14 FED P5 001H
+Salado Draw WE 14 FED P5 002H
+Salado Draw WE 23 FED P25 001H
+Salado Draw WE 23 FED P25 002H
+Salado Draw WE 23 FED P25 003H
+Salado Draw WE 23 FED P5 001H
+Salado Draw WE 23 FED P5 002H
+Salado Draw WE 24 FED P23 001H
+Salado Draw WE 24 FED P23 002H
+Salado Draw WE 24 FED P23 003H
+Salado Draw WE 24 FED P23 004H
+Salge Kinkler 3H
+Salge Kinkler 4H
+Salge Kinkler 501H
+Salge Kinkler 502H
+SALVADOR A 2
+SALVADOR A 4
+Sam Prewitt 255-256 Unit B 2H
+SAMPLE BAROS UNIT # 5H
+SAMPLE BAROS UNIT # 6H
+San Christoval Ranch Unit B 3H
+SAN JUAN 30-4 UNIT 41B
+SAN PEDRO RANCH 437H
+SAN PEDRO RANCH 837H
+Sanders 8-15-9 H 001 10/03/2016
+Sandra & Sylvia Herrin GU 1 3H
+Sandy Creek 1-18HH
+Sandy Koufax 5-4401H
+Sandy Koufax 5-4403H
+Sarah C-051916
+SARAH LINK 3 13H
+SARCHET 15N-20HZ
+SARCHET 16N-20HZ
+SARCHET 36G-20HZ
+SARCHET 36N-20HZ
+SARCHET 37C-20HZ
+SARCHET 37N-20HZ
+SARCHET 38C-20HZ
+Sauder C #9
+Savage 31B-8
+Savage 31C-8
+Savage 31D-8
+Savage 41B-8
+Savage 41C-8
+Savage 41D-8
+Scanlan 11-5-2H
+Scanlan 11-5-2TFH
+Scanlan 11-5H
+Scanlan 11-5TFH
+Scanlan 42-9-2TFH
+Scanlan 42-9-3TFH
+Scanlan 42-9TFH
+Schaefer 2413-3-15HN
+Schaefer 2536-1-4HC
+Scharbauer, C. 3408M
+Scharbauer, C. 36/37 E 3631H
+Scharbauer, C. 36/37 F 3632H
+Scharbauer, C. 36/37 H 3634H
+SCHARBAURER C 36/37 B 3622H
+Schendel 01 01H
+Schendel Douglas 01 07H
+Schendel Douglas 01 08H
+SCHENDEL- DOUGLAS 01 06H
+SCHENDEL-DOUGLAS  01 05H
+SCHMIDT 16 #3H
+SCHMIDT 16 #4H
+Schmitt #1
+SCHNEIDER HD 11-222HC
+SCHNEIDER HD 11-262HC
+SCHNEIDER HD 11-299HN
+SCHNEIDER HD 11-339HC
+SCHNEIDER UNIT # 8H
+SCHNEIDER UNIT # 9H
+SCHOBE 41-7
+SCHOBE 42-7
+SCHOOL LAND SL-55
+SCHUBERT 18-4H
+Schultz #3
+SCHWARZ 1H-30
+Scipio 1H
+Scorpion E 4275-26-23-1FH
+Scott #1H-23X
+Scott #2
+Scout 1906 1-34MH
+SCRRU-0443SH
+SCRRU-2221BH
+SCRRU-2223BH
+SCRRU-2224BH
+SCRRU-3517BH
+SCRRU-3526SH
+SD WE 15 FED P12 1H
+SD WE 15 FED P12 2H
+SD WE 15 FED P12 3H
+SD WE 15 FED P9 6H
+SDU Tillard Fed 09-043771-1XPH
+Sea Hero 13 State Unit #2H
+Sealy Smith A #103
+Sealy Smith A #105
+SEALY SMITH FOUNDATION 1014
+SEALY SMITH UNIT NO. 198
+SEALY SMITH UNIT NO. 312
+Seattle Slew 42 State Unit #2H
+Seattle Slew 42 State Unit #3H
+Seattle Slew 42 State Unit #4H
+Seattle Slew 42 State Unit #5H
+Seattle Slew 42 State Unit #6H
+Seattle Slew 42 State Unit #7H
+Seedy Draw East Federal 1H
+SEM NS 14-23 01 101H
+SEM NS 14-23 01 1101H
+SEM NS 14-23 01 201H
+SEM NS 14-23 02 102H
+SEM NS 14-23 02 202H
+SERAPHINA 4521 1H
+Sewell #1H-1312X
+SGL 12B North Unit 1H
+SGL 12B North Unit 3H
+SGL 12B South Unit 1H
+SGL 12B South Unit 3H
+SGL 232 A Unit 1H
+SGL 232 A Unit 2H
+SGL 232 A Unit 3H
+SGL 232 A Unit 4H
+SHANNON EFS 6UH
+SHANNON EFS 7UH
+Shannon Estate BB 2602H
+Shannon Estate BB 2603H
+Shannon Estate NE #402H
+Shawn Couch OHI 6H
+Shawnee Fed 3368-27-N3XH
+SHAY #23-7
+SHB 106-08
+SHB 108-08
+SHB 111-11
+SHB 113X-11
+SHB 116-04
+SHB 121-08
+SHB 125-10
+SHB 127X-04
+SHB 14-04
+SHB 16-04
+SHB 16-08
+SHB 18-14
+SHB 19-09
+SHB 19-14
+SHB 201-09B
+SHB 202-09
+SHB 203-09C
+SHB 204-09
+SHB 205-08
+SHB 205-09
+SHB 206-08
+SHB 207-08B
+SHB 207-08C
+SHB 207-09C
+SHB 213-08A
+SHB 213-08B
+SHB 213-09B
+SHB 216-08
+SHB 219-04C
+SHB 219-08A
+SHB 220-08
+SHB 221-04C
+SHB 221-08C
+SHB 221-10A
+SHB 222-08
+SHB 31-08
+SHB 32-09
+SHB 33-09
+SHB 34-08
+SHB 34-09
+SHB 35-08
+SHB 35-10
+SHB 36-15
+SHB 47-09
+SHB 50-08
+SHB 52-08
+SHB 60-08
+SHB 61-08
+SHB 62-08
+SHB 64-04
+SHB 64-08
+SHB 65-04
+SHB 66-04
+SHB 67-08
+SHB 69-04
+SHB 69-08
+SHB 70-04
+SHB 72-10
+SHB 73-10
+SHB 75-22
+SHB 76-04
+SHB 76-08
+SHB 77-04
+SHB 77-08
+SHB 78-08
+SHB 80-04
+SHB 81-08
+SHB 82-09
+SHB 83-14
+SHB 84-14
+SHB 90X-09
+SHB 91-09
+SHB 91-14
+SHB 92-09
+SHB 93-08
+SHB 94-08
+SHB 95-10
+SHELL 003
+SHELL 004
+SHELL 15-2819H
+SHELL 17-2819H
+SHELL 22-2819H
+SHELL 23-2820H
+SHELL 29-2820H
+SHELL 30-2820H
+SHELL 4-1930H
+SHELL 40-3229H
+SHELL 42-3229H
+SHELL 44-3229H
+SHELL 46-3229H
+SHELL 5-1930H
+SHELL 52-1930H
+SHELL 6-1930H
+Sheller, Gene Unit #2H
+Sheller, Gene Unit #3H
+Sheller, Gene Unit #6H
+Sheller, Gene Unit #7H
+Sheller, Gene Unit #8H
+Sherven Trust 27B-2-4H
+Shipman #R1-1MH
+Shiprock 638 3H
+Shire 22 Fed 1H
+Shirley #1-20
+Sholtess #7-3MH
+Shook EFS 11HU
+Shrader 41-13H
+Shull 7-25-9-60
+Shull 8-25-9-60
+Shultz 25-11-3 5H
+Sid M. Kyle 24 E001
+Sid M. Kyle 24 E002
+Sid M. Kyle 24 E003
+Sid M. Kyle 24 F001
+Sid M. Kyle 24 G002
+Sid M. Kyle 26 1-ST
+Sidewinder 33-17N-10W 1H
+Signore North Unit 4H
+Signore North Unit 5H
+SIKA UNIT # 1H
+SIKA UNIT # 2H
+SIMMONS UNIT #5H
+SIMMONS UNIT #6H
+Simpson 151-102-5-8-13H
+Simpson 151-102-5-8-4H
+Sims 43-28
+Sinclair Unit 8B #3HM
+Sir Barton 4 State Unit #1H
+Six J 1&12-14-15 1H Alt
+SJC Land 11-1H
+SJC Land 11-2H
+SJC Land 11-3H
+Skunk Creek 4-10-11-1H
+Skunk Creek 4-10-11-1H3
+Skunk Creek 4-10-11-8H
+Skunk Creek 4-10-11-8H3
+Skywalker #1-4H
+Sleeping Indian A1 1LA
+Slim Honey Cutt 608-5734XH
+Slimer 1707 #1UMH-23
+SMART UNIT # 3H
+SMART UNIT # 4H
+SMART UNIT # 5H
+SMART UNIT # 6H
+Smarty Jones 42 State Unit #2H
+Smokey 2-16-21-15H3
+Smokey 2-16-21-16H
+Smokey 2-16-21-16H3
+Smokey 2-16-21-16HA
+Smokey 2-16-21-16HU3
+Snap B #1H
+Snider EF 1H
+Snowcrest South Unit 1-33 #2H
+SOA SCHARBAUER SE 0041WB
+SOA SCHARBAUER SE 0043WB
+SOA SCHARBAUER SE 0044LS
+SOA Scharbauer SE 42LS
+SOA Scharbauer SW 1704M
+SOL 3-36
+Sondra #8-1H
+SORREL STATE 3875-21-16-1FH
+SOUTH CURTIS RANCH 2343DH
+SOUTH CURTIS RANCH 2819H
+SOUTH CURTIS RANCH 2849SH
+SOUTH CURTIS RANCH 3559SH
+SOUTH CURTIS RANCH 432SH
+South Green #595
+South Green #596
+South Green 597
+SOUTH TEXAS SYNDICATE  D1H
+SOUTH TEXAS SYNDICATE H2H
+South Thomas Lake 43 #1
+SOUTHERN JAZZ 1-23
+SPAHN FARMS UNIT # 8H
+SPAHN FARMS UNIT # 9H
+SPAHN FARMS UNIT #10H
+SPANISH TRAIL 47 HZ UNIT 4717LS
+SPANISH TRAIL 47 HZ UNIT 4721LS
+SPANISH TRAIL 47 HZ UNIT 4723LS
+SPANISH TRAIL 48 HZ UNIT 4826LS
+SPANISH TRAIL 48 HZ UNIT 4826WB
+SPEARMAN 22; HA RA SUNN 1-ALT
+SPEARMAN 22; HA RA SUNN 2-ALT
+SPEARMAN 27; HA RA SUSS 2-ALT
+SPEARS 4-11H
+SPEARS 5-11H
+Speary Family Trust A 1
+SPEEDY 16 STATE COM #501H
+SPLITTER AC #101H
+SPR-PRIME UNIT B 541H
+SPR-PRIME UNIT B 941H
+SPRADLIN UNIT # 2H
+SPRADLIN UNIT # 3H
+SPRADLIN UNIT # 4H
+Spragin #1
+Spring 21-15TFH
+SPROULL 9H
+SPROUSE UT 15-7-3-2-18-19-1H
+SPROUSE UT 15-7-3-2-18-19-3H
+SPROUSE UT 15-7-3-2-18-19-5H
+Squints #1H
+St. Lucia 76 2833 11H
+Stallings Adkins 3732
+STALLINGS DOMINO RETURN 2807 1WA
+STALLINGS DOMINO RETURN 3001 1WA
+STALLINGS DOMINO RETURN 3003 1WA
+STANDIFER 16-21 H
+STANDIFER 16-21 H 002
+Stangeland 4-7H1
+Stangeland 5-7H
+Stangeland 8-7H
+Stangeland 9-7H1
+Stangl 25-16-9 6H
+Stanley Rother 1405 1-27MH
+Stark 10H 11MX
+Stark 44-35TFH
+Stark 9H-1LMX
+STASNEY COOK 88 #301
+Stasney's Cook Ranch "57" #143
+State 02-63-16-1H
+State 34-36-1H
+State 34-36-1TFH
+State 34-36-2H
+State 34-36-2TFH
+State 5913A GG Houston 1H
+State 5913A GG Houston 2H
+State Apache 56-57-T3 1202H
+State Apache 56-57-T3 1401H
+STATE APACHE 56-57-T3 1402H
+STATE APACHE 57 #1110H
+STATE APACHE 57 #1111H
+STATE APACHE 57 #1601H
+STATE APACHE 57 #1611H
+STATE APACHE 57 XL8 #1508H
+STATE ATLAS A #3H
+STATE ATLAS B #4H
+STATE ATLAS C #5H
+STATE ATLAS D #6H
+STATE B&B SISTERS 0833A-143 1H
+State Bierstadt 4-65 35-34 1DH
+State Black Stone 57-T3-36 1H
+State Blake 57-T3-46 #1H
+STATE EILAND Unit 9-33 2H
+STATE FIREFLY 24 UNIT #1H
+State Floyd 33-96 4601H
+State Forest 55-T2-18X19
+STATE GALILEO 7 #14H
+STATE GALILEO 7 #15H
+STATE GALILEO 7 #16H
+STATE HARRISON RANCH 56 #0306H
+STATE HARRISON RANCH 56 #0307H
+STATE HARRISON RANCH 57 #1504H
+STATE JOBE 40-6 UNIT #1H
+STATE JOBE 40-6 UNIT #2H
+STATE JOBE 40-6 UNIT #3H
+STATE JOBE 40-6 UNIT #4H
+State Lazy Acre 57-T2-44 W101H
+State LF 30-4H
+STATE LIBSCOMB 1001H
+State Lost and Found 57-T2-20X17 1H
+STATE MAGELLAN #01H
+STATE MAGELLAN #11H
+STATE MAGELLAN #16H
+STATE MAGELLAN #17H
+STATE MAGELLAN #18H
+STATE MAGELLAN #19H
+STATE MAGELLAN 7 #20H
+STATE MAGELLAN 7 #21H
+STATE MAYFLY UNIT #01H
+STATE MERCURY 7 #15H
+STATE MERCURY 7 #16H
+STATE MERCURY 7 #17H
+STATE NEAL LETHCO  3427-142 2H
+STATE NEAL LETHCO 3405-142 2H
+State Neal Lethco 3427-142-1H
+STATE PATHFINDER #08H
+STATE PATHFINDER #09H
+STATE PATHFINDER #15H
+STATE PATHFINDER #31H
+STATE PATHFINDER #32H
+STATE PATHFINDER #33H
+STATE PATHFINDER #34H
+STATE PATHFINDER 7 #19H
+STATE PATHFINDER 7 #20H
+STATE PATHFINDER 7 #21H
+STATE PATHFINDER 7 #22H
+STATE PATHFINDER 7 #23H
+STATE PATHFINDER 7 #24H
+State Pogo Stick 57 T1 45X4 SA 1H
+State Rudd Draw 26-25-1H
+STATE STREET 20-29 B UNIT #1H
+State Tiemann 56-T2-28 1H
+STATE TRINITY 56-T2-34 W105H
+STATE TRINITY 56-T2-34 W106H
+STATE TRINITY 56-T2-34 W107H
+State University Colt 1H
+STATE VIKING E 7 #11H
+STATE VIKING E 7 #12H
+State Walton E #101
+STATE WHISKEY RIVER 5-8 1H
+State Whiteacre 57-T3-44 1H
+Stay Puft 1707 #1LMH-23
+Steakley 44 14H
+Steakley 4403H
+Steakley 4404H
+Steen A 10H
+Steen A 5H
+Steen A 6H
+Steen A 7H
+Steen A 8H
+Steen A 9H
+Stein A Unit 4H
+Stein B5H
+Stephens 5-36
+STETSON 1H-19X
+STEVE UNIT 2H
+Stevens 7-6HC-1
+Stevens 7-6HC-2
+Stewart 2-19H30
+Stewart 3-19H30
+Stewart 4-19H30
+Stewart 5-19H30
+Stewart Point 10A2-20
+Stewart Point 10B1-29
+Stewart Point 10B2-20
+Stewart Point 10B4-29
+Stewart Point 11A4-20
+Stewart Point 11B1-21
+Stewart Point 11B3-21
+Stewart Point 11D3-20
+Stewart Point 12B3-21
+Stewart Point 12D2-21
+Stewart Point 13A2-21
+Stewart Point 13B1-21
+Stewart Point 14B4-20
+Stewart Point 14D1-20
+Stewart Point 14D2-20
+Stewart Point 15B3-20
+Stewart Point 15D3-20
+Stewart Point 16A1-20
+Stewart Point 16A2-20
+Stewart Point 16B3-20
+Stewart Point 16D4-20
+Stewart Point 1A3-29
+Stewart Point 1B2-29
+Stewart Point 1C3-29
+Stewart Point 2B3-29
+Stewart Point 2C3-29
+Stewart Point 2D1-29
+Stewart Point 3A2-29
+Stewart Point 3A3-32
+Stewart Point 3D2-32
+Stewart Point 4B2-28
+Stewart Point 4C3-28
+Stewart Point 4D3-21
+Stewart Point 5A2-29
+Stewart Point 5C3-21
+Stewart Point 5C4-21
+Stewart Point 5D1-21
+Stewart Point 5D2-21
+Stewart Point 6D2-21
+Stewart Point 7A3-29
+Stewart Point 7B2-29
+Stewart Point 7B4-29
+Stewart Point 8A2-29
+Stewart Point 8C2-29
+Stewart Point 9C4-20
+Stiff Saddle 641-668 1XH
+STILLS UNIT # 3H
+STILLS UNIT # 4H
+Stoller 22-1H
+STOREY UNIT # 2H
+STOREY UNIT # 3H
+STOREY UNIT # 4H
+STOREY UNIT # 5H
+Stormy #10
+Stormy #2 (Perry)
+Stormy #7
+Stormy #8
+Stormy #9
+Stormy 3
+Stormy 4
+STORRIE 1-14
+Story 23-21-20 1H
+Straube Unit A 4
+Straube Unit A 5
+STREETCAR 15 FED #602H
+STREETCAR 15 FED #603H
+STREETCAR 15 FED #702H
+STREETCAR 15 FED #703Y
+Strenk A 10H
+Strenk A 11H
+Strenk A 12H
+Strenk A 14H
+Strenk A 2H
+Strenk A 4H
+Strenk A 5H
+Strenk A 6H
+Strenk A 7H
+Strenk A 8H
+STS 35H
+STS 36H
+STS 37H
+STS South 1H
+STS South 3H
+Stuart 7433
+Stud Horse Butte 17-08
+Stumberg Ranch 53H
+Stumberg Ranch 54H
+Stumberg Ranch 55H
+Stumberg Ranch 56H
+Stumberg Ranch Unit C 10H
+Stumberg Ranch Unit C 1H
+Stumberg Ranch Unit C 2H
+Stumberg Ranch Unit C 3H
+Stumberg Ranch Unit C 4H
+Stumberg Ranch Unit C 5H
+Stumberg Ranch Unit C 6H
+Stumberg Ranch Unit C 7H
+Stumberg Ranch Unit C 8H
+Suess 816-8H
+SUGG A 185 4NM
+SUGG A 185 5NU
+Sugg Farmar 19-6
+SUGG-A-157 3SU
+Suitor 2-13-24-158N-101W
+Suitor 3-13-24-158N-101W
+Suitor 4-13-24-158N-101W
+Sullins #1-4
+Sullivan 102
+Sullivan 10R
+Sullivan 17R
+Sullivan H-1
+Sultenfuss HC4 DIM 4H
+Sultenfuss HC5 DIM 5H
+Sultenfuss HC6 DIM 6H
+Sultenfuss Unit DIM 7H
+Sun Notch 41-32TFH
+Sun Notch 42-32MBH
+Sun Notch 42-32TFH
+SUNFLOWER 24N-17HZ
+SUNFLOWER 25G-17HZ
+SUNFLOWER 40C-17HZ
+SUNFLOWER 40N-17HZ
+SUNFLOWER 7C-17HZ
+SUNFLOWER 7N-17HZ
+SUNFLOWER 8N-17HZ
+SUNSHINE UNIT # 1H
+Susan 2-8H
+Susan 3-8-17H
+Susan 4-8-17H
+Sustainable Forest 29H 001 10/02/2017
+SWAIM 10H
+SWAIM 8H
+Swaim1-14H
+SWEENEY FEDERAL -20-17XH
+Swope 4H
+Swordfish 24 -#1H
+Swordfish 24 #2H
+Swordfish 24 #3H
+SYDNEY UNIT # 3H
+Sympson  11-6H
+Sympson  13-6-7XH
+SYMPSON 4-7H
+T Cosner Fed 204372-2PH
+T-55 193871-VDW
+T-55 Fed 35-023872-1XTH
+T-55 Fed 35-023872-2XTH
+T-55 Fed 35-023872-3XTH
+T-55 Fed 35-023872-4XTH
+T-Y 14
+T. Cosner Fed 29-324372-1XPH
+T. Cosner Fed 29-324372-2XPH
+T. Cosner Fed 29-324372-3XPH
+T. Cosner Fed 29-324372-4XPH
+T&M DE 22-039HC
+T7
+Tabor Unit 1H
+Tabor Unit 2H
+Talladega Unit 2A #1H
+Talladega Unit 2B #2H
+TALLOW 0433 10H
+Tan 1509 4-4-33MXH
+Tan 1509 5-4-33MXH
+Tan 1509 6-4-33MXH
+Tarentaise Federal 12-19H2
+Tat 4-33-28T2HDR
+Tat 5-33-28T2HD
+Tat 7-33-28BHD
+Tat 8-33-28BHD
+Tat USA 14-22H
+TAT USA 34-22H
+Tatum 19-30 H 001
+Tatum 19-30 H 002
+Tatum 19-30 H 003
+Taylor 19-12-26 1HC
+Taylor 1HR-34
+TAYLOR A 14-16 (ALLOC-A) 1RM
+TAYLOR A 14-16 (ALLOC-C) 3RM
+Taylor B 2H
+Taylor B 5H
+Taylor C 4H
+Taylor C 6H
+Taylor C 8H
+Teal Hoskins EFS 1H
+Teal Hoskins EFS 2H
+Teal Hoskins EFS 4H
+Ted #1H-2314X
+TEDDY 1 #4H
+TEDDY 1 #5H
+TEDDY 1 #6H
+Teich C 7H
+Teich C 8H
+Teich C 9H
+TERLINGUA 23 STATE #501H
+Terri Sue 2616 1H-12 A
+Terri Sue 2616 1H-14 C
+Tescher 11-27H
+Testing--- FTSI importing__Lehman B Unit 26H
+Texaco Marathon Unit 1 #1HM
+Texaco-Parish Unit 3 #1HM
+Texaco-Parish Unit 4 #1HU
+Thad 2513 3H-34 D
+Thamin 19-8-36-1H
+Thamin 19-8-36-1H
+THE LIBRARY 1598-5-44D
+Thelma 2-19H
+Thelma 3-19H
+Themer 1706 5-6MH_RED
+Themer 1706 7-6MH_White
+Themer 6-17-6 1H
+THERMO 15C-33HZ
+THERMO 15N-33HZ
+THERMO 16N-33HZ
+THERMO 36N-33HZ
+THERMO 37C-33HZ
+THERMO 37N-33HZ
+THERMO 38C-33HZ
+THERMO 38N-33HZX
+Thiele Unit B 2
+Thistle 102H
+Thistle 117H
+Thistle 138Y
+Thistle Unit 109H
+Thistle Unit 124H
+Thistle Unit 6
+Thistle Unit 94H
+Thomas 13-16N-3E 1MH
+Thomas 36-2406 AL 10 N 02WA
+Thomas 36-2406 AL 11N 02SC
+Thomas 36-2406 AL 12N 04SA
+Thomas 36-2406 AL 13 N 02LA
+Thomas 36-2406 AL 14 N 02MA
+Thomas 36-2406 AL 15 N 05MB
+Thomas 36-2406 AL 16 N 06SC
+Thomas 36-2406 AL 2 N 07MA
+Thomas 36-2406 AL 3N 07BL
+Thomas 36-2406 AL 4N 06BU
+Thomas 36-2406 AL 5 N 07WA
+Thomas 36-2406 AL 6 N 04WA
+Thomas 36-2406 AL 7 N 04BL
+Thomas 36-2406 AL 8 N 02BL
+Thomas 36-2406 AL 9 N 03BU
+Thomas 36-2406 AL1 N 08SA
+Thomas 4101HD
+Thomas 43-4-2H
+Thomas 43-4-2TFH
+Thomas 43-4H
+Thomas 43-4TFH
+THOMAS 6-15-9H 1
+THOMAS CROZIER UNIT # 6H
+THOMAS CROZIER UNIT # 7H
+THOMAS CROZIER UNIT # 8H
+THOMAS UNIT # 9H
+THOMAS UNIT #10H
+Thompson #2-7H
+Thompson 153-95-8D-6-2H
+THOMPSON 153-95-8D-6-3H
+THOMPSON 182 1H
+THOR 21 FED COM #707H
+THOR 21 FED COM #708H
+Thornburg #8
+THREE MILE UNIT / 12-2-29-21
+Three Sisters 01 29H
+Three Sisters 01 30H
+Three Sisters 01 34H
+Three Sisters 01 35H
+Three Sisters 01 36H
+Three Sisters 01 37H
+Three Sisters 01 39H
+THREEMILE / 16-17
+Thronson 4-21H1
+Thronson 5-21H
+THUNDER UNIT # 1H
+Thunder-Rother 30-15N-9W 1H
+THUNDERBOLT STATE 1H
+Thundering Herd BP - H2
+Thundering Herd BP - H3
+Tiberius 1H
+TIBURON 7-2917H
+TIETJEN 1H
+Tietz 5
+Tiger SN 245-252 204H
+Tiger SN 245-252 504H
+Tiger SN 245-252 804H
+Tiger Unit SN 245-252 102H
+Tiger Unit SN 245-252 201H
+Tiger Unit SN 245-252 202H
+Tiger Unit SN 245-252 205H
+Tiger Unit SN 245-252 502H
+Tiger Unit SN 245-252 5502H
+Tiger Unit SN 245-252 602H
+Tiger Unit SN 245-252 802H
+Tillie Ann A 2H
+Tillie Ann A 3H
+Tillie Ann A 4H
+Tillie Ann A AC 3H
+Tim Tam 24 A #2H
+Tim Tam 24 B #3H
+Tim Tam 24 C #4H
+Tim Tam 24 D #5H
+Tim Tam 24 E #6H
+Timbro Ranch 1-3-9-59
+Tip 1H-8X
+TIPI V 2-13-12TH
+TIPI V 3-13-12BH
+TIPI V 3-13-12T2H
+TIPI V 3-13-12TH
+TIPI V 4-13-12BH
+TIPI V 5-13-12BH
+Tisdale Unit 56-8 1H
+TISH 46-031AH
+TL McCrary 14-11 H 009
+TL McCrary 23-26 H 001
+TL McCrary 23-26 H2
+TLC 1H
+TLC 2H
+TLC 4H
+TM DEMPSEY 28-03 6H
+TNT EAST 6H
+TOCQUIGNY H5 TA
+TOCQUIGNY H6 TA
+Tomahawk #7-1H
+Tompkins 21B-08-07-95
+Tompkins 31C-08-07-95
+Tompkins 41C-08-07-95
+Tonto North 390 #1
+Tony 1-17
+Tooke 35-26 2
+Tooke 35-26 HC #1
+Torralba 10-5-8 IH
+TOWNSEND # 3H
+TOWNSEND # 4H
+TOWNSEND # 5H
+TOYAH 4-9-1N 11H
+TOYAH 4-9-2N 12H
+Tract 596 PAD B Well #2655
+TREES RANCH 14  4301H
+TREES RANCH 14 4101H
+Trees Ranch 65 64 4307H
+TREES STATE 10-9  4301H
+TREES STATE 10-9 4102H
+Trees State 14-15 4301H
+Trees State 16 4311H
+Trees State 16 4511H
+Tres Equis State #6H
+TREX 1H
+Tri State Trucking PA 42-26
+Tri State Trucking PA 442-26
+Trick 1706 1-2MH
+Trigger 40 6H
+Trinity 155-102-23-14-7H
+Trinity 155-102-23-14-8H
+Trinity State 8 1H
+Triple B Land and Timber #1
+Triste Draw 25 Fed #5H
+Trixie 2513 3H-23 B
+Trotter 14-23H
+TSRH 28S #1HM
+TSRH 28S #2HL
+TSRH 28S #3HL
+Tucker 31-30 HC 1 ALT
+Turman 101H
+Turman 102H
+Turman 103H
+Turman 104H
+Turman 105H
+TURNBERRY 2701 1WA
+TURNBERRY 2703 1WA
+TURNBERRY TALON 2705 WA
+Turnbull Unit D 15H
+Turnbull Unit D 16H
+Turnbull Unit D 501H
+Turnbull Unit D 502H
+TURNER A GENTRY 2101 1WA
+Twin Oaks 1-5-8XH
+Two Mile Prairie 30H 1
+TXL `43` 12
+TXL 21G 2HJ
+TXL 21G 3HK
+TXL 21G 4HM
+TXL 21G 5HJ
+TXL 21G 6HK
+TYLER RANCH EFS 1H
+TYLER RANCH EFS 2H
+TYLER RANCH EFS 3H
+TYLER RANCH EFS 4H
+TyTex 41-42 1H
+U80
+UL 18 DYK #1H
+UL 18 Dyk #2H
+UL 20 Flathead #2H
+UL 20 Pitchfork #2H
+UL 20 Sugarloaf 1H
+UL 20 Tensleep 1H
+UL 21 YELLOWTAIL #1H
+UL 23 MERCURY 1H
+UL 24 Voyager #2H
+UL MS HZ BLK 6 Unit 4106
+ULRICH B 1H
+ULT 3.5-6-4-2E-H1
+UNDERWOOD B  2H
+Underwood B1H
+Underwood C 1H
+UNIV 11 SEC 11F 06
+UNIV 11 SEC 11G 01
+UNIV 11 SEC 2E 10
+University 10 2703H
+University 10 2704H
+UNIVERSITY 14Q  1H
+University 14Q 2H
+University 3-35 #102HB
+University 3-35 #103HB
+University 3-35 #104HB
+University 3-35 101HB
+UNIVERSITY 35 6H
+University 41-01 EH
+University 41-01 FH
+University 41-01-DH
+University 41-01-GH
+University 41-01-HH
+University 41-01-IH
+University 41-02 JH
+University 41-02 KH
+University 41-02 LH
+University 41-02-DH
+University 41-02-FH
+University 41-02-GH
+University 41-02-IH
+University 41-10 JH
+University 41-10 KH
+University 41-10 LH
+University 41-14 AH
+University 41-14 BH
+University 41-14 CH
+University 41-14 DH
+University 43-23 HH
+University 43-23 IH
+University 43-23 JH
+University 43-23 KH
+University 45 #8
+UNIVERSITY 7-0213 N 02SA
+UNIVERSITY 7-0213 N 03SC
+UNIVERSITY 7-0213 N 04SA
+UNIVERSITY 7-0213 N 05SC
+UNIVERSITY 7-0213 N 06SA
+UNIVERSITY 7-1726 S 06SS
+UNIVERSITY 7-1726 S 07SS
+UNIVERSITY 7-1726 S 08SS
+University 7-1726 S 11SS
+University 7-1726 S 13SS
+UNIVERSITY 7-2730 N 04MA
+UNIVERSITY 7-2730 N 04SB
+UNIVERSITY 7-2730 N 05SC
+UNIVERSITY 7-2730 N 06MB
+University 7-2730 N 09MB
+University 7-2730 N 09SA
+University 7-2730 N 10SC
+University 7-2730 N 11MA
+University 7-2730 N 14MA
+University 7-2730 N 15SC
+University 7-2730 N 16MB
+University 7-2730 N 16SA
+UNIVERSITY 7-2730 S 02LD
+UNIVERSITY 7-2730 S 02MB
+UNIVERSITY 7-2730 S 02SC
+UNIVERSITY 7-2730 S 03SA
+University 7-2730 S 06SA
+University 7-2730 S 07MA
+University 7-2730 S 07SB
+University 7-2730 S 08SC
+UNIVERSITY 7-2730 S 11SA
+UNIVERSITY 7-2730 S 12MB
+UNIVERSITY 7-2730 S 12SC
+UNIVERSITY 7-2730 S 13SA
+University 8-24 JH
+University 8-24 KH
+University 8-24 LH
+University 8-24 MH
+University 8-24 NH
+University 8-24 OH
+University 8-24 PH
+University 8-24 QH
+University 8-24 RH
+University Blk 20 1307H
+University Central 01-12 AH
+University Central 01-12 BH
+University Central 01-12 CH
+University Central 01-12 DH
+University Central 01-12 IH
+University Central 01-12 JH
+University Central 01-12 KH
+UNIVERSITY CENTRAL 08-10 AH
+UNIVERSITY CENTRAL 08-10 BH
+UNIVERSITY CENTRAL 08-10 CH
+University Central 11-35 AH
+University Central 11-35 BH
+University Central 11-35 CH
+University Central 11-35 DH
+University Central 11-35 EH
+University Central 11-35 FH
+University JV 14 3H
+University JV 14 8H
+UNIVERSITY LANDS HB-1H
+University Taylor Draw 30-1
+University Thorough 1H
+URBANCZYK UNIT # 7H
+URBANCZYK UNIT # 9H
+US11 F08
+US11-F01
+US13 - B06
+USA 153-95-22D-15-4H
+USA 153-95-9C-4-3H
+USA 153-96-24C-13-2H
+USA 153-96-24C-13-3H
+USA 153-96-24C-13-4H
+USA 153-96-24D-13- 5H
+USA 153-96-24D-13-6H
+USS Intrepid State 1H
+Uszynski-Furlow D 3H
+Ute Tribal 11-7-4-3E
+UTE TRIBAL 11-7-4-3E
+UTE TRIBAL 13-13 3-1W-H1
+UTE TRIBAL 14-28-3-2E-H1
+Ute Tribal 15-10-4-2E
+Ute Tribal 2-13-4-2E-H1
+Ute Tribal 2-22-27-3-2E-H1
+UTE TRIBAL 2-23-3-1W
+UTE TRIBAL 2-23-3-1W-H1
+Ute Tribal 2-24-3-1W-H1
+UTE Tribal 3-24-3-1W
+Ute Tribal 4-23-3-1WE-H1
+Ute Tribal 9-1-12-4-2E-H1
+UTL 4443-21 2H
+V-530333
+V-530341
+V80
+V80A
+V81
+V81A
+Vagrant 38A-3H
+Vagrant 38B-4H
+Valyn Clara A 1H
+Valyn Clara A 2H
+Valyn Clara A 3H
+Valyn Clara B 1H
+Valyn Clara B 2H
+Valyn Clara B 3H
+Van Doo Dah 33 Fed 3H
+VAN HOOK 22-3606H
+VAN HOOK 36-35H
+VAN HOOK 39-3526H
+VAN HOOK 44-3626XH
+VAN HOOK 46-3626H
+VAN HOOK 47-3626H
+VAN HOOK 48-3626H
+VAN HOOK 66-3606H
+VAN HOOK 67-3606H
+VAN HOOK 68-3606H
+VAN HOOK 70-1411HX
+VAN HOOK 71-1411HX
+VAN HOOK 73-1411H
+VAN HOOK 74-14H
+VAN HOOK 75-1514H
+VAN HOOK 76-15H
+VAN HOOK 78-15H
+VAN HOOK 79-15H
+Vance 44-9H
+Vance 44-9TFH
+Vaughn #1-16H
+Vaughn 1H 
+Vaughn 2H 
+Vaughn 3H 
+Vaughn 4H
+VC-501848
+VC-501864
+VC-502394
+VC-502481
+VC-503365
+VC-531576
+VC-535613
+VC-535886
+VC-536321
+VC-536337
+VC-536361
+VC-536367
+VC-536370
+VC-536432
+VC-536524
+VC-536550
+VC-536575
+VC-536609
+VC-537047
+VC-537193
+VC-537946
+VC-538948
+VC-538955
+VC-551143
+VC-701989
+VC-703172
+VC-704523
+VC-751108
+VCI-530406
+VCI-530411
+VCI-530415
+VCI-530416
+VCI-530417
+VCI-530418
+VCI-530419
+VCI-530420
+VCI-530421
+VCI-530422
+VCI-530423
+VCI-530424
+VCI-530425
+VCI-530426
+VCI-530427
+VCI-530428
+VCI-530429
+VCI-530430
+VCI-530431
+VCI-530432
+VCI-530433
+VCI-530434
+VCI-530435
+VCI-530436
+VCI-530438
+VCI-530439
+VCI-530440
+VCI-530441
+VCI-530442
+VCI-530443
+VCI-530444
+VCI-530445
+VCI-530446
+VCI-530447
+VCI-530449
+VCI-530450
+VCI-530451
+VCI-530452
+VCI-530453
+VCI-530454
+VCI-530456
+VCI-530457
+VCI-530458
+VCI-530459
+VCI-530460
+VCI-530461
+VCI-530462
+VCI-530463
+VCI-530464
+VCI-530465
+VCI-530466
+VCI-530467
+VCI-530468
+VCI-530469
+VCI-530470
+VCI-530471
+VCI-530472
+VCI-530473
+VCI-530474
+VCI-530483
+VCI-531316
+VCI-531502
+VCI-531503
+VCI-531598
+VCI-531600
+VCI-531608
+VCI-531625
+VCI-531626
+VCI-531628
+VCI-531636
+VCI-531642
+VCI-536362
+VCI-537260
+VCI-537312
+VCI-537324
+VCI-537325
+VCI-537326
+VCI-537335
+VCI-537355
+VCI-537358
+VCI-537359
+VCI-537365
+VCI-537368
+VCI-537369
+VCI-537490
+VCI-537504
+VCI-537513
+VCI-537597
+VCI-538254
+VCI-538311
+VCI-538428
+VCI-538438
+VCI-538439
+VCI-538442
+VCI-538558
+VCI-538590
+VCI-538604
+VCI-538782
+VCI-538847
+VCI-538866
+VCI-538947
+VCI-538971
+Veeder 4B TFH
+Veeder 4C MBH
+Veeder 4D-MTFH
+Veeder 4E MBH-ULW
+VELTA JUNE 1H-34LM
+VELTA JUNE 2H-34LM
+VELTA JUNE 3H-34LM
+VELTA JUNE 6H-34LM
+VELTA JUNE 7H-34UM
+VELTA JUNE 8H-34UM
+VELTA JUNE 9H-34UM
+Venus 1H
+Verona 2-23-14XH
+Verona 3-23-14XH
+Verona 4-23-14XH
+Verona 5-23-14XH
+Verona 7-23-14XH
+Verona 8-23-14XH
+Veronica USA 14-22TFH
+Veruca 2006 1-18MH
+Vesper Unit I DIM F 1H
+Vesper Unit I DIM F 2H
+Vesper Unit II DIM G 1H
+Vesper Unit II DIM G 2H
+Vesper Unit II DIM G 3H
+VESPUCCI 903B 03H
+VESPUCCI 904A 1H
+VESPUCCI 904BL 2H
+VESPUCCI 905A 1H
+VESPUCCI 905B 2H
+Viersen 21-17N-11W 1H
+VINEYARD HZ B UNIT0601LS
+VINEYARD HZ B UNIT0601MS
+VINEYARD HZ B UNIT0601WA
+Vinson 2-22x27H
+Vinson 3R-22X27H
+VINSON UNIT #101H
+VINSON UNIT #102H
+VINSON UNIT #103H
+Virgie 2-21-28H
+Virgie 3-21-28H
+Virgie 4-21-28H
+Virgil 35-21-19 1HC
+Virginia Lee #1H
+Voigt 11-15H
+Volga 1HB
+VOYAGER 15 #4H
+VOYAGER 15 #5H
+VOYAGER 15 #6H
+VOYAGER 15 #7H
+VOYAGER 15 #8H
+VYNCKIER 15C-29HZ
+VYNCKIER 15N-29HZ
+VYNCKIER 36C-29HZ
+VYNCKIER 36N-29HZ
+W & W Farms 33-15-9H 1
+W Lybrook Unit  713H
+Waerstad 003 02/29/2016
+Waggoner 4N1 #19EL
+Waggoner B #5004
+Waggoner DN #24
+Waggoner DN #25
+Waggoner DR #6
+Waggoner DR #8
+Waggoner Minnas Creek A-12
+Waggoner Minnas Creek J-1
+Waggoner UN #17
+Waggoner W #27A
+Waha 4311H
+Waha 4313H
+Waha 4315H
+Walasik Terry Unit 1H
+Walasik Terry Unit 2H
+Walasik Terry Unit 3H
+Walasik Terry Unit 4H
+Walasik Terry Unit 5H
+Walasik Terry Unit 7H
+Walasik Terry Unit 8H
+Walbridge #1H
+WALD RANCH FEDERAL 1-27-22XH
+WALDRON SABRE 1802 1WA
+WALDRON SABRE 1804 1WA
+WALDRON SABRE 1806 1WA
+WALDRON SABRE 1808 1WA
+WALDRON T-BIRD 1313 LS
+Walker SU J 1H
+Walrus 1506 1-36MH
+Walters #13-1H
+WALTERS 1915 1H-22X
+Wapiti 12-17 #4H
+War Hammer 25 Federal Com W1 3H
+Wareing A 4H
+WARHAWK 1923SH
+Warren 1-30-29XH
+Wassman A Unit 6H
+WATERMELON UNIT # 1H
+Watkins 28
+Watkins 29
+Watts #1H-0136X
+Wayne Robbins A #7
+WAYZETTA 400-3019H
+WAYZETTA 96-3019H
+WAYZETTA 97-3019H
+WAYZETTA 98-3019H
+WAYZETTA 99-3019H
+WB 12C2-24D
+WBC UNIT # 8H
+WBC UNIT # 9H
+WBC UNIT #10H
+WBC UNIT #11H
+Weaver 1-30-19XH
+Weber 26 C001
+Weber 26 G001
+Weber 26 G002
+Wefler N U2H ST03
+Wefler S U4H
+Weikel A 2H
+Weikel A 3H
+Weikel A 4H
+Weikel A 5H
+Weikel A 6H
+Weikel A 7H
+Weikel A 8H
+Wentz 1H
+Wentz 2H
+Wenzel 2515 1H-03 A
+Wenzel 2515 1H-10 A
+Werner Fed 32-293668-2XTPH
+Werner Fed 32-293668-3XTPH
+Wessendorf A Unit 16H
+Wessendorf A Unit 17H
+Wessendorf A Unit 18H
+Wessendorf A Unit 2H
+Wessendorf A Unit 3H
+Wessendorf A Unit 4H
+Wessendorf A Unit 5H
+Wessendorf A Unit 6H
+Wessendorf A Unit 7H
+Wessendorff A 1H
+West Grama Ridge 8-5 Fed Com #2H
+WEST PENA A UNIT12H
+WEST PENA A UNIT14H
+WEST PENA A UNIT15H
+WEST PENA A UNIT16H
+WEST PENA A UNIT17H
+Westdale RX 29 32 001-ALT
+Westdale RX 29-32 H 002-ALT
+Westdale RX 29H 001 - Alt
+Western Skies 600-645 1XH
+Western Skies 600-645 2XH
+Westview 1-8
+WHEAT JAMES J. 1
+Wheeler #14
+WHIRLING WIND 11 FED COM #702H
+WHIRLING WIND 11 FED COM #703H
+WHIRLING WIND 11 FED COM #704H
+WHIRLING WIND 14 FED COM #701H
+Whiskey River 19.5B-8-1H
+WHISKEY RIVER 3-8 1H
+Whiskey River 6-8 1H
+Whiskey River 98-34-2H
+WHISPER ROCK 10N-25HZ
+WHISPER ROCK 1C-25HZ
+WHISPER ROCK 2C-25HZ
+WHISPER ROCK 3N-25HZ
+WHISPER ROCK 4C-25HZ
+WHISPER ROCK 4N-25HZ
+WHISPER ROCK 8N-25HZ
+WHISPER ROCK 9N-25HZ
+WHISTON 10N-33HZ
+WHISTON 15N-33HZ
+WHISTON 16N-33HZ
+WHISTON 20N-33HZ
+WHISTON 23C-33HZ
+WHISTON 24C-33HZ
+WHISTON 25N-33HZ
+WHISTON 39C-33HZ
+WHISTON 40N-33HZ
+WHISTON 9N-33HZ
+Whitaker 9-4HC #1
+Whitaker 9-4HC #2
+WHITE # 5H
+WHITE # 6H
+WHITE # 7H
+WHITE # 8H
+White 1-13
+White 1607 1-13OH
+White City 31 Fed #2
+White City 31 Fed #3
+White City 31 Fed #4
+White Oak 2206 #1UMH-36
+White Rock Federal 1H
+White Thornton (Allocation) 1H
+WHITNEY BRUNSON UNIT #2H
+WHITNEY BRUNSON UNIT #3H
+WHITNEY BRUNSON UNIT #4H
+WHITNEY BRUNSON UNIT #5H
+WHITNEY UNIT #101H
+WHITNEY UNIT #102H
+WHITTENBURG 11-LS
+WHITTENBURG 11MS
+Whitwell I Unit 51H
+Whitwell I Unit 53H
+Whitwell I Unit 55H
+Whitwell K Unit 57H
+Whitwell K Unit 59H
+WHOMBLE 1-6
+WICKED 17 STATE COM #301H
+Widges 28-16N-7W
+Wiebener 2515 1H-01 C
+Wiebener 2515 1H-12 B
+Wilcox #2-17MH
+Wile E Coyote State 40-7H
+Wile E Coyote State 40-8H
+Wile E Coyote State 40-9H
+Wiley 4-25H2
+Wiley 5-25H
+Wiley 6-25H1
+Wiley 7-25H
+Wilkinson 1-2-11XH
+WILKINSON RANCH D 34-1 4209H
+Will #2
+Will #3
+Will #4
+Will Rogers 4-3 Unit A 1H
+Willeke Unit B 2
+William 1H-14X
+William McLin IV #1-4
+William Ritchea WTZ 610H
+William Schultz 626-7H
+William Witten H1
+Williams #1H-3106X
+Williamson 2107 #1UMH-19
+Willie Left Hand BIA 1-5H
+Wilson #1160-29-22
+Wilson 3-23H
+Wilson 4-23H
+WILSON 7-18 HC 1- Alt
+WILSON 7-18 HC 2- Alt
+WILSON 7-18 HC 3-Alt
+WILSON B-E 1HA
+WILSON B-E-C 2HA
+WILSON RANCH 13N-27HZ
+WILSON RANCH 32N-N27HZ
+WILSON RANCH 33C-27HZ
+WILSON RANCH 34C-27HZ
+WILSON RANCH 34N-27HZ
+WILSON RANCH 5C-27HZ
+WILSON RANCH 5N-27HZ
+Windham 11A 1HF
+Windham 11A 2HE
+Windham 11B 3HF
+Windham 14A 3HE
+Windham 14B 4HC
+Windham 14B 5HF
+Windham 14B 6HK
+Windham 14G 1HM
+Windham 14G 2HJ
+Windham 14X 3HK
+WINDY 166-3427H
+WINDY 212-3410H
+WINDY 556-3427H
+WINDY 559-3427H
+WINDY 560-3427H
+WINDY 594-3410H
+Winfrey #6
+Winfrey #7
+Wingnut A 5H
+Wingnut A 6H
+Wingnut A 7H
+Wingnut A 8H
+WINN 2-21-3-1E-H1
+Winslow 5H
+Winslow 6HU
+WINTER 5-20 1
+Winter Creek 0606 1-25-24MXH
+WINWOOD UNIT # 3H
+WINWOOD UNIT # 4H
+WINWOOD UNIT # 5H
+WINWOOD UNIT # 6H
+WINWOOD UNIT #13H
+WINWOOD UNIT #14H
+WINWOOD UNIT #15H
+WINWOOD UNIT #16H
+Wissler South 1H
+Witherspoon 26-23 State Com 1H
+WM & AGNES SCOTT 14-25H
+WNH JR CO 3H
+WNH JR CO 4H
+WOLD 16-7TFH
+Wolfe 33-16N-11W 1
+Wood State 57-26 Unit B-2H
+Wood State 57-26 Unit B-4H
+Wood State 57-26 Unit C-3H
+Wood State 57-26 Unit E5-H
+Wood State 57-26 Unit F-6H
+Wood State 57-26 Unit G-7H
+Woolfolk #1H-1720X
+Woolfolk #2H-1720X
+Word 1-30H
+Word 2-30H
+Word 3A-30H
+WORSHAM 42 039
+WP-D004-2 ECGS 6-21
+WP-D005-1
+WPD005-1
+WPD006
+WPD007-2
+WPD009-1
+WPD010-1
+WPD011-2
+WPX Escavada UT #314H
+WQaggoner DR #5
+Wright D #1
+Wright, W. 1H
+Wright, W. 2H
+Wright, W. 6H
+WTG 5-234 #1HM 
+Wurtsbaugh 25&24HC 1-ALT
+Wurtsbaugh 26H 1-ALT
+WWBFOD 1H
+WWBFOD 2H
+WWBFOD 3H
+WWBFOD SA #1H
+Wyatt Earp 22-21 UNIT A 2HL
+WYCHE 18-7 H 001
+Wyckoff 2017 #1H-5
+X45A
+Y47
+YA 11R
+YA-21R
+YA-80
+YA-94
+Yarbrough 110H
+Yarbrough 111H
+Yarbrough 112H
+Yarbrough 113H
+Yarbrough 114H
+Yarbrough 114H
+Yarbrough 115H
+Yarbrough 116H
+YEARWOOD 18 H 001-ALT 11/19/2017
+Yeary 38-1
+Yellow Jack SENW #1
+YMC 9-1H
+Yoder 2H
+Yoder Unit 3H
+Yonker, George 11360 Unit #10H
+Yonker, George 11360 Unit #12H
+Yonker, George 11360 Unit #6H
+Yonker, George 11360 Unit #7H
+Yonker, George 11360 Unit #8H
+Yonker, George 11360 Unit #9H
+Yonkin Unit 1H
+Yonkin Unit 3H
+Yonkin Unit B 1H
+Yost 16072-8MH
+Yost 16073-8MH
+Yost 2 15N-10W 1H
+YOUBERG RU 314-7
+Youberg RU 322-7
+Youberg RU 411-7
+Youberg RU 421-7
+Youberg RU 512-7
+YOUBERG SR 444-12
+YOUBERG SR 542-12
+YOUNG 2123 AR
+Young 4-6C4 RECOM
+YP 1-2
+YP 35-12
+Z&T 20 F001
+Z&T 20 G002
+Z&T 20 G003R
+Z&T 20 G004
+Z&T 42 G002AH
+Z&T 42 G003
+Z&T 42 G005
+Zaeske Eckols 6H
+Zaeske Eckols 7H
+Zalac 5H
+Zalac 6H
+Zalac 7H
+Zalac Unit 10H
+Zalac Unit 11H
+Zalac Unit 8H
+Zalac Unit 9H
+Zebra #6H
+Zebra #7
+Zebra State 10-13H
+Zediker Station 11784 Unit #10H
+Zediker Station 11784 Unit #11H
+Zediker Station 11784 Unit #5H
+Zediker Station 11784 Unit #6H
+Zediker Station 11784 Unit #7H
+Zediker Station 11784 Unit #8H
+Zion 148-95-2B-11H
+Zoe 2-5H
+Zoe 3-5H
+Zoe 4-5H
+Zoe 5-5H
+Zum Mallen 1307 2-21MH
+ZUMA 3 SL W101DM
